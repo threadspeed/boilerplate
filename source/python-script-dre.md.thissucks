@@ -1,0 +1,44 @@
+---
+title: python script dre.thissucks (snippet)
+date: 2020-03-03
+tags: ["python"]
+---
+Python script 'dre.thissucks'
+
+Functions in program: 
+* `def comment(bot, trigger):`
+
+Modules used in program: 
+* `import random`
+* `import willie`
+
+## python dre.thissucks
+
+Python mysql example: dre.thissucks
+
+```python
+# -*- coding: utf-8 -*-
+import willie
+from willie import module
+import random
+
+
+@module.rule('.*forgot.*')
+@module.rule('.*remember.*')
+@module.rule('.*forget.*')
+@module.rule('.*remind.*')
+def comment(bot, trigger):
+    if trigger.nick is "willmoogle":
+        return;
+    responses = ['I\'d just like to remind you all about Dre.',
+                 'Whilst we\'re on the subject of memories, Might I suggest we all take a moment to recall Dre?']
+    bot.say(random.choice(responses))
+
+
+
+```
+
+## Python links
+
+- Learn Python: https://pythonbasics.org/
+- Python Tutorial: https://pythonspot.com

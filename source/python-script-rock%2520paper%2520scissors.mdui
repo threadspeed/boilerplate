@@ -1,0 +1,126 @@
+---
+title: python script rock%2520paper%2520scissorsui (snippet)
+date: 2020-03-03
+tags: ["python"]
+---
+Python script 'rock%2520paper%2520scissorsui'
+
+
+## python rock%2520paper%2520scissorsui
+
+Python mysql example: rock%2520paper%2520scissorsui
+
+```python
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {768, 1024}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{120, 324}, {402, 89}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{309, 496}, {150, 32}}",
+          "uuid" : "A0203288-70D7-4EED-A389-9FD93E2DFD04",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "retry_label",
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{268, 101}, {200, 32}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 17,
+          "frame" : "{{284, 496}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "DE2C8C3D-3AF5-4755-91AF-AE43765903BF",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "ask_textfield",
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{229, 195}, {184, 84}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "button_selected",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "GO",
+          "uuid" : "BFDCA7A9-13A7-4680-8E8E-CA873F9D8D5D",
+          "class" : "Button",
+          "name" : "go_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{120, 446}, {396, 86}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{309, 496}, {150, 32}}",
+          "uuid" : "B871527B-30B0-4147-B101-7377638F7AFE",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "answer_label",
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{37, 93}, {213, 55}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{309, 496}, {150, 32}}",
+          "uuid" : "E80C8829-BFA3-44B6-97B9-3A3933317D47",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Rock, Paper, or Scissor?",
+          "name" : "ask_label",
+          "font_name" : "<System>"
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
+
+```
+
+## Python links
+
+- Learn Python: https://pythonbasics.org/
+- Python Tutorial: https://pythonspot.com
