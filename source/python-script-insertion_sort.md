@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python insertion sort
 
-Python mysql example: insertion sort
+Python example: insertion sort
 
 ```python
 import time

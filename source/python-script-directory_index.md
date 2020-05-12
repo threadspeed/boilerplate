@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python directory index
 
-Python mysql example: directory index
+Python example: directory index
 
 ```python
 #!/usr/bin/python

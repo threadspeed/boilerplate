@@ -8,7 +8,7 @@ Python script 'game'
 
 ## python game
 
-Python mysql example: game
+Python example: game
 
 ```python
 """ Game """

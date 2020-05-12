@@ -8,7 +8,7 @@ Python script 'python special method'
 
 ## python python special method
 
-Python mysql example: python special method
+Python example: python special method
 
 ```python
 __call__ #class의 객체가 함수처럼 호출될때 실행하는 메소드

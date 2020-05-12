@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python dodgelvl1
 
-Python mysql example: dodgelvl1
+Python example: dodgelvl1
 
 ```python
 import turtle

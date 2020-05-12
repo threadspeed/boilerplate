@@ -8,7 +8,7 @@ Python script 'Guerrero'
 
 ## python Guerrero
 
-Python mysql example: Guerrero
+Python example: Guerrero
 
 ```python
 from Proyecto_final.Player import Player

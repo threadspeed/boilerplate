@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python Seminararbeit Lineare%2520Suche V1
 
-Python mysql example: Seminararbeit Lineare%2520Suche V1
+Python example: Seminararbeit Lineare%2520Suche V1
 
 ```python
 

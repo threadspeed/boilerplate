@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python graphtest
 
-Python mysql example: graphtest
+Python example: graphtest
 
 ```python
 import random

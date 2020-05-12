@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python shuffle3
 
-Python mysql example: shuffle3
+Python example: shuffle3
 
 ```python
 import random

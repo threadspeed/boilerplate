@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python pineaplle
 
-Python mysql example: pineaplle
+Python example: pineaplle
 
 ```python
 

@@ -8,7 +8,7 @@ Python script 'Data structure and algorithm 3%25E5%259F%25BA%25E6%259C%25AC%25E6
 
 ## python Data structure and algorithm 3%25E5%259F%25BA%25E6%259C%25AC%25E6%2595%25B0%25E6%258D%25AE%25E7%25BB%2593%25E6%259E%2584 %25E6%25A0%2588 active code 1 35
 
-Python mysql example: Data structure and algorithm 3%25E5%259F%25BA%25E6%259C%25AC%25E6%2595%25B0%25E6%258D%25AE%25E7%25BB%2593%25E6%259E%2584 %25E6%25A0%2588 active code 1 35
+Python example: Data structure and algorithm 3%25E5%259F%25BA%25E6%259C%25AC%25E6%2595%25B0%25E6%258D%25AE%25E7%25BB%2593%25E6%259E%2584 %25E6%25A0%2588 active code 1 35
 
 ```python
 """栈"""

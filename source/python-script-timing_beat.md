@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python timing beat
 
-Python mysql example: timing beat
+Python example: timing beat
 
 ```python
 import random

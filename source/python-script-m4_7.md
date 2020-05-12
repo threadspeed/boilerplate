@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python m4 7
 
-Python mysql example: m4 7
+Python example: m4 7
 
 ```python
 # Задание 7

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python 02update check
 
-Python mysql example: 02update check
+Python example: 02update check
 
 ```python
 import typing as t

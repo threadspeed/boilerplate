@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python composer
 
-Python mysql example: composer
+Python example: composer
 
 ```python
 import random

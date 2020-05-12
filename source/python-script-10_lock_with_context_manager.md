@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python 10 lock with context manager
 
-Python mysql example: 10 lock with context manager
+Python example: 10 lock with context manager
 
 ```python
 import logging

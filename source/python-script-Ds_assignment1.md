@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python Ds assignment1
 
-Python mysql example: Ds assignment1
+Python example: Ds assignment1
 
 ```python
 import heapq

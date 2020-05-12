@@ -8,7 +8,7 @@ Python script 'rf'
 
 ## python rf
 
-Python mysql example: rf
+Python example: rf
 
 ```python
 from sklearn.preprocessing import OrdinalEncoder

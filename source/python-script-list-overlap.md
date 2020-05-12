@@ -8,7 +8,7 @@ Python script 'list-overlap'
 
 ## python list-overlap
 
-Python mysql example: list-overlap
+Python example: list-overlap
 
 ```python
 string = input("Enter a string:")

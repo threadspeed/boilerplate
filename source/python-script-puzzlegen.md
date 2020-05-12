@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python puzzlegen
 
-Python mysql example: puzzlegen
+Python example: puzzlegen
 
 ```python
 import itertools as it

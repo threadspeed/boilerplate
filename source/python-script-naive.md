@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python naive
 
-Python mysql example: naive
+Python example: naive
 
 ```python
 import itertools

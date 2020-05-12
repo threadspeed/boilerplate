@@ -18,7 +18,7 @@ Functions in program:
 
 ## python functional Python car race
 
-Python mysql example: functional Python car race
+Python example: functional Python car race
 
 ```python
 ### Imperative version of the car race game. ###

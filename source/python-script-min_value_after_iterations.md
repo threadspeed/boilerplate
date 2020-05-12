@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python min value after iterations
 
-Python mysql example: min value after iterations
+Python example: min value after iterations
 
 ```python
 import random

@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python tutorial
 
-Python mysql example: tutorial
+Python example: tutorial
 
 ```python
 import random

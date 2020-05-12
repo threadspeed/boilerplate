@@ -24,7 +24,7 @@ Modules used in program:
 
 ## python bench leveldb
 
-Python mysql example: bench leveldb
+Python example: bench leveldb
 
 ```python
 import uuid

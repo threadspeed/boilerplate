@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python ugani glavno mesto random
 
-Python mysql example: ugani glavno mesto random
+Python example: ugani glavno mesto random
 
 ```python
 import random

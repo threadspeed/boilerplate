@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python argh examples
 
-Python mysql example: argh examples
+Python example: argh examples
 
 ```python
 import argh

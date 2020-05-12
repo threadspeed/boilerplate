@@ -8,7 +8,7 @@ Python script 'rozdzial3 trzylatek'
 
 ## python rozdzial3 trzylatek
 
-Python mysql example: rozdzial3 trzylatek
+Python example: rozdzial3 trzylatek
 
 ```python
 print("\nWitaj w 'Symulatorze trzylatka'\n")

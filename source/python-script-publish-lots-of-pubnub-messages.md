@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python publish-lots-of-pubnub-messages
 
-Python mysql example: publish-lots-of-pubnub-messages
+Python example: publish-lots-of-pubnub-messages
 
 ```python
 import socket

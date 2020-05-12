@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python weightedchoice
 
-Python mysql example: weightedchoice
+Python example: weightedchoice
 
 ```python
 ############ All different probabilities, most general situation

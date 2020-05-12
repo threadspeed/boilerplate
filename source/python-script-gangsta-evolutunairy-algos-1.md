@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python gangsta-evolutunairy-algos-1
 
-Python mysql example: gangsta-evolutunairy-algos-1
+Python example: gangsta-evolutunairy-algos-1
 
 ```python
 import random

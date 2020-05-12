@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python homework2adv
 
-Python mysql example: homework2adv
+Python example: homework2adv
 
 ```python
 import random

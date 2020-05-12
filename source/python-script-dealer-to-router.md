@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python dealer-to-router
 
-Python mysql example: dealer-to-router
+Python example: dealer-to-router
 
 ```python
 #!/usr/bin/env python

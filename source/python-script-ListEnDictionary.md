@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python ListEnDictionary
 
-Python mysql example: ListEnDictionary
+Python example: ListEnDictionary
 
 ```python
 import random

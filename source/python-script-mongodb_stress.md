@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python mongodb stress
 
-Python mysql example: mongodb stress
+Python example: mongodb stress
 
 ```python
 import pymongo

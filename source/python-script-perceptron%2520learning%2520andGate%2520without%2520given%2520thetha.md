@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python perceptron%2520learning%2520andGate%2520without%2520given%2520thetha
 
-Python mysql example: perceptron%2520learning%2520andGate%2520without%2520given%2520thetha
+Python example: perceptron%2520learning%2520andGate%2520without%2520given%2520thetha
 
 ```python
 import random

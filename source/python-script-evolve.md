@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python evolve
 
-Python mysql example: evolve
+Python example: evolve
 
 ```python
 #!/usr/bin/env python3

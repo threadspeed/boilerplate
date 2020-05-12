@@ -25,7 +25,7 @@ Modules used in program:
 
 ## python week 009
 
-Python mysql example: week 009
+Python example: week 009
 
 ```python
 ### 1

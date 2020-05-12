@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python ocr
 
-Python mysql example: ocr
+Python example: ocr
 
 ```python
 import itertools; import random

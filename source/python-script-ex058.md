@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python ex058
 
-Python mysql example: ex058
+Python example: ex058
 
 ```python
 import random

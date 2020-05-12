@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex015'
 
 ## python PythonExercicios ex015
 
-Python mysql example: PythonExercicios ex015
+Python example: PythonExercicios ex015
 
 ```python
 km = float(input('Quantos Km rodados? '))

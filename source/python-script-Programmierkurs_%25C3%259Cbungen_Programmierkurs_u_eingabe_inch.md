@@ -8,7 +8,7 @@ Python script 'Programmierkurs %25C3%259Cbungen Programmierkurs u eingabe inch'
 
 ## python Programmierkurs %25C3%259Cbungen Programmierkurs u eingabe inch
 
-Python mysql example: Programmierkurs %25C3%259Cbungen Programmierkurs u eingabe inch
+Python example: Programmierkurs %25C3%259Cbungen Programmierkurs u eingabe inch
 
 ```python
 inch_cm = 2.54

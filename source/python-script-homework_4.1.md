@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python homework 4.1
 
-Python mysql example: homework 4.1
+Python example: homework 4.1
 
 ```python
 # Homework 4.1: Add some more data in the dictionary

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python shuffle cards
 
-Python mysql example: shuffle cards
+Python example: shuffle cards
 
 ```python
 import random

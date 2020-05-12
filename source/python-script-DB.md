@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python DB
 
-Python mysql example: DB
+Python example: DB
 
 ```python
 import tensorflow as tf

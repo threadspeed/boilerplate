@@ -8,7 +8,7 @@ Python script 'ex002'
 
 ## python ex002
 
-Python mysql example: ex002
+Python example: ex002
 
 ```python
 nome = input('qual o seu nome?')

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python randomHuslColor
 
-Python mysql example: randomHuslColor
+Python example: randomHuslColor
 
 ```python
 from husl import husl_to_rgb

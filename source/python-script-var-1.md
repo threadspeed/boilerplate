@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python var-1
 
-Python mysql example: var-1
+Python example: var-1
 
 ```python
 import numpy as np

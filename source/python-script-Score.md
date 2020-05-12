@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Score
 
-Python mysql example: Score
+Python example: Score
 
 ```python
 import io

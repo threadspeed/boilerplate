@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python random student
 
-Python mysql example: random student
+Python example: random student
 
 ```python
 # Python Project: STUDENT NAME GENERATOR 

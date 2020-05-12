@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python brute force
 
-Python mysql example: brute force
+Python example: brute force
 
 ```python
 import random

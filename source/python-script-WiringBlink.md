@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python WiringBlink
 
-Python mysql example: WiringBlink
+Python example: WiringBlink
 
 ```python
 

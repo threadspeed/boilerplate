@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python test leveldb
 
-Python mysql example: test leveldb
+Python example: test leveldb
 
 ```python
 import time

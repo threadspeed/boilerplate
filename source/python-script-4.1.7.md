@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python 4.1.7
 
-Python mysql example: 4.1.7
+Python example: 4.1.7
 
 ```python
 

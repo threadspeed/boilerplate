@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python ex17
 
-Python mysql example: ex17
+Python example: ex17
 
 ```python
 import math

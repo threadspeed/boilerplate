@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex029'
 
 ## python PythonExercicios ex029
 
-Python mysql example: PythonExercicios ex029
+Python example: PythonExercicios ex029
 
 ```python
 v = float(input('Qual a sua velocidade? '))

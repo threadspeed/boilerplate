@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python reactor
 
-Python mysql example: reactor
+Python example: reactor
 
 ```python
 #!/usr/bin/env python3

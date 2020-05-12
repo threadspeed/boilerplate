@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python untitled ex048
 
-Python mysql example: untitled ex048
+Python example: untitled ex048
 
 ```python
 import  random

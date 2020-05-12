@@ -8,7 +8,7 @@ Python script 'what'
 
 ## python what
 
-Python mysql example: what
+Python example: what
 
 ```python
 from random import random

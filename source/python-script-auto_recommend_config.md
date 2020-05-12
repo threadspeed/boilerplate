@@ -8,7 +8,7 @@ Python script 'auto recommend config'
 
 ## python auto recommend config
 
-Python mysql example: auto recommend config
+Python example: auto recommend config
 
 ```python
 #encoding=utf-8

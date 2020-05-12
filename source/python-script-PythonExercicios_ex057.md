@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex057'
 
 ## python PythonExercicios ex057
 
-Python mysql example: PythonExercicios ex057
+Python example: PythonExercicios ex057
 
 ```python
 s = str(input('Digite seu sexo [M/F]: ')).lower().strip()[0]

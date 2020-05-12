@@ -8,7 +8,7 @@ Python script 'see'
 
 ## python see
 
-Python mysql example: see
+Python example: see
 
 ```python
 {{ identity("Pogo", ":pogoavatar:") }}

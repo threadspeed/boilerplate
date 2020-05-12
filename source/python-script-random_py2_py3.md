@@ -8,7 +8,7 @@ Python script 'random py2 py3'
 
 ## python random py2 py3
 
-Python mysql example: random py2 py3
+Python example: random py2 py3
 
 ```python
 # Python 2.7.16

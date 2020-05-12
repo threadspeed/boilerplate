@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python function
 
-Python mysql example: function
+Python example: function
 
 ```python
 #1. Подстановка вашего имя

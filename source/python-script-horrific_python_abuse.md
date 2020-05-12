@@ -10,7 +10,7 @@ Functions in program:
 
 ## python horrific python abuse
 
-Python mysql example: horrific python abuse
+Python example: horrific python abuse
 
 ```python
 #!/bin/env python

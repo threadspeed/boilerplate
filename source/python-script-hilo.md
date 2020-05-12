@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python hilo
 
-Python mysql example: hilo
+Python example: hilo
 
 ```python
 import random

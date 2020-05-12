@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python cifrado aes
 
-Python mysql example: cifrado aes
+Python example: cifrado aes
 
 ```python
 from Crypto import Random

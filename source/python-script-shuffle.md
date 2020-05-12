@@ -8,7 +8,7 @@ Python script 'shuffle'
 
 ## python shuffle
 
-Python mysql example: shuffle
+Python example: shuffle
 
 ```python
 sorted(["a", "b", "c", "d", "e", "f", "g"], key=lambda x: __import__("random").random())

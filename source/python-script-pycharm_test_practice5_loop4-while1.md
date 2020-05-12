@@ -8,7 +8,7 @@ Python script 'pycharm test practice5 loop4-while1'
 
 ## python pycharm test practice5 loop4-while1
 
-Python mysql example: pycharm test practice5 loop4-while1
+Python example: pycharm test practice5 loop4-while1
 
 ```python
 count = 0

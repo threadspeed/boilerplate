@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Python Practice Demo 4 Map
 
-Python mysql example: Python Practice Demo 4 Map
+Python example: Python Practice Demo 4 Map
 
 ```python
 import random

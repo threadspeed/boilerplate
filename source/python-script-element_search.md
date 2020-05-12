@@ -8,7 +8,7 @@ Python script 'element search'
 
 ## python element search
 
-Python mysql example: element search
+Python example: element search
 
 ```python
 numList = [2, 5, 7, 10, 15, 18, 20, 27, 50]

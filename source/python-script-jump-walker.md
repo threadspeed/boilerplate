@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python jump-walker
 
-Python mysql example: jump-walker
+Python example: jump-walker
 
 ```python
 import gym

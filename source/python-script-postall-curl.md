@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python postall-curl
 
-Python mysql example: postall-curl
+Python example: postall-curl
 
 ```python
 #!/bin/env python3

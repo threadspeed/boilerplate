@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python KNNc
 
-Python mysql example: KNNc
+Python example: KNNc
 
 ```python
 # tpot/operators/KNNc.py

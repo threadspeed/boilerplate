@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python neuron neuron study
 
-Python mysql example: neuron neuron study
+Python example: neuron neuron study
 
 ```python
 import random

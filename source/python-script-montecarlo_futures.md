@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python montecarlo futures
 
-Python mysql example: montecarlo futures
+Python example: montecarlo futures
 
 ```python
 from concurrent import futures

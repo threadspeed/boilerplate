@@ -35,7 +35,7 @@ Modules used in program:
 
 ## python auto recommend selenium helper
 
-Python mysql example: auto recommend selenium helper
+Python example: auto recommend selenium helper
 
 ```python
 #encoding=utf-8

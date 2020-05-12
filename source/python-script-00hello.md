@@ -10,7 +10,7 @@ Functions in program:
 
 ## python 00hello
 
-Python mysql example: 00hello
+Python example: 00hello
 
 ```python
 from handofcats import as_command, print

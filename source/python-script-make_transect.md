@@ -14,7 +14,7 @@ Functions in program:
 
 ## python make transect
 
-Python mysql example: make transect
+Python example: make transect
 
 ```python
 

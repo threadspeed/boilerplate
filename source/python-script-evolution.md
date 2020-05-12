@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python evolution
 
-Python mysql example: evolution
+Python example: evolution
 
 ```python
 # idea from first paragraph: http://www.sciam.com/article.cfm?id=15-answers-to-creationist&page=4

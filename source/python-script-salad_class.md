@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python salad class
 
-Python mysql example: salad class
+Python example: salad class
 
 ```python
 import random

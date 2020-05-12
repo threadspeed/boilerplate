@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python disjoint set
 
-Python mysql example: disjoint set
+Python example: disjoint set
 
 ```python
 """disjoint_set.py

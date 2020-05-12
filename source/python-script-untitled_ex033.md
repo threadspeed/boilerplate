@@ -8,7 +8,7 @@ Python script 'untitled ex033'
 
 ## python untitled ex033
 
-Python mysql example: untitled ex033
+Python example: untitled ex033
 
 ```python
 valor = float(input("Digite o valor do produto: R$ "))

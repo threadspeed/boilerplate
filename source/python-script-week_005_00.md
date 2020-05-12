@@ -13,7 +13,7 @@ Functions in program:
 
 ## python week 005 00
 
-Python mysql example: week 005 00
+Python example: week 005 00
 
 ```python
 # 0

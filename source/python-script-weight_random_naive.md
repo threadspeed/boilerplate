@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python weight random naive
 
-Python mysql example: weight random naive
+Python example: weight random naive
 
 ```python
 import random

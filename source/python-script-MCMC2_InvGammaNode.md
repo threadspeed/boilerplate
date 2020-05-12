@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python MCMC2 InvGammaNode
 
-Python mysql example: MCMC2 InvGammaNode
+Python example: MCMC2 InvGammaNode
 
 ```python
 __author__ = 'guopei'

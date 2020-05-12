@@ -11,7 +11,7 @@ Functions in program:
 
 ## python MQ function 2
 
-Python mysql example: MQ function 2
+Python example: MQ function 2
 
 ```python
 from random import randint # helps with the random number generator

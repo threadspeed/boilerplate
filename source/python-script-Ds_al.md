@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python Ds al
 
-Python mysql example: Ds al
+Python example: Ds al
 
 ```python
 from multiprocessing import Pool

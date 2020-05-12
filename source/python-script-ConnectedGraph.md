@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python ConnectedGraph
 
-Python mysql example: ConnectedGraph
+Python example: ConnectedGraph
 
 ```python
 import numpy as np 

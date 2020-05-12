@@ -8,7 +8,7 @@ Python script 'ex059'
 
 ## python ex059
 
-Python mysql example: ex059
+Python example: ex059
 
 ```python
 n1=int(input('Digite o primeiro valor: '))

@@ -8,7 +8,7 @@ Python script 'Vikingo'
 
 ## python Vikingo
 
-Python mysql example: Vikingo
+Python example: Vikingo
 
 ```python
 from Proyecto_final import Player

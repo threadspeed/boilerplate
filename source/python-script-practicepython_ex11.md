@@ -12,7 +12,7 @@ Functions in program:
 
 ## python practicepython ex11
 
-Python mysql example: practicepython ex11
+Python example: practicepython ex11
 
 ```python
 #!/usr/bin/python

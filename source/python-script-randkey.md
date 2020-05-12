@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python randkey
 
-Python mysql example: randkey
+Python example: randkey
 
 ```python
 import random

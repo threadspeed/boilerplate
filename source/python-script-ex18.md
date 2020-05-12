@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python ex18
 
-Python mysql example: ex18
+Python example: ex18
 
 ```python
 import math

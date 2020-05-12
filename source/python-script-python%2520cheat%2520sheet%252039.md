@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python python%2520cheat%2520sheet%252039
 
-Python mysql example: python%2520cheat%2520sheet%252039
+Python example: python%2520cheat%2520sheet%252039
 
 ```python
 import random

@@ -11,7 +11,7 @@ Functions in program:
 
 ## python ALGORITHM LAB Weighted Interval Scheduling
 
-Python mysql example: ALGORITHM LAB Weighted Interval Scheduling
+Python example: ALGORITHM LAB Weighted Interval Scheduling
 
 ```python
 # Weighted Interval Scheduling

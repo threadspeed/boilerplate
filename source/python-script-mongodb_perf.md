@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python mongodb perf
 
-Python mysql example: mongodb perf
+Python example: mongodb perf
 
 ```python
 import sys

@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python Game Stuff not tests sifts sift optimized
 
-Python mysql example: Game Stuff not tests sifts sift optimized
+Python example: Game Stuff not tests sifts sift optimized
 
 ```python
 from Game_Stuff.utilities import colors

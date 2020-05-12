@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python prodcom queue
 
-Python mysql example: prodcom queue
+Python example: prodcom queue
 
 ```python
 import logging

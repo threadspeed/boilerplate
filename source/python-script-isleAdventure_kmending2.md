@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python isleAdventure kmending2
 
-Python mysql example: isleAdventure kmending2
+Python example: isleAdventure kmending2
 
 ```python
 import time

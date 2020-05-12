@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python recursive art basics
 
-Python mysql example: recursive art basics
+Python example: recursive art basics
 
 ```python
 window_length = 800

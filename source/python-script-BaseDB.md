@@ -8,7 +8,7 @@ Python script 'BaseDB'
 
 ## python BaseDB
 
-Python mysql example: BaseDB
+Python example: BaseDB
 
 ```python
 class BaseDB:

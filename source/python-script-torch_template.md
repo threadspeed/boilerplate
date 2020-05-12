@@ -22,7 +22,7 @@ Modules used in program:
 
 ## python torch template
 
-Python mysql example: torch template
+Python example: torch template
 
 ```python
 # Reference: http://inoryy.com/post/tensorflow2-deep-reinforcement-learning/

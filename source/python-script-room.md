@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python room
 
-Python mysql example: room
+Python example: room
 
 ```python
 import random

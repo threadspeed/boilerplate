@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python as completed with max concurrent
 
-Python mysql example: as completed with max concurrent
+Python example: as completed with max concurrent
 
 ```python
 import asyncio

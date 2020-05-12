@@ -8,7 +8,7 @@ Python script 'MadLib'
 
 ## python MadLib
 
-Python mysql example: MadLib
+Python example: MadLib
 
 ```python
 #MadLib.py

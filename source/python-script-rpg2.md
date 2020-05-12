@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python rpg2
 
-Python mysql example: rpg2
+Python example: rpg2
 
 ```python
 #!/usr/bin/python3

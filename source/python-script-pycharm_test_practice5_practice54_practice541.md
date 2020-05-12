@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python pycharm test practice5 practice54 practice541
 
-Python mysql example: pycharm test practice5 practice54 practice541
+Python example: pycharm test practice5 practice54 practice541
 
 ```python
 #coding =  utf-8

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python shared
 
-Python mysql example: shared
+Python example: shared
 
 ```python
 import random

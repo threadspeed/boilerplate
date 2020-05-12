@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python gistfile1
 
-Python mysql example: gistfile1
+Python example: gistfile1
 
 ```python
 import random

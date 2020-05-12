@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python ga str
 
-Python mysql example: ga str
+Python example: ga str
 
 ```python
 import random

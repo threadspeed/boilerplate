@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python client
 
-Python mysql example: client
+Python example: client
 
 ```python
 #!/usr/bin/env python

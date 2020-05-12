@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python rpg
 
-Python mysql example: rpg
+Python example: rpg
 
 ```python
 #!/usr/bin/python3

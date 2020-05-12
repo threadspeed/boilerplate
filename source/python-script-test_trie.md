@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python test trie
 
-Python mysql example: test trie
+Python example: test trie
 
 ```python
 import cProfile

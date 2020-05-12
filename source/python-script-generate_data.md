@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python generate data
 
-Python mysql example: generate data
+Python example: generate data
 
 ```python
 #!/usr/bin/env python

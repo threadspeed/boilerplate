@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python with-lock
 
-Python mysql example: with-lock
+Python example: with-lock
 
 ```python
 import logging

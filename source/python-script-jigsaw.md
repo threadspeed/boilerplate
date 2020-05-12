@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python jigsaw
 
-Python mysql example: jigsaw
+Python example: jigsaw
 
 ```python
 from math import ceil

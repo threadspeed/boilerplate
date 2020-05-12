@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python CVCreateModelNextCard
 
-Python mysql example: CVCreateModelNextCard
+Python example: CVCreateModelNextCard
 
 ```python
 #!/usr/bin/python

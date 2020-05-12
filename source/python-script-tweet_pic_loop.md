@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python tweet pic loop
 
-Python mysql example: tweet pic loop
+Python example: tweet pic loop
 
 ```python
 import time

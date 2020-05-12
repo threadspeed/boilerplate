@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python cookbook
 
-Python mysql example: cookbook
+Python example: cookbook
 
 ```python
 # coding: utf-8

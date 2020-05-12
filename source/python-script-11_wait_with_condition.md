@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python 11 wait with condition
 
-Python mysql example: 11 wait with condition
+Python example: 11 wait with condition
 
 ```python
 import logging

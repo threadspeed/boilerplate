@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python megasena
 
-Python mysql example: megasena
+Python example: megasena
 
 ```python
 import random; random.sample(range(1,61),6)

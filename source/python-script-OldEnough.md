@@ -8,7 +8,7 @@ Python script 'OldEnough'
 
 ## python OldEnough
 
-Python mysql example: OldEnough
+Python example: OldEnough
 
 ```python
 print("Lets see if you are old enough to drive")

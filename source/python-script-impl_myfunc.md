@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python impl myfunc
 
-Python mysql example: impl myfunc
+Python example: impl myfunc
 
 ```python
 import random

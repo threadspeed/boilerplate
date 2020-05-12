@@ -44,7 +44,7 @@ Modules used in program:
 
 ## python modules imported
 
-Python mysql example: modules imported
+Python example: modules imported
 
 ```python
 # curl -si https://api.github.com/users/tirthajyoti/repos | grep url | cut -d '"' -f4 | xargs -i git clone {} 

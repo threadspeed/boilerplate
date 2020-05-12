@@ -8,7 +8,7 @@ Python script 'ex069'
 
 ## python ex069
 
-Python mysql example: ex069
+Python example: ex069
 
 ```python
 idades = []

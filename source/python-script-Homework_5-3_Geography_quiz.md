@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python Homework 5-3 Geography quiz
 
-Python mysql example: Homework 5-3 Geography quiz
+Python example: Homework 5-3 Geography quiz
 
 ```python
 import json

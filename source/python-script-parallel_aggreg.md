@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python parallel aggreg
 
-Python mysql example: parallel aggreg
+Python example: parallel aggreg
 
 ```python
 from IPython.parallel import Client

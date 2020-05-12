@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python dark past
 
-Python mysql example: dark past
+Python example: dark past
 
 ```python
 import os

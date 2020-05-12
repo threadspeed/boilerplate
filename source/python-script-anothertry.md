@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python anothertry
 
-Python mysql example: anothertry
+Python example: anothertry
 
 ```python
 import random

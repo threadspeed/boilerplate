@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python mnist sklearn
 
-Python mysql example: mnist sklearn
+Python example: mnist sklearn
 
 ```python
 # coding: utf-8

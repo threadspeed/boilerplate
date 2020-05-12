@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex059'
 
 ## python PythonExercicios ex059
 
-Python mysql example: PythonExercicios ex059
+Python example: PythonExercicios ex059
 
 ```python
 from time import sleep

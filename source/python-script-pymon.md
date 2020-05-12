@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python pymon
 
-Python mysql example: pymon
+Python example: pymon
 
 ```python
 from neopixel import *

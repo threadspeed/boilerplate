@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python 04 get current thread
 
-Python mysql example: 04 get current thread
+Python example: 04 get current thread
 
 ```python
 import threading

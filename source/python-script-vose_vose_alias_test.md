@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python vose vose alias test
 
-Python mysql example: vose vose alias test
+Python example: vose vose alias test
 
 ```python
 import vose_alias

@@ -10,7 +10,7 @@ Functions in program:
 
 ## python ymm test day03
 
-Python mysql example: ymm test day03
+Python example: ymm test day03
 
 ```python
 #-*- coding:UTF-8 -*-

@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python dibujarGrafosEnLaMismaPosicion
 
-Python mysql example: dibujarGrafosEnLaMismaPosicion
+Python example: dibujarGrafosEnLaMismaPosicion
 
 ```python
 #!/usr/bin/python3

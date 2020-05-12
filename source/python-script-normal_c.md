@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python normal c
 
-Python mysql example: normal c
+Python example: normal c
 
 ```python
 from math import sqrt

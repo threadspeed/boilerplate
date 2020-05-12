@@ -8,7 +8,7 @@ Python script 'pycharm test fill the blank'
 
 ## python pycharm test fill the blank
 
-Python mysql example: pycharm test fill the blank
+Python example: pycharm test fill the blank
 
 ```python
 #实现如下效果：

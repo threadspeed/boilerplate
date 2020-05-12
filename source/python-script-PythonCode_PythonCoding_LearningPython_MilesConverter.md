@@ -8,7 +8,7 @@ Python script 'PythonCode PythonCoding LearningPython MilesConverter'
 
 ## python PythonCode PythonCoding LearningPython MilesConverter
 
-Python mysql example: PythonCode PythonCoding LearningPython MilesConverter
+Python example: PythonCode PythonCoding LearningPython MilesConverter
 
 ```python
 #Convert miles to kilometers

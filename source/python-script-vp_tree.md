@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python vp tree
 
-Python mysql example: vp tree
+Python example: vp tree
 
 ```python
 #!/usr/bin/env python

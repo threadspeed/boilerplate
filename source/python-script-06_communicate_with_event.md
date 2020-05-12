@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python 06 communicate with event
 
-Python mysql example: 06 communicate with event
+Python example: 06 communicate with event
 
 ```python
 import logging

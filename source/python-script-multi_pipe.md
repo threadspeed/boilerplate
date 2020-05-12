@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python multi pipe
 
-Python mysql example: multi pipe
+Python example: multi pipe
 
 ```python
 from multiprocessing import Process, Pipe

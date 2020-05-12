@@ -10,7 +10,7 @@ Functions in program:
 
 ## python SimpleChatBot
 
-Python mysql example: SimpleChatBot
+Python example: SimpleChatBot
 
 ```python
 class Chat:

@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python test lock
 
-Python mysql example: test lock
+Python example: test lock
 
 ```python
 import threading

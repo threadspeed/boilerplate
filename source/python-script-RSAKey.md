@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python RSAKey
 
-Python mysql example: RSAKey
+Python example: RSAKey
 
 ```python
 #coded by Amin Beirami---> beirami.m.a@gmail.com

@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Count(Bubble sort)
 
-Python mysql example: Count(Bubble sort)
+Python example: Count(Bubble sort)
 
 ```python
 import time

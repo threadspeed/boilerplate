@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python Trevors version
 
-Python mysql example: Trevors version
+Python example: Trevors version
 
 ```python
 import random

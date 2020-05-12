@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python deduplication
 
-Python mysql example: deduplication
+Python example: deduplication
 
 ```python
 import itertools

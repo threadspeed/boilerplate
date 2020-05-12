@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python week 004 game knb
 
-Python mysql example: week 004 game knb
+Python example: week 004 game knb
 
 ```python
 # 8

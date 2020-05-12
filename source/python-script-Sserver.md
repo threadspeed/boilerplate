@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python Sserver
 
-Python mysql example: Sserver
+Python example: Sserver
 
 ```python
 import socket

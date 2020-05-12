@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python reactive-move-scroll
 
-Python mysql example: reactive-move-scroll
+Python example: reactive-move-scroll
 
 ```python
 import colorsys

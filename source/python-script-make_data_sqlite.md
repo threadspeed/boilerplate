@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python make data sqlite
 
-Python mysql example: make data sqlite
+Python example: make data sqlite
 
 ```python
 import uuid

@@ -8,7 +8,7 @@ Python script 'django model dynamic choice'
 
 ## python django model dynamic choice
 
-Python mysql example: django model dynamic choice
+Python example: django model dynamic choice
 
 ```python
 class DynamicChoice(object):

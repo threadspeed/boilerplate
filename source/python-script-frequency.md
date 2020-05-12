@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python frequency
 
-Python mysql example: frequency
+Python example: frequency
 
 ```python
 #import random module

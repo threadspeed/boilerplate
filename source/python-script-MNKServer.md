@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python MNKServer
 
-Python mysql example: MNKServer
+Python example: MNKServer
 
 ```python
 #!/usr/bin/env monkeyrunner

@@ -8,7 +8,7 @@ Python script 'PythonCode PythonCoding LearningPython calculator'
 
 ## python PythonCode PythonCoding LearningPython calculator
 
-Python mysql example: PythonCode PythonCoding LearningPython calculator
+Python example: PythonCode PythonCoding LearningPython calculator
 
 ```python
 num1, num2 = input("Enter 2 numbers: ").split()

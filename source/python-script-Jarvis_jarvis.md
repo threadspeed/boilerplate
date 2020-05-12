@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python Jarvis jarvis
 
-Python mysql example: Jarvis jarvis
+Python example: Jarvis jarvis
 
 ```python
 import requests

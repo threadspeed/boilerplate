@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python Askhsh4.papadantonakis
 
-Python mysql example: Askhsh4.papadantonakis
+Python example: Askhsh4.papadantonakis
 
 ```python
 ## Er. 1.1

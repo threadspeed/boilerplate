@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python compare random a b
 
-Python mysql example: compare random a b
+Python example: compare random a b
 
 ```python
 #!/usr/bin/env python

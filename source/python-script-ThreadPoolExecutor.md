@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python ThreadPoolExecutor
 
-Python mysql example: ThreadPoolExecutor
+Python example: ThreadPoolExecutor
 
 ```python
 import logging

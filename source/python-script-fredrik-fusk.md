@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python fredrik-fusk
 
-Python mysql example: fredrik-fusk
+Python example: fredrik-fusk
 
 ```python
 import random as r;_,N=range,1e6;l=_(13)*4

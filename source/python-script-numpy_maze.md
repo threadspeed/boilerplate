@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python numpy maze
 
-Python mysql example: numpy maze
+Python example: numpy maze
 
 ```python
 # Numpy Maze Generation

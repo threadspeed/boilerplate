@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python StandardScaler
 
-Python mysql example: StandardScaler
+Python example: StandardScaler
 
 ```python
 # tpot/operators/StandardScaler.py

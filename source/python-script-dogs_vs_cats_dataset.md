@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python dogs vs cats dataset
 
-Python mysql example: dogs vs cats dataset
+Python example: dogs vs cats dataset
 
 ```python
 import concurrent.futures

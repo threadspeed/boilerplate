@@ -11,7 +11,7 @@ Functions in program:
 
 ## python remove common
 
-Python mysql example: remove common
+Python example: remove common
 
 ```python
 # creating a  random list and removing duplicate elements

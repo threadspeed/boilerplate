@@ -8,7 +8,7 @@ Python script 'jacob'
 
 ## python jacob
 
-Python mysql example: jacob
+Python example: jacob
 
 ```python
 n=1e6;i=__import__;l=list("abcdefghijklm"*4);

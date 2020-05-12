@@ -8,7 +8,7 @@ Python script 'sign'
 
 ## python sign
 
-Python mysql example: sign
+Python example: sign
 
 ```python
 from Crypto.Hash import SHA256

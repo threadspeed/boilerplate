@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python librariesUsed
 
-Python mysql example: librariesUsed
+Python example: librariesUsed
 
 ```python
 import os

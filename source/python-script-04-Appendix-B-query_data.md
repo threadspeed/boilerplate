@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python 04-Appendix-B-query data
 
-Python mysql example: 04-Appendix-B-query data
+Python example: 04-Appendix-B-query data
 
 ```python
 #! /usr/bin/env python

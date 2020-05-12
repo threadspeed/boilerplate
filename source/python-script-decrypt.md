@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python decrypt
 
-Python mysql example: decrypt
+Python example: decrypt
 
 ```python
 import argparse

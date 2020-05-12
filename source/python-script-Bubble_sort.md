@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Bubble sort
 
-Python mysql example: Bubble sort
+Python example: Bubble sort
 
 ```python
 import time

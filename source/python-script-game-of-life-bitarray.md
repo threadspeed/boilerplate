@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python game-of-life-bitarray
 
-Python mysql example: game-of-life-bitarray
+Python example: game-of-life-bitarray
 
 ```python
 # Conway's Game of Life

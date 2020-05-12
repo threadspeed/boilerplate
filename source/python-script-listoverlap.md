@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python listoverlap
 
-Python mysql example: listoverlap
+Python example: listoverlap
 
 ```python
 #First version

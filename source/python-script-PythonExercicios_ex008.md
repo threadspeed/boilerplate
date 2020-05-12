@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex008'
 
 ## python PythonExercicios ex008
 
-Python mysql example: PythonExercicios ex008
+Python example: PythonExercicios ex008
 
 ```python
 m = float(input('Digite um valor em Metros: '))

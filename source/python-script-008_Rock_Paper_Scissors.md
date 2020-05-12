@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python 008 Rock Paper Scissors
 
-Python mysql example: 008 Rock Paper Scissors
+Python example: 008 Rock Paper Scissors
 
 ```python
 # Rock Paper Scissors

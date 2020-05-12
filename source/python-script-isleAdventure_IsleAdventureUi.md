@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python isleAdventure IsleAdventureUi
 
-Python mysql example: isleAdventure IsleAdventureUi
+Python example: isleAdventure IsleAdventureUi
 
 ```python
 #set up

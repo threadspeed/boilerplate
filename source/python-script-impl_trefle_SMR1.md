@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python impl trefle SMR1
 
-Python mysql example: impl trefle SMR1
+Python example: impl trefle SMR1
 
 ```python
 # FAILURE CAUSING!!

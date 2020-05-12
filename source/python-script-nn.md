@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python nn
 
-Python mysql example: nn
+Python example: nn
 
 ```python
 import numpy as np

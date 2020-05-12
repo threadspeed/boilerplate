@@ -8,7 +8,7 @@ Python script 'bicycle industry'
 
 ## python bicycle industry
 
-Python mysql example: bicycle industry
+Python example: bicycle industry
 
 ```python
 # Bicycles should have model name, weight, and cost to produce

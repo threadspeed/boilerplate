@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python Learn BlackJack
 
-Python mysql example: Learn BlackJack
+Python example: Learn BlackJack
 
 ```python
 import random

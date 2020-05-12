@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Flip%2520a%2520coin%2520N%2520time
 
-Python mysql example: Flip%2520a%2520coin%2520N%2520time
+Python example: Flip%2520a%2520coin%2520N%2520time
 
 ```python
 import numpy as np

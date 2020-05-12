@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python hy
 
-Python mysql example: hy
+Python example: hy
 
 ```python
 from willie import module

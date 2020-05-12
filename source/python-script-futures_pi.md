@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python futures pi
 
-Python mysql example: futures pi
+Python example: futures pi
 
 ```python
 import functools

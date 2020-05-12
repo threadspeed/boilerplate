@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python mk link
 
-Python mysql example: mk link
+Python example: mk link
 
 ```python
 #! /usr/bin/env python

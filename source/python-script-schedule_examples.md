@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python schedule examples
 
-Python mysql example: schedule examples
+Python example: schedule examples
 
 ```python
 import time

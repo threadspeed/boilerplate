@@ -8,7 +8,7 @@ Python script 'rozdzial3 maitre d'
 
 ## python rozdzial3 maitre d
 
-Python mysql example: rozdzial3 maitre d
+Python example: rozdzial3 maitre d
 
 ```python
 print("Witaj w Chateu D' Smakosz")

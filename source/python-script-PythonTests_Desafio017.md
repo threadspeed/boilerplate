@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python PythonTests Desafio017
 
-Python mysql example: PythonTests Desafio017
+Python example: PythonTests Desafio017
 
 ```python
 import math

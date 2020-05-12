@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python youtube
 
-Python mysql example: youtube
+Python example: youtube
 
 ```python
 import requests

@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python mdp
 
-Python mysql example: mdp
+Python example: mdp
 
 ```python
 import random

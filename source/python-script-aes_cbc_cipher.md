@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python aes cbc cipher
 
-Python mysql example: aes cbc cipher
+Python example: aes cbc cipher
 
 ```python
 import base64

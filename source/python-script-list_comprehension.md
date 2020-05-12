@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python list comprehension
 
-Python mysql example: list comprehension
+Python example: list comprehension
 
 ```python
 import random

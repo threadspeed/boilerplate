@@ -8,7 +8,7 @@ Python script 'ahaha'
 
 ## python ahaha
 
-Python mysql example: ahaha
+Python example: ahaha
 
 ```python
 print(" ".join(["あはは" + "は" * __import__("random").randint(0, 3) for x in range(int(abs(__import__("random").normalvariate(0, 2)) * 10 + 1))]), "あは ぎょうざ あはは")

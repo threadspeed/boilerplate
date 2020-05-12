@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Player
 
-Python mysql example: Player
+Python example: Player
 
 ```python
 from Proyecto_final.Funciones import ataque_aleatorio

@@ -8,7 +8,7 @@ Python script 'impl us govt FoodData central reper'
 
 ## python impl us govt FoodData central reper
 
-Python mysql example: impl us govt FoodData central reper
+Python example: impl us govt FoodData central reper
 
 ```python
 FOOD_TERMS = ['Milk and eggs', 'Milk and milk products', 'Eggs', 'Meat, poultry, fish', 'Meat and poultry', 'Meat',

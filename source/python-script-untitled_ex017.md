@@ -8,7 +8,7 @@ Python script 'untitled ex017'
 
 ## python untitled ex017
 
-Python mysql example: untitled ex017
+Python example: untitled ex017
 
 ```python
 km = float(input("Digite a velocidade do veiculo: "))

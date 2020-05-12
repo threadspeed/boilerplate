@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python Heap Sort
 
-Python mysql example: Heap Sort
+Python example: Heap Sort
 
 ```python
 # This is the implementation of heap sort algorithm as given in the "Introduction To Algorithms" Thomas H. Cormen,

@@ -23,7 +23,7 @@ Modules used in program:
 
 ## python mcpi
 
-Python mysql example: mcpi
+Python example: mcpi
 
 ```python
 """Comparison of Monte Carlo calculations of pi using different

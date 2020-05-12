@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python RockPaperScissorsPythV3
 
-Python mysql example: RockPaperScissorsPythV3
+Python example: RockPaperScissorsPythV3
 
 ```python
 # Made for Python version 3 and up

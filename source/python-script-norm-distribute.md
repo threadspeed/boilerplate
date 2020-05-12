@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python norm-distribute
 
-Python mysql example: norm-distribute
+Python example: norm-distribute
 
 ```python
 from scipy import stats

@@ -8,7 +8,7 @@ Python script 'verify'
 
 ## python verify
 
-Python mysql example: verify
+Python example: verify
 
 ```python
 text = 'abcdefgh'

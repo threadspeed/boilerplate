@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python ex20
 
-Python mysql example: ex20
+Python example: ex20
 
 ```python
 import random

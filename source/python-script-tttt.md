@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python tttt
 
-Python mysql example: tttt
+Python example: tttt
 
 ```python
 import random

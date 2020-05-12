@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python week 010 home
 
-Python mysql example: week 010 home
+Python example: week 010 home
 
 ```python
 # 1

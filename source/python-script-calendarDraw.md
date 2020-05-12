@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python calendarDraw
 
-Python mysql example: calendarDraw
+Python example: calendarDraw
 
 ```python
 import random

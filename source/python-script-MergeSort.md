@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python MergeSort
 
-Python mysql example: MergeSort
+Python example: MergeSort
 
 ```python
 MAX = 10000000

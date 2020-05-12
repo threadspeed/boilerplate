@@ -22,7 +22,7 @@ Modules used in program:
 
 ## python generator
 
-Python mysql example: generator
+Python example: generator
 
 ```python
 import json

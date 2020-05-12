@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python pract3
 
-Python mysql example: pract3
+Python example: pract3
 
 ```python
 import random

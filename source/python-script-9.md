@@ -8,7 +8,7 @@ Python script '9'
 
 ## python 9
 
-Python mysql example: 9
+Python example: 9
 
 ```python
 from random import randint

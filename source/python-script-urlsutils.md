@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python urlsutils
 
-Python mysql example: urlsutils
+Python example: urlsutils
 
 ```python
 import random

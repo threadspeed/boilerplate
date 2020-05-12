@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python choise-photo
 
-Python mysql example: choise-photo
+Python example: choise-photo
 
 ```python
 import random, os

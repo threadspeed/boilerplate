@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Hometask4 0
 
-Python mysql example: Hometask4 0
+Python example: Hometask4 0
 
 ```python
 '''

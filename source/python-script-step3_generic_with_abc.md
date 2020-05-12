@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python step3 generic with abc
 
-Python mysql example: step3 generic with abc
+Python example: step3 generic with abc
 
 ```python
 import abc

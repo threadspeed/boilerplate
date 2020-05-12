@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python untitled ex028
 
-Python mysql example: untitled ex028
+Python example: untitled ex028
 
 ```python
 import datetime

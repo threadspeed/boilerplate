@@ -10,7 +10,7 @@ Functions in program:
 
 ## python pycharm test practice5 loop-login-2
 
-Python mysql example: pycharm test practice5 loop-login-2
+Python example: pycharm test practice5 loop-login-2
 
 ```python
 # def account_login():

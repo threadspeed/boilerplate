@@ -8,7 +8,7 @@ Python script 'untitled ex031'
 
 ## python untitled ex031
 
-Python mysql example: untitled ex031
+Python example: untitled ex031
 
 ```python
 s1 = float(input("Digite o comprimento do primeiro segmento: "))

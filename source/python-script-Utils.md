@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python Utils
 
-Python mysql example: Utils
+Python example: Utils
 
 ```python
 import os

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python CVCreateModel
 
-Python mysql example: CVCreateModel
+Python example: CVCreateModel
 
 ```python
 #!/usr/bin/python

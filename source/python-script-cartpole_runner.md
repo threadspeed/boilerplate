@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python cartpole runner
 
-Python mysql example: cartpole runner
+Python example: cartpole runner
 
 ```python
 # import the gym stuff

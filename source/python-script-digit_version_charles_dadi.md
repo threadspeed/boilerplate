@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python digit version charles dadi
 
-Python mysql example: digit version charles dadi
+Python example: digit version charles dadi
 
 ```python
 #http://scikit-learn.org/stable/auto_examples/applications/face_recognition.html#example-applications-face-recognition-py

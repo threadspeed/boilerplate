@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python secret%2520number
 
-Python mysql example: secret%2520number
+Python example: secret%2520number
 
 ```python
 print("Welcome to the secret number game!")

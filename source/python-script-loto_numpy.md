@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python loto numpy
 
-Python mysql example: loto numpy
+Python example: loto numpy
 
 ```python
 import numpy as np

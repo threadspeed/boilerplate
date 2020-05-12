@@ -10,7 +10,7 @@ Functions in program:
 
 ## python ratio
 
-Python mysql example: ratio
+Python example: ratio
 
 ```python
 def main():

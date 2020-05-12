@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python make data redis
 
-Python mysql example: make data redis
+Python example: make data redis
 
 ```python
 import redis

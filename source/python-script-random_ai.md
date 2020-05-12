@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python random ai
 
-Python mysql example: random ai
+Python example: random ai
 
 ```python
 """ Random AI """

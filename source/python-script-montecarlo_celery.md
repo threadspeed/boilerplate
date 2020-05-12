@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python montecarlo celery
 
-Python mysql example: montecarlo celery
+Python example: montecarlo celery
 
 ```python
 import itertools

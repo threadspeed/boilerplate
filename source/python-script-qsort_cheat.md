@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python qsort cheat
 
-Python mysql example: qsort cheat
+Python example: qsort cheat
 
 ```python
 import random

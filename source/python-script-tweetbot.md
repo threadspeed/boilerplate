@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python tweetbot
 
-Python mysql example: tweetbot
+Python example: tweetbot
 
 ```python
 import os

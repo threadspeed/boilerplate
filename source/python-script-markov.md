@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python markov
 
-Python mysql example: markov
+Python example: markov
 
 ```python
 from janome.tokenizer import Tokenizer

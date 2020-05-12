@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python file receiver
 
-Python mysql example: file receiver
+Python example: file receiver
 
 ```python
 import socket

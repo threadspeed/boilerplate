@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python sqs standard
 
-Python mysql example: sqs standard
+Python example: sqs standard
 
 ```python
 import boto3

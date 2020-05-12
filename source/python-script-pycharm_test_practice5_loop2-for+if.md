@@ -8,7 +8,7 @@ Python script 'pycharm test practice5 loop2-for+if'
 
 ## python pycharm test practice5 loop2-for+if
 
-Python mysql example: pycharm test practice5 loop2-for+if
+Python example: pycharm test practice5 loop2-for+if
 
 ```python
 codelanguage = ['python', 'php','ruby']

@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python base bubble tools
 
-Python mysql example: base bubble tools
+Python example: base bubble tools
 
 ```python
 import random

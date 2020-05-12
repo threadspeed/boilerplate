@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python auto recommend test parse
 
-Python mysql example: auto recommend test parse
+Python example: auto recommend test parse
 
 ```python
 #encoding=utf-8

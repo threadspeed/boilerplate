@@ -8,7 +8,7 @@ Python script 'pycharm test practice6 unit6 example'
 
 ## python pycharm test practice6 unit6 example
 
-Python mysql example: pycharm test practice6 unit6 example
+Python example: pycharm test practice6 unit6 example
 
 ```python
 #coding=utf-8

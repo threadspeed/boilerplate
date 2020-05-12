@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python ymm test day02
 
-Python mysql example: ymm test day02
+Python example: ymm test day02
 
 ```python
 #-*- coding:UTF-8 -*-

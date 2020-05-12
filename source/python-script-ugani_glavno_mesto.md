@@ -11,7 +11,7 @@ Functions in program:
 
 ## python ugani glavno mesto
 
-Python mysql example: ugani glavno mesto
+Python example: ugani glavno mesto
 
 ```python
 def main():

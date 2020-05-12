@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python 14 producer consumer
 
-Python mysql example: 14 producer consumer
+Python example: 14 producer consumer
 
 ```python
 import time

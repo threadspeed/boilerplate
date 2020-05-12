@@ -8,7 +8,7 @@ Python script 'ex39'
 
 ## python ex39
 
-Python mysql example: ex39
+Python example: ex39
 
 ```python
 from datetime import date

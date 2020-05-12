@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python sorts test
 
-Python mysql example: sorts test
+Python example: sorts test
 
 ```python
 from timeit import default_timer as timer

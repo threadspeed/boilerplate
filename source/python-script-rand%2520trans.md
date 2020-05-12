@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python rand%2520trans
 
-Python mysql example: rand%2520trans
+Python example: rand%2520trans
 
 ```python
 #   Amirkabir Univesity of Technology

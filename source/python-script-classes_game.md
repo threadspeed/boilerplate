@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python classes game
 
-Python mysql example: classes game
+Python example: classes game
 
 ```python
 import random

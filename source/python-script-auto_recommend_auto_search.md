@@ -26,7 +26,7 @@ Modules used in program:
 
 ## python auto recommend auto search
 
-Python mysql example: auto recommend auto search
+Python example: auto recommend auto search
 
 ```python
 #encoding=utf-8

@@ -8,7 +8,7 @@ Python script 'exp roXen'
 
 ## python exp roXen
 
-Python mysql example: exp roXen
+Python example: exp roXen
 
 ```python
 from Crypto.Util.number import *

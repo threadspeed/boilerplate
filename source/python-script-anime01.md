@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python anime01
 
-Python mysql example: anime01
+Python example: anime01
 
 ```python
 import numpy as np

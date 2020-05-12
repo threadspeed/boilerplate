@@ -8,7 +8,7 @@ Python script 'tree sp'
 
 ## python tree sp
 
-Python mysql example: tree sp
+Python example: tree sp
 
 ```python
 # See http://bennuttall.com/raspberry-pi-zero-gpio-expander/

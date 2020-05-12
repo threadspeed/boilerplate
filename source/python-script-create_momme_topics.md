@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python create momme topics
 
-Python mysql example: create momme topics
+Python example: create momme topics
 
 ```python
 import random

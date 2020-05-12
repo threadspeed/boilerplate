@@ -10,7 +10,7 @@ Functions in program:
 
 ## python dummysation
 
-Python mysql example: dummysation
+Python example: dummysation
 
 ```python
 def work_dummies(X, idcpu):

@@ -8,7 +8,7 @@ Python script 'string-lists'
 
 ## python string-lists
 
-Python mysql example: string-lists
+Python example: string-lists
 
 ```python
 string = input("Enter a string:")

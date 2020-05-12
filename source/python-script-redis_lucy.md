@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python redis lucy
 
-Python mysql example: redis lucy
+Python example: redis lucy
 
 ```python
 import redis

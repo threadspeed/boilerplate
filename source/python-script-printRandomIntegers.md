@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python printRandomIntegers
 
-Python mysql example: printRandomIntegers
+Python example: printRandomIntegers
 
 ```python
 import random

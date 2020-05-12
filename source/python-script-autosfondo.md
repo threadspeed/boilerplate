@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python autosfondo
 
-Python mysql example: autosfondo
+Python example: autosfondo
 
 ```python
 from PIL import Image, ImageDraw

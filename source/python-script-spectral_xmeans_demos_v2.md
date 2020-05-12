@@ -24,7 +24,7 @@ Modules used in program:
 
 ## python spectral xmeans demos v2
 
-Python mysql example: spectral xmeans demos v2
+Python example: spectral xmeans demos v2
 
 ```python
 #!/usr/bin/env python

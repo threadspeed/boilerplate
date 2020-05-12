@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python mp
 
-Python mysql example: mp
+Python example: mp
 
 ```python
 import os

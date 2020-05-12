@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex004'
 
 ## python PythonExercicios ex004
 
-Python mysql example: PythonExercicios ex004
+Python example: PythonExercicios ex004
 
 ```python
 str = input('Digite Algo: ')

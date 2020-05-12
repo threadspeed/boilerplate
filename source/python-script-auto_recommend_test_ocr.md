@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python auto recommend test ocr
 
-Python mysql example: auto recommend test ocr
+Python example: auto recommend test ocr
 
 ```python
 import ocr_helper

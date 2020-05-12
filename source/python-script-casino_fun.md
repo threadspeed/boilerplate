@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python casino fun
 
-Python mysql example: casino fun
+Python example: casino fun
 
 ```python
 import random

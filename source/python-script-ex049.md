@@ -8,7 +8,7 @@ Python script 'ex049'
 
 ## python ex049
 
-Python mysql example: ex049
+Python example: ex049
 
 ```python
 i=int(input('Informe um numero para saber sua tabuada: '))

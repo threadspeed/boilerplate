@@ -8,7 +8,7 @@ Python script 'chronic kidney disease9'
 
 ## python chronic kidney disease9
 
-Python mysql example: chronic kidney disease9
+Python example: chronic kidney disease9
 
 ```python
 kidney_disease.Packed_Cell_Volume = kidney_disease.Packed_Cell_Volume.astype(str).astype(int)

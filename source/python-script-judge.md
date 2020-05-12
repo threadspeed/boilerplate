@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python judge
 
-Python mysql example: judge
+Python example: judge
 
 ```python
 import random

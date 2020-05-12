@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python 005 List Overlap
 
-Python mysql example: 005 List Overlap
+Python example: 005 List Overlap
 
 ```python
 # Exercise

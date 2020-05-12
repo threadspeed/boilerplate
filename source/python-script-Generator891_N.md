@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python Generator891 N
 
-Python mysql example: Generator891 N
+Python example: Generator891 N
 
 ```python
 import os

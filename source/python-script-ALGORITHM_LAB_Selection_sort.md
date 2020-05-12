@@ -10,7 +10,7 @@ Functions in program:
 
 ## python ALGORITHM LAB Selection sort
 
-Python mysql example: ALGORITHM LAB Selection sort
+Python example: ALGORITHM LAB Selection sort
 
 ```python
 # SELECTION SORT

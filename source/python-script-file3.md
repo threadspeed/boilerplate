@@ -8,7 +8,7 @@ Python script 'file3'
 
 ## python file3
 
-Python mysql example: file3
+Python example: file3
 
 ```python
     if target[i]>target[i+1]:

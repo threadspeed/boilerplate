@@ -22,7 +22,7 @@ Functions in program:
 
 ## python sort
 
-Python mysql example: sort
+Python example: sort
 
 ```python
 def bububle_sort(alist):

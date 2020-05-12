@@ -8,7 +8,7 @@ Python script 'rpg statistics'
 
 ## python rpg statistics
 
-Python mysql example: rpg statistics
+Python example: rpg statistics
 
 ```python
 """

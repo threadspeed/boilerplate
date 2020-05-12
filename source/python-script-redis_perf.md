@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python redis perf
 
-Python mysql example: redis perf
+Python example: redis perf
 
 ```python
 import redis

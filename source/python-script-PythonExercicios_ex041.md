@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python PythonExercicios ex041
 
-Python mysql example: PythonExercicios ex041
+Python example: PythonExercicios ex041
 
 ```python
 import datetime

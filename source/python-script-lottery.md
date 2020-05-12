@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python lottery
 
-Python mysql example: lottery
+Python example: lottery
 
 ```python
 import random as powerball

@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python py3
 
-Python mysql example: py3
+Python example: py3
 
 ```python
 import random

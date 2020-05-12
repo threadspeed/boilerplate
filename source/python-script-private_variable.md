@@ -8,7 +8,7 @@ Python script 'private variable'
 
 ## python private variable
 
-Python mysql example: private variable
+Python example: private variable
 
 ```python
 # -*- coding: utf-8 -*-

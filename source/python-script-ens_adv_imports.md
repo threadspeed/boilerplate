@@ -8,7 +8,7 @@ Python script 'ens adv imports'
 
 ## python ens adv imports
 
-Python mysql example: ens adv imports
+Python example: ens adv imports
 
 ```python
 #Bagging and Boosting models for both classification and regression problems

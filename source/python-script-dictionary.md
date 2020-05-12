@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python dictionary
 
-Python mysql example: dictionary
+Python example: dictionary
 
 ```python
 # https://www.hackerrank.com/challenges/ctci-ransom-note/problem

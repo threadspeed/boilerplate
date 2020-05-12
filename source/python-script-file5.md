@@ -10,7 +10,7 @@ Functions in program:
 
 ## python file5
 
-Python mysql example: file5
+Python example: file5
 
 ```python
 def zbzf(n,f,b,fb):

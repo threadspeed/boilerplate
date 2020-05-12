@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python gendepotcodes
 
-Python mysql example: gendepotcodes
+Python example: gendepotcodes
 
 ```python
 #!/usr/bin/env python

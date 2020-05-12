@@ -13,7 +13,7 @@ Functions in program:
 
 ## python arguments
 
-Python mysql example: arguments
+Python example: arguments
 
 ```python
 ### Позиционные аргументы vs. аргументы по умолчанию

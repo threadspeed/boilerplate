@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python C lqr integrate cost trajopt failure case
 
-Python mysql example: C lqr integrate cost trajopt failure case
+Python example: C lqr integrate cost trajopt failure case
 
 ```python
 """This is an attempt at naively using a neural ODE for trajectory optimization

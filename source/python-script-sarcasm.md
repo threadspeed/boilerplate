@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python sarcasm
 
-Python mysql example: sarcasm
+Python example: sarcasm
 
 ```python
 # -*- coding: utf-8 -*-

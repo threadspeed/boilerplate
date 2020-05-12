@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python PasswordGenerator
 
-Python mysql example: PasswordGenerator
+Python example: PasswordGenerator
 
 ```python
 # import random  

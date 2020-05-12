@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python gen usp data
 
-Python mysql example: gen usp data
+Python example: gen usp data
 
 ```python
 # -*- coding: utf-8 -*-

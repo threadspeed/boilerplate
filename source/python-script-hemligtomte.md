@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python hemligtomte
 
-Python mysql example: hemligtomte
+Python example: hemligtomte
 
 ```python
 # -*- coding: utf-8 -*-

@@ -11,7 +11,7 @@ Functions in program:
 
 ## python list
 
-Python mysql example: list
+Python example: list
 
 ```python
 # -*- coding: utf-8 -*-

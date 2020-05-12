@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python boolean evil
 
-Python mysql example: boolean evil
+Python example: boolean evil
 
 ```python
 import random

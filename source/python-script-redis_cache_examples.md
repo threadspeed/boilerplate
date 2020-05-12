@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python redis cache examples
 
-Python mysql example: redis cache examples
+Python example: redis cache examples
 
 ```python
 # sudo apt install redis-server

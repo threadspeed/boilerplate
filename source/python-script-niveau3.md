@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python niveau3
 
-Python mysql example: niveau3
+Python example: niveau3
 
 ```python
 import random

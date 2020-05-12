@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python BicycleIndustry
 
-Python mysql example: BicycleIndustry
+Python example: BicycleIndustry
 
 ```python
 import random

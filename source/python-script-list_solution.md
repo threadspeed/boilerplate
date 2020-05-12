@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python list solution
 
-Python mysql example: list solution
+Python example: list solution
 
 ```python
 

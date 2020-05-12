@@ -8,7 +8,7 @@ Python script 'Ds coin'
 
 ## python Ds coin
 
-Python mysql example: Ds coin
+Python example: Ds coin
 
 ```python
 x = [[1] + [0]*9]

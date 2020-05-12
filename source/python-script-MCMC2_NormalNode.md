@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python MCMC2 NormalNode
 
-Python mysql example: MCMC2 NormalNode
+Python example: MCMC2 NormalNode
 
 ```python
 __author__ = 'guopei'

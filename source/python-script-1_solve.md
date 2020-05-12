@@ -24,7 +24,7 @@ Modules used in program:
 
 ## python 1 solve
 
-Python mysql example: 1 solve
+Python example: 1 solve
 
 ```python
 #-*- coding:utf-8 -*-

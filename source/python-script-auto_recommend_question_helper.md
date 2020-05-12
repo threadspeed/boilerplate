@@ -36,7 +36,7 @@ Modules used in program:
 
 ## python auto recommend question helper
 
-Python mysql example: auto recommend question helper
+Python example: auto recommend question helper
 
 ```python
 #encoding=utf-8

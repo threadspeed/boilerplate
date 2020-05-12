@@ -17,7 +17,7 @@ Functions in program:
 
 ## python Isn%2520proget%25204
 
-Python mysql example: Isn%2520proget%25204
+Python example: Isn%2520proget%25204
 
 ```python
 Maliste =[]

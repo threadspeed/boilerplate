@@ -8,7 +8,7 @@ Python script 'ex052'
 
 ## python ex052
 
-Python mysql example: ex052
+Python example: ex052
 
 ```python
 num=int(input('Digite um numero'))

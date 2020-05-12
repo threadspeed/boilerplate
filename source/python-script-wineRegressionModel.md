@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python wineRegressionModel
 
-Python mysql example: wineRegressionModel
+Python example: wineRegressionModel
 
 ```python
 #Data Preprocessing

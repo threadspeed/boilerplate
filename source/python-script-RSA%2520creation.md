@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python RSA%2520creation
 
-Python mysql example: RSA%2520creation
+Python example: RSA%2520creation
 
 ```python
 from Crypto.PublicKey import RSA

@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python TimingFindingMin
 
-Python mysql example: TimingFindingMin
+Python example: TimingFindingMin
 
 ```python
 import random

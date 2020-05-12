@@ -10,7 +10,7 @@ Functions in program:
 
 ## python prime
 
-Python mysql example: prime
+Python example: prime
 
 ```python
 def primeTable(n):

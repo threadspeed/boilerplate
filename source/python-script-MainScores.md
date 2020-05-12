@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python MainScores
 
-Python mysql example: MainScores
+Python example: MainScores
 
 ```python
 from flask import Flask

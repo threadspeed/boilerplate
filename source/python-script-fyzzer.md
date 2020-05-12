@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python fyzzer
 
-Python mysql example: fyzzer
+Python example: fyzzer
 
 ```python
 import random,gdb

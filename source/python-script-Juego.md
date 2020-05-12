@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Juego
 
-Python mysql example: Juego
+Python example: Juego
 
 ```python
 from Proyecto_final.Player import Player

@@ -11,7 +11,7 @@ Functions in program:
 
 ## python nametest
 
-Python mysql example: nametest
+Python example: nametest
 
 ```python
 def namecall():

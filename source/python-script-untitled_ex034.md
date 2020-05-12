@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python untitled ex034
 
-Python mysql example: untitled ex034
+Python example: untitled ex034
 
 ```python
 import random

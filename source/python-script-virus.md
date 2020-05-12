@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python virus
 
-Python mysql example: virus
+Python example: virus
 
 ```python
 

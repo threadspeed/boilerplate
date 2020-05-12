@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python DUELLING PSYCHOS
 
-Python mysql example: DUELLING PSYCHOS
+Python example: DUELLING PSYCHOS
 
 ```python
 import random

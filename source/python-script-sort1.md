@@ -28,7 +28,7 @@ Modules used in program:
 
 ## python sort1
 
-Python mysql example: sort1
+Python example: sort1
 
 ```python
 #!/usr/bin/env python3

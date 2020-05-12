@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python gbz
 
-Python mysql example: gbz
+Python example: gbz
 
 ```python
 #simulyator smoego soseda

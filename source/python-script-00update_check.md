@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python 00update check
 
-Python mysql example: 00update check
+Python example: 00update check
 
 ```python
 import sys

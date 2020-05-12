@@ -8,7 +8,7 @@ Python script 'characters'
 
 ## python characters
 
-Python mysql example: characters
+Python example: characters
 
 ```python
 print(__import__('random').choice(__import__('sys').stdin.read().strip()))

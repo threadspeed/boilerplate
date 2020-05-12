@@ -8,7 +8,7 @@ Python script 'PythonCode PythonCoding LearningPython printOdds'
 
 ## python PythonCode PythonCoding LearningPython printOdds
 
-Python mysql example: PythonCode PythonCoding LearningPython printOdds
+Python example: PythonCode PythonCoding LearningPython printOdds
 
 ```python
 for i in range(1, 21):

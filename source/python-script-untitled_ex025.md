@@ -8,7 +8,7 @@ Python script 'untitled ex025'
 
 ## python untitled ex025
 
-Python mysql example: untitled ex025
+Python example: untitled ex025
 
 ```python
 casa = float(input('Digite o valor final da casa: '))

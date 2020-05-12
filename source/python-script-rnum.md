@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python rnum
 
-Python mysql example: rnum
+Python example: rnum
 
 ```python
 import random

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python gbfc stability
 
-Python mysql example: gbfc stability
+Python example: gbfc stability
 
 ```python
 # gbfc_stability.py

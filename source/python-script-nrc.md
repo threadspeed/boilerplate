@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python nrc
 
-Python mysql example: nrc
+Python example: nrc
 
 ```python
 # limited random scaling

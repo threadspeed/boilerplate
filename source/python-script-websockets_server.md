@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python websockets server
 
-Python mysql example: websockets server
+Python example: websockets server
 
 ```python
 

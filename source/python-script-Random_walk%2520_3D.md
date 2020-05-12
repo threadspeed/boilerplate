@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python Random walk%2520 3D
 
-Python mysql example: Random walk%2520 3D
+Python example: Random walk%2520 3D
 
 ```python
 import random

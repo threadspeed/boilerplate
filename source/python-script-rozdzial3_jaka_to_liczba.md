@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python rozdzial3 jaka to liczba
 
-Python mysql example: rozdzial3 jaka to liczba
+Python example: rozdzial3 jaka to liczba
 
 ```python
 import random

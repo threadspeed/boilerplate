@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python zer0C4
 
-Python mysql example: zer0C4
+Python example: zer0C4
 
 ```python
 #!/usr/bin/env python

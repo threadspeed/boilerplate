@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python rozdzial3 rzut kostka
 
-Python mysql example: rozdzial3 rzut kostka
+Python example: rozdzial3 rzut kostka
 
 ```python
 import random

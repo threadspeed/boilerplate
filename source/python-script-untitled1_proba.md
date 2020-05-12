@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python untitled1 proba
 
-Python mysql example: untitled1 proba
+Python example: untitled1 proba
 
 ```python
 import random

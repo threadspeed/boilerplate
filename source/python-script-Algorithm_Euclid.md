@@ -10,7 +10,7 @@ Functions in program:
 
 ## python Algorithm Euclid
 
-Python mysql example: Algorithm Euclid
+Python example: Algorithm Euclid
 
 ```python
 def Eulid(x,y):

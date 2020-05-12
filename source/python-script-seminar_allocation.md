@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python seminar allocation
 
-Python mysql example: seminar allocation
+Python example: seminar allocation
 
 ```python
 """

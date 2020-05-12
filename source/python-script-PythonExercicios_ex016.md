@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex016'
 
 ## python PythonExercicios ex016
 
-Python mysql example: PythonExercicios ex016
+Python example: PythonExercicios ex016
 
 ```python
 from math import trunc

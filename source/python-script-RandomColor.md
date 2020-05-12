@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python RandomColor
 
-Python mysql example: RandomColor
+Python example: RandomColor
 
 ```python
 import random

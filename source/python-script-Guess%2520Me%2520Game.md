@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Guess%2520Me%2520Game
 
-Python mysql example: Guess%2520Me%2520Game
+Python example: Guess%2520Me%2520Game
 
 ```python
 # -*- coding: utf-8 -*-

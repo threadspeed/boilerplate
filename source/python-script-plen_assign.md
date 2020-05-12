@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python plen assign
 
-Python mysql example: plen assign
+Python example: plen assign
 
 ```python
 import random

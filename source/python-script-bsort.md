@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python bsort
 
-Python mysql example: bsort
+Python example: bsort
 
 ```python
 import random

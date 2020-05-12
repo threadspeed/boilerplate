@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python ALGORITHM LAB BFS
 
-Python mysql example: ALGORITHM LAB BFS
+Python example: ALGORITHM LAB BFS
 
 ```python
 # Breadth First Search

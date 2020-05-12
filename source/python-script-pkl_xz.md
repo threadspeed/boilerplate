@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python pkl xz
 
-Python mysql example: pkl xz
+Python example: pkl xz
 
 ```python
 # save and load "pkl.xz" pickle files compressed with xz

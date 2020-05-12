@@ -8,7 +8,7 @@ Python script 'skrito stevilo'
 
 ## python skrito stevilo
 
-Python mysql example: skrito stevilo
+Python example: skrito stevilo
 
 ```python
 #-*- coding: utf-8 -*-

@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python pairclient
 
-Python mysql example: pairclient
+Python example: pairclient
 
 ```python
 import zmq

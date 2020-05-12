@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python estimate
 
-Python mysql example: estimate
+Python example: estimate
 
 ```python
 import sklearn

@@ -10,7 +10,7 @@ Functions in program:
 
 ## python file6
 
-Python mysql example: file6
+Python example: file6
 
 ```python
 def next_count(n,f,b,fb):

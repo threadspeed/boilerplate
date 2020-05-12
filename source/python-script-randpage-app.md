@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python randpage-app
 
-Python mysql example: randpage-app
+Python example: randpage-app
 
 ```python
 #!/usr/bin/env python

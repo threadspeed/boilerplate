@@ -8,7 +8,7 @@ Python script 'OMETIFF replaceXML'
 
 ## python OMETIFF replaceXML
 
-Python mysql example: OMETIFF replaceXML
+Python example: OMETIFF replaceXML
 
 ```python
 #from loci.formats.tools import TiffComment as TC

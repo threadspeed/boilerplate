@@ -12,7 +12,7 @@ Functions in program:
 
 ## python timer
 
-Python mysql example: timer
+Python example: timer
 
 ```python
 from timeit import Timer

@@ -8,7 +8,7 @@ Python script 'ALGORITHM LAB SUBSET SUM'
 
 ## python ALGORITHM LAB SUBSET SUM
 
-Python mysql example: ALGORITHM LAB SUBSET SUM
+Python example: ALGORITHM LAB SUBSET SUM
 
 ```python
 # Subset Sum

@@ -26,7 +26,7 @@ Modules used in program:
 
 ## python NLP
 
-Python mysql example: NLP
+Python example: NLP
 
 ```python
 #!/usr/bin/env python

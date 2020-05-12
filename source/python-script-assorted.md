@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python assorted
 
-Python mysql example: assorted
+Python example: assorted
 
 ```python
 # generate slices of extent target_shape for indexing object of shape input_shape

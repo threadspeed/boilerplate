@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python rpg combat
 
-Python mysql example: rpg combat
+Python example: rpg combat
 
 ```python
 #!/usr/bin/env python3

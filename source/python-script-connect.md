@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python connect
 
-Python mysql example: connect
+Python example: connect
 
 ```python
 import mysql.connector as con

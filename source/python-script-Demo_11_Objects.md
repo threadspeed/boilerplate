@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Demo 11 Objects
 
-Python mysql example: Demo 11 Objects
+Python example: Demo 11 Objects
 
 ```python
 import random

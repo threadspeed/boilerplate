@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python individuo
 
-Python mysql example: individuo
+Python example: individuo
 
 ```python
 #!/bin/python

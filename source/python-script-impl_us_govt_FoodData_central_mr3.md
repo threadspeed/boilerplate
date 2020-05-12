@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python impl us govt FoodData central mr3
 
-Python mysql example: impl us govt FoodData central mr3
+Python example: impl us govt FoodData central mr3
 
 ```python
 # MR3: subset relation based on brandOwner

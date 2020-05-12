@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python class demo
 
-Python mysql example: class demo
+Python example: class demo
 
 ```python
 #Import Random Library 

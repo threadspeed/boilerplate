@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python ALGORITHM LAB insertion
 
-Python mysql example: ALGORITHM LAB insertion
+Python example: ALGORITHM LAB insertion
 
 ```python
 # Insertion Sort

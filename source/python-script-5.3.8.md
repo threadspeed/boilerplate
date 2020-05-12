@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python 5.3.8
 
-Python mysql example: 5.3.8
+Python example: 5.3.8
 
 ```python
 """

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python arvaus
 
-Python mysql example: arvaus
+Python example: arvaus
 
 ```python
 import random #tuodaan Random-kirjasto

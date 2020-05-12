@@ -8,7 +8,7 @@ Python script 'untitled ex024'
 
 ## python untitled ex024
 
-Python mysql example: untitled ex024
+Python example: untitled ex024
 
 ```python
 frase = 'Curso em Video de Python'

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python escolha um da lista randomica
 
-Python mysql example: escolha um da lista randomica
+Python example: escolha um da lista randomica
 
 ```python
 import random

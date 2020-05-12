@@ -8,7 +8,7 @@ Python script '8'
 
 ## python 8
 
-Python mysql example: 8
+Python example: 8
 
 ```python
 from enum import Enum

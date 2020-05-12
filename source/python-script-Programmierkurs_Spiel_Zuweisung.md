@@ -8,7 +8,7 @@ Python script 'Programmierkurs Spiel Zuweisung'
 
 ## python Programmierkurs Spiel Zuweisung
 
-Python mysql example: Programmierkurs Spiel Zuweisung
+Python example: Programmierkurs Spiel Zuweisung
 
 ```python
 # Werte

@@ -11,7 +11,7 @@ Functions in program:
 
 ## python 5.1.8
 
-Python mysql example: 5.1.8
+Python example: 5.1.8
 
 ```python
 """

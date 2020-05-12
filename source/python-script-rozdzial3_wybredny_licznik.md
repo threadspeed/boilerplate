@@ -8,7 +8,7 @@ Python script 'rozdzial3 wybredny licznik'
 
 ## python rozdzial3 wybredny licznik
 
-Python mysql example: rozdzial3 wybredny licznik
+Python example: rozdzial3 wybredny licznik
 
 ```python
 count = 0

@@ -8,7 +8,7 @@ Python script 'list less than ten'
 
 ## python list less than ten
 
-Python mysql example: list less than ten
+Python example: list less than ten
 
 ```python
 a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]

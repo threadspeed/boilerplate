@@ -52,7 +52,7 @@ Modules used in program:
 
 ## python xmasgifts
 
-Python mysql example: xmasgifts
+Python example: xmasgifts
 
 ```python
 __plugin_name__ = "XmasGifts"

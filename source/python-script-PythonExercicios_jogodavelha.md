@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python PythonExercicios jogodavelha
 
-Python mysql example: PythonExercicios jogodavelha
+Python example: PythonExercicios jogodavelha
 
 ```python
 # -*- coding: utf-8 -*-

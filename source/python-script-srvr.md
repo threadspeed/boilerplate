@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python srvr
 
-Python mysql example: srvr
+Python example: srvr
 
 ```python
 #!/usr/bin/python

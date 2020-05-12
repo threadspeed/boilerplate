@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python run sanic
 
-Python mysql example: run sanic
+Python example: run sanic
 
 ```python
 import random

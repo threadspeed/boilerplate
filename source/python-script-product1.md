@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python product1
 
-Python mysql example: product1
+Python example: product1
 
 ```python
 from time import sleep

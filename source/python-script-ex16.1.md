@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python ex16.1
 
-Python mysql example: ex16.1
+Python example: ex16.1
 
 ```python
 import random

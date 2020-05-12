@@ -8,7 +8,7 @@ Python script 'exercise4'
 
 ## python exercise4
 
-Python mysql example: exercise4
+Python example: exercise4
 
 ```python
 try: 

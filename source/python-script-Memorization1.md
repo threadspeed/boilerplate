@@ -11,7 +11,7 @@ Functions in program:
 
 ## python Memorization1
 
-Python mysql example: Memorization1
+Python example: Memorization1
 
 ```python
 count = 0

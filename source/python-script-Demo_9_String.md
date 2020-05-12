@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Demo 9 String
 
-Python mysql example: Demo 9 String
+Python example: Demo 9 String
 
 ```python
 import random

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python Captcha Project GenerateData
 
-Python mysql example: Captcha Project GenerateData
+Python example: Captcha Project GenerateData
 
 ```python
 # Code from https://mathematica.stackexchange.com/questions/143691/crack-captcha-using-deep-learning

@@ -10,7 +10,7 @@ Functions in program:
 
 ## python multiline scatter
 
-Python mysql example: multiline scatter
+Python example: multiline scatter
 
 ```python
 def scatterPlot_multi(file_list, sheet_list, X, Y_list,x_lb, y_lb, title, dirname,it):

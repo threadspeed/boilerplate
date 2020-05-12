@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python 1-random
 
-Python mysql example: 1-random
+Python example: 1-random
 
 ```python
 from math import sqrt

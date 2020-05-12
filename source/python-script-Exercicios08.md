@@ -8,7 +8,7 @@ Python script 'Exercicios08'
 
 ## python Exercicios08
 
-Python mysql example: Exercicios08
+Python example: Exercicios08
 
 ```python
 from math import trunc

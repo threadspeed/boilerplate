@@ -11,7 +11,7 @@ Functions in program:
 
 ## python practicepython ex13
 
-Python mysql example: practicepython ex13
+Python example: practicepython ex13
 
 ```python
 #!/usr/bin/python

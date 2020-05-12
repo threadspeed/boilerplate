@@ -22,7 +22,7 @@ Modules used in program:
 
 ## python teamcymru
 
-Python mysql example: teamcymru
+Python example: teamcymru
 
 ```python
 ###INSTALL: netcat or gnetcat (NOT nc)

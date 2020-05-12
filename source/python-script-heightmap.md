@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python heightmap
 
-Python mysql example: heightmap
+Python example: heightmap
 
 ```python
 import itertools

@@ -8,7 +8,7 @@ Python script 'real player'
 
 ## python real player
 
-Python mysql example: real player
+Python example: real player
 
 ```python
 """ RealPlayer """

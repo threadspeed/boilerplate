@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Python Practice Demo 2 List
 
-Python mysql example: Python Practice Demo 2 List
+Python example: Python Practice Demo 2 List
 
 ```python
 import random

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python lambda
 
-Python mysql example: lambda
+Python example: lambda
 
 ```python
 ########################################################

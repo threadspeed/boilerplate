@@ -8,7 +8,7 @@ Python script 'ex32'
 
 ## python ex32
 
-Python mysql example: ex32
+Python example: ex32
 
 ```python
 ano=int(input('Digite o ano:'))

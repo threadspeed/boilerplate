@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python Tic
 
-Python mysql example: Tic
+Python example: Tic
 
 ```python
 import random

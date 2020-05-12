@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python messages
 
-Python mysql example: messages
+Python example: messages
 
 ```python
 import time

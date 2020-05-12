@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python crawler Spider keke
 
-Python mysql example: crawler Spider keke
+Python example: crawler Spider keke
 
 ```python
 #!/usr/bin/env python

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python flying fickle finger of fate
 
-Python mysql example: flying fickle finger of fate
+Python example: flying fickle finger of fate
 
 ```python
 #!/usr/bin/python

@@ -8,7 +8,7 @@ Python script 'ex22curso'
 
 ## python ex22curso
 
-Python mysql example: ex22curso
+Python example: ex22curso
 
 ```python
 

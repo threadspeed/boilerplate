@@ -8,7 +8,7 @@ Python script 'django code'
 
 ## python django code
 
-Python mysql example: django code
+Python example: django code
 
 ```python
 from rest_framework.renderers import JSONRenderer

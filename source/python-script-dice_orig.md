@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python dice orig
 
-Python mysql example: dice orig
+Python example: dice orig
 
 ```python
 #!/usr/bin/python3

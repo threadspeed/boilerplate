@@ -16,7 +16,7 @@ Functions in program:
 
 ## python simple
 
-Python mysql example: simple
+Python example: simple
 
 ```python
 from pyramid.config import Configurator

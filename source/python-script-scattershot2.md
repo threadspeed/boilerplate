@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python scattershot2
 
-Python mysql example: scattershot2
+Python example: scattershot2
 
 ```python
 # All command scripts have a context that contains a reference to

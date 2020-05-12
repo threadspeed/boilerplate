@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python aes url
 
-Python mysql example: aes url
+Python example: aes url
 
 ```python
 #!/usr/bin/env python3

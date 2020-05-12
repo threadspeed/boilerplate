@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python QuickSort
 
-Python mysql example: QuickSort
+Python example: QuickSort
 
 ```python
 import random

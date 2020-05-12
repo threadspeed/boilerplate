@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python mazegen
 
-Python mysql example: mazegen
+Python example: mazegen
 
 ```python
 import random

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python hex color between
 
-Python mysql example: hex color between
+Python example: hex color between
 
 ```python
 # coding: utf-8

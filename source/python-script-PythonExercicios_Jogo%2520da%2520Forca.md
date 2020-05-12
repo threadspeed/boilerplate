@@ -8,7 +8,7 @@ Python script 'PythonExercicios Jogo%2520da%2520Forca'
 
 ## python PythonExercicios Jogo%2520da%2520Forca
 
-Python mysql example: PythonExercicios Jogo%2520da%2520Forca
+Python example: PythonExercicios Jogo%2520da%2520Forca
 
 ```python
 #Para dividir a palavra use list(variavel da palavra)

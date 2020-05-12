@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python step2 generic
 
-Python mysql example: step2 generic
+Python example: step2 generic
 
 ```python
 class InputData(object):

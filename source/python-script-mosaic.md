@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python mosaic
 
-Python mysql example: mosaic
+Python example: mosaic
 
 ```python
 import random

@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python step1 nongeneric
 
-Python mysql example: step1 nongeneric
+Python example: step1 nongeneric
 
 ```python
 class InputData(object):

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python mee9-lvlup bot
 
-Python mysql example: mee9-lvlup bot
+Python example: mee9-lvlup bot
 
 ```python
 import discord

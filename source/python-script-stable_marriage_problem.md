@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python stable marriage problem
 
-Python mysql example: stable marriage problem
+Python example: stable marriage problem
 
 ```python
 import time

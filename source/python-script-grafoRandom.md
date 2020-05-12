@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python grafoRandom
 
-Python mysql example: grafoRandom
+Python example: grafoRandom
 
 ```python
 #!/usr/bin/python3

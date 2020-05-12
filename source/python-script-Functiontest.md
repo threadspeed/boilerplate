@@ -10,7 +10,7 @@ Functions in program:
 
 ## python Functiontest
 
-Python mysql example: Functiontest
+Python example: Functiontest
 
 ```python
 def recursion(k):

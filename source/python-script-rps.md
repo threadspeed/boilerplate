@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python rps
 
-Python mysql example: rps
+Python example: rps
 
 ```python
 import random

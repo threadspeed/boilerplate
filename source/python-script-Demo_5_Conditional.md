@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Demo 5 Conditional
 
-Python mysql example: Demo 5 Conditional
+Python example: Demo 5 Conditional
 
 ```python
 import random

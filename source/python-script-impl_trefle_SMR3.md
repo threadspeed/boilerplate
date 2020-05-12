@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python impl trefle SMR3
 
-Python mysql example: impl trefle SMR3
+Python example: impl trefle SMR3
 
 ```python
 # SMR2: Test difference MROP on species using  filter

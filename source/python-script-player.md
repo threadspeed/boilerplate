@@ -8,7 +8,7 @@ Python script 'player'
 
 ## python player
 
-Python mysql example: player
+Python example: player
 
 ```python
 """ Abstract Player """

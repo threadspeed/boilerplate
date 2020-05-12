@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python check delivery time
 
-Python mysql example: check delivery time
+Python example: check delivery time
 
 ```python
 import optparse

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python client tcp
 
-Python mysql example: client tcp
+Python example: client tcp
 
 ```python
 import socket

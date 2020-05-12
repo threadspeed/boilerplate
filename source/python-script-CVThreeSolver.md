@@ -26,7 +26,7 @@ Modules used in program:
 
 ## python CVThreeSolver
 
-Python mysql example: CVThreeSolver
+Python example: CVThreeSolver
 
 ```python
 #!/usr/bin/python

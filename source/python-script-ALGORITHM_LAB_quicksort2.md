@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python ALGORITHM LAB quicksort2
 
-Python mysql example: ALGORITHM LAB quicksort2
+Python example: ALGORITHM LAB quicksort2
 
 ```python
 # Quick Sort 2

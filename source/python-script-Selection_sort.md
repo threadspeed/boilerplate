@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Selection sort
 
-Python mysql example: Selection sort
+Python example: Selection sort
 
 ```python
 import time

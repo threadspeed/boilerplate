@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python impl weatherbit historical weather api SMR4
 
-Python mysql example: impl weatherbit historical weather api SMR4
+Python example: impl weatherbit historical weather api SMR4
 
 ```python
 # SMR4: Test latitude Longitude

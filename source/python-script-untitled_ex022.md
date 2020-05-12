@@ -8,7 +8,7 @@ Python script 'untitled ex022'
 
 ## python untitled ex022
 
-Python mysql example: untitled ex022
+Python example: untitled ex022
 
 ```python
 sal = float(input("Digite seu salário: "))

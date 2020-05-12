@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python sleep
 
-Python mysql example: sleep
+Python example: sleep
 
 ```python
 import random

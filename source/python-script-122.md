@@ -17,7 +17,7 @@ Functions in program:
 
 ## python 122
 
-Python mysql example: 122
+Python example: 122
 
 ```python
 from telegram.ext import Updater, MessageHandler, Filters, CommandHandler, JobQueue

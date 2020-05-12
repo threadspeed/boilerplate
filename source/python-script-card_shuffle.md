@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python card shuffle
 
-Python mysql example: card shuffle
+Python example: card shuffle
 
 ```python
 

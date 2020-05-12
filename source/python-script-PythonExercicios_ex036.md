@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex036'
 
 ## python PythonExercicios ex036
 
-Python mysql example: PythonExercicios ex036
+Python example: PythonExercicios ex036
 
 ```python
 casa = float(input('Digite o valor da casa: '))

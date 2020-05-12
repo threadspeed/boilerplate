@@ -8,7 +8,7 @@ Python script 'main'
 
 ## python main
 
-Python mysql example: main
+Python example: main
 
 ```python
 """ Let the Game begin """

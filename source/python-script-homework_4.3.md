@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python homework 4.3
 
-Python mysql example: homework 4.3
+Python example: homework 4.3
 
 ```python
 # Bonus homework 4.3: Print out only the top 3 results

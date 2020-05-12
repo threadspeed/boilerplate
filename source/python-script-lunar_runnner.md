@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python lunar runnner
 
-Python mysql example: lunar runnner
+Python example: lunar runnner
 
 ```python
 # import the gym stuff

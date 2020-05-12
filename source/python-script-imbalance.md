@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python imbalance
 
-Python mysql example: imbalance
+Python example: imbalance
 
 ```python
 import numpy as np

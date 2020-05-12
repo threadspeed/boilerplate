@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python ThreeSolver
 
-Python mysql example: ThreeSolver
+Python example: ThreeSolver
 
 ```python
 #!/usr/bin/python

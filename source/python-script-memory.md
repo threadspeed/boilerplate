@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python memory
 
-Python mysql example: memory
+Python example: memory
 
 ```python
 import numpy as np

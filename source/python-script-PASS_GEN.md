@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python PASS GEN
 
-Python mysql example: PASS GEN
+Python example: PASS GEN
 
 ```python
 # PASSWORD GENERATOR

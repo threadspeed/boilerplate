@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python douyin
 
-Python mysql example: douyin
+Python example: douyin
 
 ```python
 import os

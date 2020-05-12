@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python doodle-spoiler
 
-Python mysql example: doodle-spoiler
+Python example: doodle-spoiler
 
 ```python
 #! /usr/bin/env python3

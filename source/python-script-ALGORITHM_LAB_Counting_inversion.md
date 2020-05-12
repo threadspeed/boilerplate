@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python ALGORITHM LAB Counting inversion
 
-Python mysql example: ALGORITHM LAB Counting inversion
+Python example: ALGORITHM LAB Counting inversion
 
 ```python
 # Counting Inversion

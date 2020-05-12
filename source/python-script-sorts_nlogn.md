@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python sorts nlogn
 
-Python mysql example: sorts nlogn
+Python example: sorts nlogn
 
 ```python
 import random

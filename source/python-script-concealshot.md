@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python concealshot
 
-Python mysql example: concealshot
+Python example: concealshot
 
 ```python
 # All command scripts have a context that contains a reference to

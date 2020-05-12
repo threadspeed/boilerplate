@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python virus 1
 
-Python mysql example: virus 1
+Python example: virus 1
 
 ```python
 import random

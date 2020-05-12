@@ -8,7 +8,7 @@ Python script 'ex24'
 
 ## python ex24
 
-Python mysql example: ex24
+Python example: ex24
 
 ```python
 cidade=str(input('Digite o nome de uma cidade').upper()).split()

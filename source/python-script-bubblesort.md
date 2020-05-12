@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python bubblesort
 
-Python mysql example: bubblesort
+Python example: bubblesort
 
 ```python
 """

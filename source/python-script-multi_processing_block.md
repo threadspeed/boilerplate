@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python multi processing block
 
-Python mysql example: multi processing block
+Python example: multi processing block
 
 ```python
 from multiprocessing import Process, Queue

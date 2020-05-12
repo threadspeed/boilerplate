@@ -8,7 +8,7 @@ Python script 'testA'
 
 ## python testA
 
-Python mysql example: testA
+Python example: testA
 
 ```python
 d = datetime.datetime(1,1,1)

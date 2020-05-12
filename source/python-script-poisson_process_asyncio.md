@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python poisson process asyncio
 
-Python mysql example: poisson process asyncio
+Python example: poisson process asyncio
 
 ```python
 import asyncio

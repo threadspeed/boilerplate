@@ -8,7 +8,7 @@ Python script 'Week1 calc2'
 
 ## python Week1 calc2
 
-Python mysql example: Week1 calc2
+Python example: Week1 calc2
 
 ```python
 sum=0

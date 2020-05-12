@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python ChatbotWhole
 
-Python mysql example: ChatbotWhole
+Python example: ChatbotWhole
 
 ```python
 #1

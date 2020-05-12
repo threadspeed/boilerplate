@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Exercise16
 
-Python mysql example: Exercise16
+Python example: Exercise16
 
 ```python
 import random

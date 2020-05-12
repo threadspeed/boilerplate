@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python simulate
 
-Python mysql example: simulate
+Python example: simulate
 
 ```python
 #!/usr/bin/env python3.2

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python countt
 
-Python mysql example: countt
+Python example: countt
 
 ```python
 import random

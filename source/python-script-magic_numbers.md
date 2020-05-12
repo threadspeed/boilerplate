@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python magic numbers
 
-Python mysql example: magic numbers
+Python example: magic numbers
 
 ```python
 import random

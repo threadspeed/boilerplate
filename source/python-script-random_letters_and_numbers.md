@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python random letters and numbers
 
-Python mysql example: random letters and numbers
+Python example: random letters and numbers
 
 ```python
 import random

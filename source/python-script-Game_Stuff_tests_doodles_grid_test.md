@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python Game Stuff tests doodles grid test
 
-Python mysql example: Game Stuff tests doodles grid test
+Python example: Game Stuff tests doodles grid test
 
 ```python
 from Game_Stuff.utilities import colors

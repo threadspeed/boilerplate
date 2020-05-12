@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python version1
 
-Python mysql example: version1
+Python example: version1
 
 ```python
 import cProfile

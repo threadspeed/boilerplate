@@ -8,7 +8,7 @@ Python script 'ex31'
 
 ## python ex31
 
-Python mysql example: ex31
+Python example: ex31
 
 ```python
 km=float(input('Digite a distancia da viagem: '))

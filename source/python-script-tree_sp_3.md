@@ -10,7 +10,7 @@ Functions in program:
 
 ## python tree sp 3
 
-Python mysql example: tree sp 3
+Python example: tree sp 3
 
 ```python
 # This version allows the snowpi brightness to be set

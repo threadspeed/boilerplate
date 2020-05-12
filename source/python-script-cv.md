@@ -25,7 +25,7 @@ Modules used in program:
 
 ## python cv
 
-Python mysql example: cv
+Python example: cv
 
 ```python
 #!/usr/bin/env python3

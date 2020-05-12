@@ -35,7 +35,7 @@ Modules used in program:
 
 ## python auto recommend jieba helper
 
-Python mysql example: auto recommend jieba helper
+Python example: auto recommend jieba helper
 
 ```python
 #encoding=utf-8

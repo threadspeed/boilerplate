@@ -8,7 +8,7 @@ Python script 'chronic kidney disease10'
 
 ## python chronic kidney disease10
 
-Python mysql example: chronic kidney disease10
+Python example: chronic kidney disease10
 
 ```python
 features = kidney_disease.drop(['Class'], axis = 1)

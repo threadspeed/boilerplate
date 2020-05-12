@@ -8,7 +8,7 @@ Python script 'chronic kidney disease5'
 
 ## python chronic kidney disease5
 
-Python mysql example: chronic kidney disease5
+Python example: chronic kidney disease5
 
 ```python
 kidney_disease.dropna(inplace= True)

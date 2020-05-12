@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python worker
 
-Python mysql example: worker
+Python example: worker
 
 ```python
 import os

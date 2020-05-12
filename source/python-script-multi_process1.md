@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python multi process1
 
-Python mysql example: multi process1
+Python example: multi process1
 
 ```python
 #!/usr/bin/python

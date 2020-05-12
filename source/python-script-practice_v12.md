@@ -10,7 +10,7 @@ Functions in program:
 
 ## python practice v12
 
-Python mysql example: practice v12
+Python example: practice v12
 
 ```python
 def practice_v12():

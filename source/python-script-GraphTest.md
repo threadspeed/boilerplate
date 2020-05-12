@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python GraphTest
 
-Python mysql example: GraphTest
+Python example: GraphTest
 
 ```python
 import string

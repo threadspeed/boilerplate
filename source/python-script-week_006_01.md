@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python week 006 01
 
-Python mysql example: week 006 01
+Python example: week 006 01
 
 ```python
 # 1

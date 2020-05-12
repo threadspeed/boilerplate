@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python app js
 
-Python mysql example: app js
+Python example: app js
 
 ```python
 import random

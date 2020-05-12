@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python test threads
 
-Python mysql example: test threads
+Python example: test threads
 
 ```python
 from __future__ import print_function, division

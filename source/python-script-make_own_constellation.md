@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python make own constellation
 
-Python mysql example: make own constellation
+Python example: make own constellation
 
 ```python
 # -*- coding: utf-8 -*-

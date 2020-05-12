@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python ymm test miyun test
 
-Python mysql example: ymm test miyun test
+Python example: ymm test miyun test
 
 ```python
 #-*- coding:UTF-8 -*-

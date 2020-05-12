@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python rs-baseline source fm
 
-Python mysql example: rs-baseline source fm
+Python example: rs-baseline source fm
 
 ```python
 # coding:utf8

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Ex.5 2
 
-Python mysql example: Ex.5 2
+Python example: Ex.5 2
 
 ```python
 

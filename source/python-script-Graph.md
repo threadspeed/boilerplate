@@ -8,7 +8,7 @@ Python script 'Graph'
 
 ## python Graph
 
-Python mysql example: Graph
+Python example: Graph
 
 ```python
 """from Ch2 of think complexity."""

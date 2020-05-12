@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python server
 
-Python mysql example: server
+Python example: server
 
 ```python
 #!/usr/bin/env python

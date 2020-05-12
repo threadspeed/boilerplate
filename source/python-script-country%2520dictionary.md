@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python country%2520dictionary
 
-Python mysql example: country%2520dictionary
+Python example: country%2520dictionary
 
 ```python
 print("Welcome to the geography quiz!")

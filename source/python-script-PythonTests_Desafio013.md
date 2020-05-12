@@ -8,7 +8,7 @@ Python script 'PythonTests Desafio013'
 
 ## python PythonTests Desafio013
 
-Python mysql example: PythonTests Desafio013
+Python example: PythonTests Desafio013
 
 ```python
 s=int(input('Qual o valor de seu salário? (R$) '))

@@ -11,7 +11,7 @@ Functions in program:
 
 ## python randomnumandletter
 
-Python mysql example: randomnumandletter
+Python example: randomnumandletter
 
 ```python
 #random generator

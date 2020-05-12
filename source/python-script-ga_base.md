@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python ga base
 
-Python mysql example: ga base
+Python example: ga base
 
 ```python
 import copy

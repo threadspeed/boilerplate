@@ -8,7 +8,7 @@ Python script 'PrinterM'
 
 ## python PrinterM
 
-Python mysql example: PrinterM
+Python example: PrinterM
 
 ```python
 class Printer:

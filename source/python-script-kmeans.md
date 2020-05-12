@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python kmeans
 
-Python mysql example: kmeans
+Python example: kmeans
 
 ```python
 import rhinoscriptsyntax as rs

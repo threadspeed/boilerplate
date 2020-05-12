@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python impl weatherbit historical weather api SMR1
 
-Python mysql example: impl weatherbit historical weather api SMR1
+Python example: impl weatherbit historical weather api SMR1
 
 ```python
 # FAILURE CAUSING

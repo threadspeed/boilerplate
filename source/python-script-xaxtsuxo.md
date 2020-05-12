@@ -8,7 +8,7 @@ Python script 'xaxtsuxo'
 
 ## python xaxtsuxo
 
-Python mysql example: xaxtsuxo
+Python example: xaxtsuxo
 
 ```python
 >>> import json

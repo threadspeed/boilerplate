@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python top k
 
-Python mysql example: top k
+Python example: top k
 
 ```python
 # Udacity, CS215, 3.16-3.18 Top K Code

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python LIST MERGE
 
-Python mysql example: LIST MERGE
+Python example: LIST MERGE
 
 ```python
 # To List Out the Common Unique Elements from Two Lists

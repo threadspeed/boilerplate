@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python individual
 
-Python mysql example: individual
+Python example: individual
 
 ```python
 # -*- coding:Utf-8 -*-

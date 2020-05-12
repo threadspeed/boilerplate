@@ -8,7 +8,7 @@ Python script 'wumpus class'
 
 ## python wumpus class
 
-Python mysql example: wumpus class
+Python example: wumpus class
 
 ```python
 class rum(object):

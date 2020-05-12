@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python bot
 
-Python mysql example: bot
+Python example: bot
 
 ```python
 import random

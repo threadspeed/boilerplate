@@ -11,7 +11,7 @@ Functions in program:
 
 ## python quickmerge
 
-Python mysql example: quickmerge
+Python example: quickmerge
 
 ```python
 def quicksort(list):

@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python tqdm examples
 
-Python mysql example: tqdm examples
+Python example: tqdm examples
 
 ```python
 from tqdm import tqdm, trange

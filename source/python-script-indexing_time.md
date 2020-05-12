@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python indexing time
 
-Python mysql example: indexing time
+Python example: indexing time
 
 ```python
 import timeit

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python ex1 setPoint MFnMesh
 
-Python mysql example: ex1 setPoint MFnMesh
+Python example: ex1 setPoint MFnMesh
 
 ```python
 # Exapmpe1

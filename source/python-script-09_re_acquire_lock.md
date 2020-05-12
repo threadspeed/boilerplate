@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python 09 re acquire lock
 
-Python mysql example: 09 re acquire lock
+Python example: 09 re acquire lock
 
 ```python
 import threading

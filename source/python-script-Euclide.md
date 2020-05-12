@@ -11,7 +11,7 @@ Functions in program:
 
 ## python Euclide
 
-Python mysql example: Euclide
+Python example: Euclide
 
 ```python
 #! /usr/bin/env python

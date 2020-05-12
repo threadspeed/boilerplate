@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python kyuri
 
-Python mysql example: kyuri
+Python example: kyuri
 
 ```python
 #coding: utf-8

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python tiff parse
 
-Python mysql example: tiff parse
+Python example: tiff parse
 
 ```python
 #!/usr/bin/env python

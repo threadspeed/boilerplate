@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python retry decorator
 
-Python mysql example: retry decorator
+Python example: retry decorator
 
 ```python
 import time

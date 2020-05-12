@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python server ping
 
-Python mysql example: server ping
+Python example: server ping
 
 ```python
 # UDPPingerServer.py 

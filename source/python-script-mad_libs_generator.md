@@ -8,7 +8,7 @@ Python script 'mad libs generator'
 
 ## python mad libs generator
 
-Python mysql example: mad libs generator
+Python example: mad libs generator
 
 ```python
 adjective1 = raw_input("Give me an adjective: ")

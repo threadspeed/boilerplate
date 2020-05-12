@@ -8,7 +8,7 @@ Python script 'ex055'
 
 ## python ex055
 
-Python mysql example: ex055
+Python example: ex055
 
 ```python
 lpesos = []

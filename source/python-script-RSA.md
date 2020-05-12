@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python RSA
 
-Python mysql example: RSA
+Python example: RSA
 
 ```python
 # -*- coding: utf-8 -*-

@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python test sorder
 
-Python mysql example: test sorder
+Python example: test sorder
 
 ```python
 import random

@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python sqs fifo
 
-Python mysql example: sqs fifo
+Python example: sqs fifo
 
 ```python
 import boto3

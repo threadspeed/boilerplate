@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python postall
 
-Python mysql example: postall
+Python example: postall
 
 ```python
 #!/bin/env python3

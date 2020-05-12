@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python 13.1PreclassCoby
 
-Python mysql example: 13.1PreclassCoby
+Python example: 13.1PreclassCoby
 
 ```python
 #Random Walk

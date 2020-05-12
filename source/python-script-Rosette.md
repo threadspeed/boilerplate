@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Rosette
 
-Python mysql example: Rosette
+Python example: Rosette
 
 ```python
 import turtle

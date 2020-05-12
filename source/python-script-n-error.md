@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python n-error
 
-Python mysql example: n-error
+Python example: n-error
 
 ```python
 # coding:utf-8

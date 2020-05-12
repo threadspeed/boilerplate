@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python pipLine
 
-Python mysql example: pipLine
+Python example: pipLine
 
 ```python
 from threading import Thread

@@ -8,7 +8,7 @@ Python script 'Week1 typeTest'
 
 ## python Week1 typeTest
 
-Python mysql example: Week1 typeTest
+Python example: Week1 typeTest
 
 ```python
 __author__ = 'Administrator'

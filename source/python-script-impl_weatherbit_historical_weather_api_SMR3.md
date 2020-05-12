@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python impl weatherbit historical weather api SMR3
 
-Python mysql example: impl weatherbit historical weather api SMR3
+Python example: impl weatherbit historical weather api SMR3
 
 ```python
 # FAILURE CAUSING

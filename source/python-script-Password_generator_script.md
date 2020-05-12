@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Password generator script
 
-Python mysql example: Password generator script
+Python example: Password generator script
 
 ```python
 import string

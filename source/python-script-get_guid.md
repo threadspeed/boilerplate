@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python get guid
 
-Python mysql example: get guid
+Python example: get guid
 
 ```python
 import os

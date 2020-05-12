@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Cart ml-submit-v1.02
 
-Python mysql example: Cart ml-submit-v1.02
+Python example: Cart ml-submit-v1.02
 
 ```python
 # To run

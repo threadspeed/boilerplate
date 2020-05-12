@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python StrategyTester
 
-Python mysql example: StrategyTester
+Python example: StrategyTester
 
 ```python
 import random

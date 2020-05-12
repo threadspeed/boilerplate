@@ -11,7 +11,7 @@ Functions in program:
 
 ## python ALGORITHM LAB gale shapely
 
-Python mysql example: ALGORITHM LAB gale shapely
+Python example: ALGORITHM LAB gale shapely
 
 ```python
 #GALE SHAPELY ---> Stable Matching

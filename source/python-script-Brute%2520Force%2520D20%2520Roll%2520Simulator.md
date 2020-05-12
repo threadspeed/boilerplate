@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Brute%2520Force%2520D20%2520Roll%2520Simulator
 
-Python mysql example: Brute%2520Force%2520D20%2520Roll%2520Simulator
+Python example: Brute%2520Force%2520D20%2520Roll%2520Simulator
 
 ```python
 #Import random module

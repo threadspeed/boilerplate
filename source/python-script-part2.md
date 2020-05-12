@@ -8,7 +8,7 @@ Python script 'part2'
 
 ## python part2
 
-Python mysql example: part2
+Python example: part2
 
 ```python
 from jax import random

@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python load tester
 
-Python mysql example: load tester
+Python example: load tester
 
 ```python
 """

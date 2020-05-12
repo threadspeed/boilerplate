@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python geographyquiz
 
-Python mysql example: geographyquiz
+Python example: geographyquiz
 
 ```python
 import random

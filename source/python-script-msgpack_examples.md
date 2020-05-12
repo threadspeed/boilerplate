@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python msgpack examples
 
-Python mysql example: msgpack examples
+Python example: msgpack examples
 
 ```python
 import msgpack

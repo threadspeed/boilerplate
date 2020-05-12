@@ -8,7 +8,7 @@ Python script 'ex071'
 
 ## python ex071
 
-Python mysql example: ex071
+Python example: ex071
 
 ```python
 print('='*21)

@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python diffieTest
 
-Python mysql example: diffieTest
+Python example: diffieTest
 
 ```python
 import diffieHellman as dif

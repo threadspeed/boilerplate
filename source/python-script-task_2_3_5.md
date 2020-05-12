@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python task 2 3 5
 
-Python mysql example: task 2 3 5
+Python example: task 2 3 5
 
 ```python
 # Дана строка.

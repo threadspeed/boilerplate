@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python 009 Guessing Game One
 
-Python mysql example: 009 Guessing Game One
+Python example: 009 Guessing Game One
 
 ```python
 # Exercise (and Solution)

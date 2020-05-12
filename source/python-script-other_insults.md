@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python other insults
 
-Python mysql example: other insults
+Python example: other insults
 
 ```python
 import os

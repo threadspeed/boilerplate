@@ -8,7 +8,7 @@ Python script 'Automate Part1'
 
 ## python Automate Part1
 
-Python mysql example: Automate Part1
+Python example: Automate Part1
 
 ```python
 ##username = input("Please Enter Your Username : ")

@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python fluc%2520calculator
 
-Python mysql example: fluc%2520calculator
+Python example: fluc%2520calculator
 
 ```python
 #   Amirkabir Univesity of Technology

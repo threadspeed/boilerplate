@@ -10,7 +10,7 @@ Functions in program:
 
 ## python primality check
 
-Python mysql example: primality check
+Python example: primality check
 
 ```python
 def is_prime(num):

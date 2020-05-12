@@ -8,7 +8,7 @@ Python script 'ex047'
 
 ## python ex047
 
-Python mysql example: ex047
+Python example: ex047
 
 ```python
 from time import sleep

@@ -8,7 +8,7 @@ Python script 'read from file'
 
 ## python read from file
 
-Python mysql example: read from file
+Python example: read from file
 
 ```python
 num_names = 0

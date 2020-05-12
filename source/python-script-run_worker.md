@@ -8,7 +8,7 @@ Python script 'run worker'
 
 ## python run worker
 
-Python mysql example: run worker
+Python example: run worker
 
 ```python
 from rq import Queue, Worker, Connection

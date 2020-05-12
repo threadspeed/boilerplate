@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python countingvalleys
 
-Python mysql example: countingvalleys
+Python example: countingvalleys
 
 ```python
 #!/bin/python3

@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python impl plant id plant id client
 
-Python mysql example: impl plant id plant id client
+Python example: impl plant id plant id client
 
 ```python
 """

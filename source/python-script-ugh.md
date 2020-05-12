@@ -8,7 +8,7 @@ Python script 'ugh'
 
 ## python ugh
 
-Python mysql example: ugh
+Python example: ugh
 
 ```python
 for i in range(3):

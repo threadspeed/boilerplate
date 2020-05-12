@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python love
 
-Python mysql example: love
+Python example: love
 
 ```python
 #!/usr/bin/env python

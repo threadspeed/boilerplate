@@ -8,7 +8,7 @@ Python script 'TspProblem Life'
 
 ## python TspProblem Life
 
-Python mysql example: TspProblem Life
+Python example: TspProblem Life
 
 ```python
 # -*- encoding: utf-8 -*-

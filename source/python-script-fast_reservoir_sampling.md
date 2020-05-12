@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python fast reservoir sampling
 
-Python mysql example: fast reservoir sampling
+Python example: fast reservoir sampling
 
 ```python
 import random

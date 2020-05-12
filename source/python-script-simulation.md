@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python simulation
 
-Python mysql example: simulation
+Python example: simulation
 
 ```python
 import random

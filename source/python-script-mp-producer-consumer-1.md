@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python mp-producer-consumer-1
 
-Python mysql example: mp-producer-consumer-1
+Python example: mp-producer-consumer-1
 
 ```python
 # From: https://pymotw.com/2/multiprocessing/communication.html

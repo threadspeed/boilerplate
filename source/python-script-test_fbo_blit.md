@@ -8,7 +8,7 @@ Python script 'test fbo blit'
 
 ## python test fbo blit
 
-Python mysql example: test fbo blit
+Python example: test fbo blit
 
 ```python
 from array import array

@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python secret santa
 
-Python mysql example: secret santa
+Python example: secret santa
 
 ```python
 #!/usr/bin/env python

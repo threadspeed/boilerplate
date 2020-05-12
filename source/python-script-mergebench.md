@@ -26,7 +26,7 @@ Modules used in program:
 
 ## python mergebench
 
-Python mysql example: mergebench
+Python example: mergebench
 
 ```python
 import timeit

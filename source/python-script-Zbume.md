@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Zbume
 
-Python mysql example: Zbume
+Python example: Zbume
 
 ```python
 print("Je pense à un chiffre entre 0 et 9.")

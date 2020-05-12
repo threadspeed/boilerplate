@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python logestic%2520map
 
-Python mysql example: logestic%2520map
+Python example: logestic%2520map
 
 ```python
 import random

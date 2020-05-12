@@ -8,7 +8,7 @@ Python script 'socialdata'
 
 ## python socialdata
 
-Python mysql example: socialdata
+Python example: socialdata
 
 ```python
 people = [('Qsxh', (69, 359)), ('Mhzb', (173, 144)), ('Njne', (292, 130)), ('Cmer', (285, 295)), ('Xqpt', (315, 107)), ('Xkgh', (343, 344)), ('Wlme', (135, 310)), ('Qvut', (58, 391)), ('Dxkr', (241, 314)), ('Fnvk', (52, 76))]

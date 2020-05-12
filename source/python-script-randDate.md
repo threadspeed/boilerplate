@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python randDate
 
-Python mysql example: randDate
+Python example: randDate
 
 ```python
 import random

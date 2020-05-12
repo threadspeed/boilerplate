@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python Main
 
-Python mysql example: Main
+Python example: Main
 
 ```python
 import numpy as np

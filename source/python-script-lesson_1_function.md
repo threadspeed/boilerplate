@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python lesson 1 function
 
-Python mysql example: lesson 1 function
+Python example: lesson 1 function
 
 ```python
 def newfunc(name, kname):

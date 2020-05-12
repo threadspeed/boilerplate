@@ -13,7 +13,7 @@ Functions in program:
 
 ## python predict binary
 
-Python mysql example: predict binary
+Python example: predict binary
 
 ```python
 #make random 1's and 0's

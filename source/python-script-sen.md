@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python sen
 
-Python mysql example: sen
+Python example: sen
 
 ```python
 import random

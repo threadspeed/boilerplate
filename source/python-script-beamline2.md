@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python beamline2
 
-Python mysql example: beamline2
+Python example: beamline2
 
 ```python
 from dask.distributed import Client, get_client, Variable, fire_and_forget

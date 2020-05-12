@@ -8,7 +8,7 @@ Python script 'exp1'
 
 ## python exp1
 
-Python mysql example: exp1
+Python example: exp1
 
 ```python
 d=['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']

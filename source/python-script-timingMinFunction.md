@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python timingMinFunction
 
-Python mysql example: timingMinFunction
+Python example: timingMinFunction
 
 ```python
 import timeit

@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python ProducerAndConsumer
 
-Python mysql example: ProducerAndConsumer
+Python example: ProducerAndConsumer
 
 ```python
 from queue import Queue

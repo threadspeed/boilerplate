@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python Rand%2520trans2
 
-Python mysql example: Rand%2520trans2
+Python example: Rand%2520trans2
 
 ```python
 import scipy.stats as stats

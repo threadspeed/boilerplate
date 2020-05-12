@@ -28,7 +28,7 @@ Modules used in program:
 
 ## python isn%2520projet
 
-Python mysql example: isn%2520projet
+Python example: isn%2520projet
 
 ```python
 import random   # permet d'utiliser la fonction hasard

@@ -10,7 +10,7 @@ Functions in program:
 
 ## python Algorithm Quick%2520Sort
 
-Python mysql example: Algorithm Quick%2520Sort
+Python example: Algorithm Quick%2520Sort
 
 ```python
 def Quick_Sort(ary):

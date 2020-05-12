@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python list shuffle
 
-Python mysql example: list shuffle
+Python example: list shuffle
 
 ```python
 import random

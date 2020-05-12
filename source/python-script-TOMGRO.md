@@ -52,7 +52,7 @@ Modules used in program:
 
 ## python TOMGRO
 
-Python mysql example: TOMGRO
+Python example: TOMGRO
 
 ```python
 #Reference

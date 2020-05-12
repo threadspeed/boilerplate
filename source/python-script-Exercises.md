@@ -8,7 +8,7 @@ Python script 'Exercises'
 
 ## python Exercises
 
-Python mysql example: Exercises
+Python example: Exercises
 
 ```python
 n1=input(' Digite um valor: ')

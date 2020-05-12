@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python cards2
 
-Python mysql example: cards2
+Python example: cards2
 
 ```python
 import random

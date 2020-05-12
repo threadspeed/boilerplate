@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python pi
 
-Python mysql example: pi
+Python example: pi
 
 ```python
 import random

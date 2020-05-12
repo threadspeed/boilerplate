@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python textbased adventure game
 
-Python mysql example: textbased adventure game
+Python example: textbased adventure game
 
 ```python
 import time

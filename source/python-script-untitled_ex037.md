@@ -8,7 +8,7 @@ Python script 'untitled ex037'
 
 ## python untitled ex037
 
-Python mysql example: untitled ex037
+Python example: untitled ex037
 
 ```python
 for i in range(1,51):

@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python impl us govt FoodData central rough
 
-Python mysql example: impl us govt FoodData central rough
+Python example: impl us govt FoodData central rough
 
 ```python
 # MR4: subset relation based on ingredients

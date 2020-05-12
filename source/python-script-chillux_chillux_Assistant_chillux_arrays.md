@@ -8,7 +8,7 @@ Python script 'chillux chillux Assistant chillux arrays'
 
 ## python chillux chillux Assistant chillux arrays
 
-Python mysql example: chillux chillux Assistant chillux arrays
+Python example: chillux chillux Assistant chillux arrays
 
 ```python
 global asks

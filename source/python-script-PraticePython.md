@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python PraticePython
 
-Python mysql example: PraticePython
+Python example: PraticePython
 
 ```python
 ###########################################################################################################

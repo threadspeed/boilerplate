@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python scanstars
 
-Python mysql example: scanstars
+Python example: scanstars
 
 ```python
 # -*- coding: utf-8 -*-

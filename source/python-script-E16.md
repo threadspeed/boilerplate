@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python E16
 
-Python mysql example: E16
+Python example: E16
 
 ```python
 import random

@@ -8,7 +8,7 @@ Python script 'DrivingAge'
 
 ## python DrivingAge
 
-Python mysql example: DrivingAge
+Python example: DrivingAge
 
 ```python
 #DrivingAge.py

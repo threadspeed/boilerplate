@@ -8,7 +8,7 @@ Python script 'dragincapacitatedplayer'
 
 ## python dragincapacitatedplayer
 
-Python mysql example: dragincapacitatedplayer
+Python example: dragincapacitatedplayer
 
 ```python
 # All command scripts have a context that contains a reference to

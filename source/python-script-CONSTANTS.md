@@ -8,7 +8,7 @@ Python script 'CONSTANTS'
 
 ## python CONSTANTS
 
-Python mysql example: CONSTANTS
+Python example: CONSTANTS
 
 ```python
 male_names = ["James", "John", "Alan"]

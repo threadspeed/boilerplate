@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python neuron neuron1
 
-Python mysql example: neuron neuron1
+Python example: neuron neuron1
 
 ```python
 import numpy as np

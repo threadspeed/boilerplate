@@ -23,7 +23,7 @@ Modules used in program:
 
 ## python wip test
 
-Python mysql example: wip test
+Python example: wip test
 
 ```python
 import os

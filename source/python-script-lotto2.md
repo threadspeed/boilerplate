@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python lotto2
 
-Python mysql example: lotto2
+Python example: lotto2
 
 ```python
 import random

@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python wombo-combo ai2
 
-Python mysql example: wombo-combo ai2
+Python example: wombo-combo ai2
 
 ```python
 # def nacti_cislo():

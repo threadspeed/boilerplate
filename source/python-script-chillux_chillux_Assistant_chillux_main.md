@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python chillux chillux Assistant chillux main
 
-Python mysql example: chillux chillux Assistant chillux main
+Python example: chillux chillux Assistant chillux main
 
 ```python
 import datetime

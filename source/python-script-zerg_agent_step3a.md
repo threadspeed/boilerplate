@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python zerg agent step3a
 
-Python mysql example: zerg agent step3a
+Python example: zerg agent step3a
 
 ```python
 from pysc2.lib import actions, features, units

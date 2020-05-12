@@ -8,7 +8,7 @@ Python script 'vnesi stevili'
 
 ## python vnesi stevili
 
-Python mysql example: vnesi stevili
+Python example: vnesi stevili
 
 ```python
 

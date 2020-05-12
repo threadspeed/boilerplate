@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python ALGORITHM LAB DFS
 
-Python mysql example: ALGORITHM LAB DFS
+Python example: ALGORITHM LAB DFS
 
 ```python
 # Deapth First Search

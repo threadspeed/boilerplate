@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python queue per process multi process test
 
-Python mysql example: queue per process multi process test
+Python example: queue per process multi process test
 
 ```python
 import multiprocessing

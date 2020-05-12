@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python rps v2 without if
 
-Python mysql example: rps v2 without if
+Python example: rps v2 without if
 
 ```python
 import random

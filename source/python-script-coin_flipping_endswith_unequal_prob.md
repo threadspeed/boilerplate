@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python coin flipping endswith unequal prob
 
-Python mysql example: coin flipping endswith unequal prob
+Python example: coin flipping endswith unequal prob
 
 ```python
 import random

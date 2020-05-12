@@ -8,7 +8,7 @@ Python script 'm4 1'
 
 ## python m4 1
 
-Python mysql example: m4 1
+Python example: m4 1
 
 ```python
 # Задание 1

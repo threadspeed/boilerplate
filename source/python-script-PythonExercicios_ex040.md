@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex040'
 
 ## python PythonExercicios ex040
 
-Python mysql example: PythonExercicios ex040
+Python example: PythonExercicios ex040
 
 ```python
 n1 = float(input('Digite a primeira nota: '))

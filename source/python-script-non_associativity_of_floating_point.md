@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python non associativity of floating point
 
-Python mysql example: non associativity of floating point
+Python example: non associativity of floating point
 
 ```python
 import random

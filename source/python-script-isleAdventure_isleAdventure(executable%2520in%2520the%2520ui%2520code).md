@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python isleAdventure isleAdventure(executable%2520in%2520the%2520ui%2520code)
 
-Python mysql example: isleAdventure isleAdventure(executable%2520in%2520the%2520ui%2520code)
+Python example: isleAdventure isleAdventure(executable%2520in%2520the%2520ui%2520code)
 
 ```python
 #imports

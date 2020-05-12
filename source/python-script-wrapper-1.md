@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python wrapper-1
 
-Python mysql example: wrapper-1
+Python example: wrapper-1
 
 ```python
 # -*- coding: utf-8 -*-

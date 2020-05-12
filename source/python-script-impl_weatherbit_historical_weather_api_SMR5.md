@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python impl weatherbit historical weather api SMR5
 
-Python mysql example: impl weatherbit historical weather api SMR5
+Python example: impl weatherbit historical weather api SMR5
 
 ```python
 # SMR5: Correct postal code should give correct results and incorrect postal code should not give correct results.

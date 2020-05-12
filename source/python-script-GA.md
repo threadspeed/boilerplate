@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python GA
 
-Python mysql example: GA
+Python example: GA
 
 ```python
 # -*- coding: utf-8 -*-

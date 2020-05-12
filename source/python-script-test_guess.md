@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python test guess
 
-Python mysql example: test guess
+Python example: test guess
 
 ```python
 from unittest.mock import patch

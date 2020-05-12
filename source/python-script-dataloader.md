@@ -8,7 +8,7 @@ Python script 'dataloader'
 
 ## python dataloader
 
-Python mysql example: dataloader
+Python example: dataloader
 
 ```python
 

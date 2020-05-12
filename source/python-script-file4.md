@@ -8,7 +8,7 @@ Python script 'file4'
 
 ## python file4
 
-Python mysql example: file4
+Python example: file4
 
 ```python
     (f,b,fb) = (3,5,15)

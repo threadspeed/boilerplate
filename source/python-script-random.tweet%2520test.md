@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python random.tweet%2520test
 
-Python mysql example: random.tweet%2520test
+Python example: random.tweet%2520test
 
 ```python
 import tweepy

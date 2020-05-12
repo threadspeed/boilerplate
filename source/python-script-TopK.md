@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python TopK
 
-Python mysql example: TopK
+Python example: TopK
 
 ```python
 import heapq

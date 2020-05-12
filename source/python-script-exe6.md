@@ -8,7 +8,7 @@ Python script 'exe6'
 
 ## python exe6
 
-Python mysql example: exe6
+Python example: exe6
 
 ```python
 media =[]

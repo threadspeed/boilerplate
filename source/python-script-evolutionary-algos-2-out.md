@@ -8,7 +8,7 @@ Python script 'evolutionary-algos-2-out'
 
 ## python evolutionary-algos-2-out
 
-Python mysql example: evolutionary-algos-2-out
+Python example: evolutionary-algos-2-out
 
 ```python
 [[0.0024761009000009437, -2.99753],

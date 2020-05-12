@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python learnPythonGUI guess
 
-Python mysql example: learnPythonGUI guess
+Python example: learnPythonGUI guess
 
 ```python
 import random

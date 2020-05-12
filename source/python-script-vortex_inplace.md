@@ -10,7 +10,7 @@ Functions in program:
 
 ## python vortex inplace
 
-Python mysql example: vortex inplace
+Python example: vortex inplace
 
 ```python
 def vortex_sort(arr, start=0, end=None):

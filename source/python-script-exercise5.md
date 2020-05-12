@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python exercise5
 
-Python mysql example: exercise5
+Python example: exercise5
 
 ```python
 

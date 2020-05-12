@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python reading
 
-Python mysql example: reading
+Python example: reading
 
 ```python
 #!/usr/bin/env python

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python userSetup
 
-Python mysql example: userSetup
+Python example: userSetup
 
 ```python
 import randomSplash;randomSplash.randomSplashScreen()

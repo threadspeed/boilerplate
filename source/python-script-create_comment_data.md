@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python create comment data
 
-Python mysql example: create comment data
+Python example: create comment data
 
 ```python
 import random

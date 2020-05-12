@@ -8,7 +8,7 @@ Python script 'ex061'
 
 ## python ex061
 
-Python mysql example: ex061
+Python example: ex061
 
 ```python
 termo=int(input('Digite o primeiro termo da PA: '))

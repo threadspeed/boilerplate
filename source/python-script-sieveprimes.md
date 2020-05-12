@@ -10,7 +10,7 @@ Functions in program:
 
 ## python sieveprimes
 
-Python mysql example: sieveprimes
+Python example: sieveprimes
 
 ```python
 def primes_sieve(limit):

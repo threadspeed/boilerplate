@@ -27,7 +27,7 @@ Modules used in program:
 
 ## python eight puzzle v0.6
 
-Python mysql example: eight puzzle v0.6
+Python example: eight puzzle v0.6
 
 ```python
 import ui

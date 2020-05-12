@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python sorteio%2520de%2520numero
 
-Python mysql example: sorteio%2520de%2520numero
+Python example: sorteio%2520de%2520numero
 
 ```python
 ##carrega a biblioteca de numeros aleatorios

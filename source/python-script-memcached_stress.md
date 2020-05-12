@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python memcached stress
 
-Python mysql example: memcached stress
+Python example: memcached stress
 
 ```python
 ## memcached, Couchbase 両方で使用

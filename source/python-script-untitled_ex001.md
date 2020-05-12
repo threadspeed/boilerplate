@@ -8,7 +8,7 @@ Python script 'untitled ex001'
 
 ## python untitled ex001
 
-Python mysql example: untitled ex001
+Python example: untitled ex001
 
 ```python
 print("Olá Mundo")

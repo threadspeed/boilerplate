@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python not finish
 
-Python mysql example: not finish
+Python example: not finish
 
 ```python
 # -*- coding: utf-8 -*-

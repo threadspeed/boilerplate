@@ -8,7 +8,7 @@ Python script 'pycharm test practice6 skilles for data structure'
 
 ## python pycharm test practice6 skilles for data structure
 
-Python mysql example: pycharm test practice6 skilles for data structure
+Python example: pycharm test practice6 skilles for data structure
 
 ```python
 #coding = utf-8

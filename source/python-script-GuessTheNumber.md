@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python GuessTheNumber
 
-Python mysql example: GuessTheNumber
+Python example: GuessTheNumber
 
 ```python
 # Program where the user has to guess the number in the given number of lives.

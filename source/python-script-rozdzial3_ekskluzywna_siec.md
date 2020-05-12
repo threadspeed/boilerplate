@@ -8,7 +8,7 @@ Python script 'rozdzial3 ekskluzywna siec'
 
 ## python rozdzial3 ekskluzywna siec
 
-Python mysql example: rozdzial3 ekskluzywna siec
+Python example: rozdzial3 ekskluzywna siec
 
 ```python
 print("\tEkskluzywna Sieć Komputerowa")

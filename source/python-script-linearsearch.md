@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python linearsearch
 
-Python mysql example: linearsearch
+Python example: linearsearch
 
 ```python
 def linear_search(lst, item):

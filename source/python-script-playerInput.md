@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python playerInput
 
-Python mysql example: playerInput
+Python example: playerInput
 
 ```python
 import world

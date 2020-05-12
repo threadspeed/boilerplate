@@ -8,7 +8,7 @@ Python script 'untitled ex010'
 
 ## python untitled ex010
 
-Python mysql example: untitled ex010
+Python example: untitled ex010
 
 ```python
 n = (input ("Digite um número de 0 a 9999: "))

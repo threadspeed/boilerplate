@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Count(selection sort)
 
-Python mysql example: Count(selection sort)
+Python example: Count(selection sort)
 
 ```python
 import time

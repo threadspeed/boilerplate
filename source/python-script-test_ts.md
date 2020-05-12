@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python test ts
 
-Python mysql example: test ts
+Python example: test ts
 
 ```python
 execfile("core.py")

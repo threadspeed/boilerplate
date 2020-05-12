@@ -8,7 +8,7 @@ Python script 'ex050'
 
 ## python ex050
 
-Python mysql example: ex050
+Python example: ex050
 
 ```python
 soma=0

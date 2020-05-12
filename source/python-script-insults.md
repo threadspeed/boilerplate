@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python insults
 
-Python mysql example: insults
+Python example: insults
 
 ```python
 # negative reinforcement through insults

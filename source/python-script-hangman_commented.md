@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python hangman commented
 
-Python mysql example: hangman commented
+Python example: hangman commented
 
 ```python
 import random

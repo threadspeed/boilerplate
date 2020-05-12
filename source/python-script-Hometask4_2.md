@@ -10,7 +10,7 @@ Functions in program:
 
 ## python Hometask4 2
 
-Python mysql example: Hometask4 2
+Python example: Hometask4 2
 
 ```python
 '''

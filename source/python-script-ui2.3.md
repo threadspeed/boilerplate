@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python ui2.3
 
-Python mysql example: ui2.3
+Python example: ui2.3
 
 ```python
 import tkinter as tk

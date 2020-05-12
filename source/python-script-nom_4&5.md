@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python nom 4&5
 
-Python mysql example: nom 4&5
+Python example: nom 4&5
 
 ```python
 # -*- coding: utf-8 -*-

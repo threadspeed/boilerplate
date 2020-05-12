@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python simpleSIR
 
-Python mysql example: simpleSIR
+Python example: simpleSIR
 
 ```python
 #a simple SIR model written in Python

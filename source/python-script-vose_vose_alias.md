@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python vose vose alias
 
-Python mysql example: vose vose alias
+Python example: vose vose alias
 
 ```python
 import random

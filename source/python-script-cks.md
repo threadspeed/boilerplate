@@ -16,7 +16,7 @@ Functions in program:
 
 ## python cks
 
-Python mysql example: cks
+Python example: cks
 
 ```python
 from Crypto.PublicKey import RSA

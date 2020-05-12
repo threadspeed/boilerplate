@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python bulls-cows2
 
-Python mysql example: bulls-cows2
+Python example: bulls-cows2
 
 ```python
 import gym

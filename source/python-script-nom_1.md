@@ -10,7 +10,7 @@ Functions in program:
 
 ## python nom 1
 
-Python mysql example: nom 1
+Python example: nom 1
 
 ```python
 # -*- coding: utf-8 -*-

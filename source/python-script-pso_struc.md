@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python pso struc
 
-Python mysql example: pso struc
+Python example: pso struc
 
 ```python
 import random

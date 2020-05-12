@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python websockets automation server
 
-Python mysql example: websockets automation server
+Python example: websockets automation server
 
 ```python
 import asyncio

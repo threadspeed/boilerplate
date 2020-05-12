@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python dining phylosophers threading
 
-Python mysql example: dining phylosophers threading
+Python example: dining phylosophers threading
 
 ```python
 import time

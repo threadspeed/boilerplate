@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python two dimensional list
 
-Python mysql example: two dimensional list
+Python example: two dimensional list
 
 ```python
 # Okay I'll try once again

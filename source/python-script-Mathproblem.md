@@ -8,7 +8,7 @@ Python script 'Mathproblem'
 
 ## python Mathproblem
 
-Python mysql example: Mathproblem
+Python example: Mathproblem
 
 ```python
 problem=input("What math problem do you need help with? ")

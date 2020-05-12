@@ -10,7 +10,7 @@ Functions in program:
 
 ## python cns1-1
 
-Python mysql example: cns1-1
+Python example: cns1-1
 
 ```python
 def cipher(text, key):

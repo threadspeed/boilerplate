@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python create base data
 
-Python mysql example: create base data
+Python example: create base data
 
 ```python
 #coding:utf-8

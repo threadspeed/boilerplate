@@ -11,7 +11,7 @@ Functions in program:
 
 ## python exp Fast Speedy
 
-Python mysql example: exp Fast Speedy
+Python example: exp Fast Speedy
 
 ```python
 from Crypto.Util.number import *

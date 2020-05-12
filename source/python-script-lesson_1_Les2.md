@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python lesson 1 Les2
 
-Python mysql example: lesson 1 Les2
+Python example: lesson 1 Les2
 
 ```python
 found_coins = 20

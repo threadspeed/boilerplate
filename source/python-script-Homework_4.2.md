@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Homework 4.2
 
-Python mysql example: Homework 4.2
+Python example: Homework 4.2
 
 ```python
 import random

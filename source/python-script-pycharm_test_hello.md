@@ -8,7 +8,7 @@ Python script 'pycharm test hello'
 
 ## python pycharm test hello
 
-Python mysql example: pycharm test hello
+Python example: pycharm test hello
 
 ```python
 #

@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python MedianHeap Qselect
 
-Python mysql example: MedianHeap Qselect
+Python example: MedianHeap Qselect
 
 ```python
 import heapq

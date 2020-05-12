@@ -8,7 +8,7 @@ Python script 'week 010 from class'
 
 ## python week 010 from class
 
-Python mysql example: week 010 from class
+Python example: week 010 from class
 
 ```python
 # 0

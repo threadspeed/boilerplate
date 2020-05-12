@@ -8,7 +8,7 @@ Python script 'Isn%2520proget%25203'
 
 ## python Isn%2520proget%25203
 
-Python mysql example: Isn%2520proget%25203
+Python example: Isn%2520proget%25203
 
 ```python
 bleu=0           # définir variable

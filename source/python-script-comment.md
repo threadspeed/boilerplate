@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python comment
 
-Python mysql example: comment
+Python example: comment
 
 ```python
 import willie

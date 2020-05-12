@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python crawler download client
 
-Python mysql example: crawler download client
+Python example: crawler download client
 
 ```python
 #!/usr/bin/env python

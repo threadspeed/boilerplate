@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python prodcom lock
 
-Python mysql example: prodcom lock
+Python example: prodcom lock
 
 ```python
 import threading

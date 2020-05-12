@@ -11,7 +11,7 @@ Functions in program:
 
 ## python 11%2520Check%2520Primarility%2520Functions
 
-Python mysql example: 11%2520Check%2520Primarility%2520Functions
+Python example: 11%2520Check%2520Primarility%2520Functions
 
 ```python
 def get_integer():

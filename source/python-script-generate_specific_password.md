@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python generate specific password
 
-Python mysql example: generate specific password
+Python example: generate specific password
 
 ```python
 from string import ascii_letters, digits

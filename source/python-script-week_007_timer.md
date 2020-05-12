@@ -12,7 +12,7 @@ Functions in program:
 
 ## python week 007 timer
 
-Python mysql example: week 007 timer
+Python example: week 007 timer
 
 ```python
 def t(m):

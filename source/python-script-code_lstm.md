@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python code lstm
 
-Python mysql example: code lstm
+Python example: code lstm
 
 ```python
 from keras.layers import Dense, Activation, LSTM

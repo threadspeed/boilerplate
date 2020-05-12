@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python linus
 
-Python mysql example: linus
+Python example: linus
 
 ```python
 import random

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python football manager team
 
-Python mysql example: football manager team
+Python example: football manager team
 
 ```python
 import random

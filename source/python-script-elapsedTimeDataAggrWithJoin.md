@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python elapsedTimeDataAggrWithJoin
 
-Python mysql example: elapsedTimeDataAggrWithJoin
+Python example: elapsedTimeDataAggrWithJoin
 
 ```python
 import timeit

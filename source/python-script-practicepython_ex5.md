@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python practicepython ex5
 
-Python mysql example: practicepython ex5
+Python example: practicepython ex5
 
 ```python
 #!/usr/bin/python

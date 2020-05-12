@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python ben
 
-Python mysql example: ben
+Python example: ben
 
 ```python
 import math, random

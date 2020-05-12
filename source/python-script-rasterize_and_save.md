@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python rasterize and save
 
-Python mysql example: rasterize and save
+Python example: rasterize and save
 
 ```python
 # A function to rasterize components of a matplotlib figure while keeping

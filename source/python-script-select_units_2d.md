@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python select units 2d
 
-Python mysql example: select units 2d
+Python example: select units 2d
 
 ```python
 import random

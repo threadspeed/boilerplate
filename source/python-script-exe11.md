@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python exe11
 
-Python mysql example: exe11
+Python example: exe11
 
 ```python
 import random

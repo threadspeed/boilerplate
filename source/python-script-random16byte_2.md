@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python random16byte 2
 
-Python mysql example: random16byte 2
+Python example: random16byte 2
 
 ```python
 import random

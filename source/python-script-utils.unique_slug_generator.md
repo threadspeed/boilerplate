@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python utils.unique slug generator
 
-Python mysql example: utils.unique slug generator
+Python example: utils.unique slug generator
 
 ```python
 ############ random string generator ##################

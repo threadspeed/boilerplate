@@ -29,7 +29,7 @@ Modules used in program:
 
 ## python pree
 
-Python mysql example: pree
+Python example: pree
 
 ```python
 # Revise the small­world network formation model

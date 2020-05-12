@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python multiprocessing pi
 
-Python mysql example: multiprocessing pi
+Python example: multiprocessing pi
 
 ```python
 import functools

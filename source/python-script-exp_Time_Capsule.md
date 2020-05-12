@@ -8,7 +8,7 @@ Python script 'exp Time Capsule'
 
 ## python exp Time Capsule
 
-Python mysql example: exp Time Capsule
+Python example: exp Time Capsule
 
 ```python
 from Crypto.Util.number import *

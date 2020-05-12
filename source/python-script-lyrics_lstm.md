@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python lyrics lstm
 
-Python mysql example: lyrics lstm
+Python example: lyrics lstm
 
 ```python
 from keras.models import Sequential

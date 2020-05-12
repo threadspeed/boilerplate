@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python q learning
 
-Python mysql example: q learning
+Python example: q learning
 
 ```python
 import random

@@ -12,7 +12,7 @@ Functions in program:
 
 ## python nom 2
 
-Python mysql example: nom 2
+Python example: nom 2
 
 ```python
 # -*- coding: utf-8 -*-

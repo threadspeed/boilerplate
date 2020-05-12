@@ -8,7 +8,7 @@ Python script 'untitled ex040'
 
 ## python untitled ex040
 
-Python mysql example: untitled ex040
+Python example: untitled ex040
 
 ```python
 soma = 0

@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python SERIAL MONTE CARLO BIRTHDAY
 
-Python mysql example: SERIAL MONTE CARLO BIRTHDAY
+Python example: SERIAL MONTE CARLO BIRTHDAY
 
 ```python
 """Monte Carlo simulation to find probabilty of 2 people having same birthday in a

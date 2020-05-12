@@ -8,7 +8,7 @@ Python script '003 List Less Than Ten'
 
 ## python 003 List Less Than Ten
 
-Python mysql example: 003 List Less Than Ten
+Python example: 003 List Less Than Ten
 
 ```python
 # Exercise

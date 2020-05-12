@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python Income+RandomTree
 
-Python mysql example: Income+RandomTree
+Python example: Income+RandomTree
 
 ```python
 def warn(*args, **kwargs):

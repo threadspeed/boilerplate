@@ -10,7 +10,7 @@ Functions in program:
 
 ## python binarysearch
 
-Python mysql example: binarysearch
+Python example: binarysearch
 
 ```python
 def binary_search(items, el):

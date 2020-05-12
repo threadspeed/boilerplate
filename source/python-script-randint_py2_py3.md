@@ -8,7 +8,7 @@ Python script 'randint py2 py3'
 
 ## python randint py2 py3
 
-Python mysql example: randint py2 py3
+Python example: randint py2 py3
 
 ```python
 # Python 2.7.16

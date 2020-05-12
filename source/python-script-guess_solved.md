@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python guess solved
 
-Python mysql example: guess solved
+Python example: guess solved
 
 ```python
 """

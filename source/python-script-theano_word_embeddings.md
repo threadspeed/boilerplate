@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python theano word embeddings
 
-Python mysql example: theano word embeddings
+Python example: theano word embeddings
 
 ```python
 #!/usr/bin/env python

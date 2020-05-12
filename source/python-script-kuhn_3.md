@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python kuhn 3
 
-Python mysql example: kuhn 3
+Python example: kuhn 3
 
 ```python
 import enum

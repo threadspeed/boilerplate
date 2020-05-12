@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python multi process3
 
-Python mysql example: multi process3
+Python example: multi process3
 
 ```python
 #!/usr/bin/python

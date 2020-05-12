@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex021'
 
 ## python PythonExercicios ex021
 
-Python mysql example: PythonExercicios ex021
+Python example: PythonExercicios ex021
 
 ```python
 from pygame import mixer

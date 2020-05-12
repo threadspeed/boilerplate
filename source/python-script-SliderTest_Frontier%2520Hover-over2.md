@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python SliderTest Frontier%2520Hover-over2
 
-Python mysql example: SliderTest Frontier%2520Hover-over2
+Python example: SliderTest Frontier%2520Hover-over2
 
 ```python
 import unittest

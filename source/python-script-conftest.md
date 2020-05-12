@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python conftest
 
-Python mysql example: conftest
+Python example: conftest
 
 ```python
 import random

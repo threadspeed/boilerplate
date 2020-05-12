@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python max average
 
-Python mysql example: max average
+Python example: max average
 
 ```python
 # zakładam input w formie listy list stringów i intów, gdzie każda podlista to ["imię", ocena, ocena, ocena, ocena]

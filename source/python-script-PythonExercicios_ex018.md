@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex018'
 
 ## python PythonExercicios ex018
 
-Python mysql example: PythonExercicios ex018
+Python example: PythonExercicios ex018
 
 ```python
 '''import math

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python sklearn classifier
 
-Python mysql example: sklearn classifier
+Python example: sklearn classifier
 
 ```python
 from sklearn.model_selection import train_test_split

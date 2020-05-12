@@ -10,7 +10,7 @@ Functions in program:
 
 ## python Menu
 
-Python mysql example: Menu
+Python example: Menu
 
 ```python
 from Proyecto_final.Juego import Juego

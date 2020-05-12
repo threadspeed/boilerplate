@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python test game script
 
-Python mysql example: test game script
+Python example: test game script
 
 ```python
 # shift-f10 to run tests

@@ -8,7 +8,7 @@ Python script 'lesson 1 test cache CACHEDIR.TAG'
 
 ## python lesson 1 test cache CACHEDIR.TAG
 
-Python mysql example: lesson 1 test cache CACHEDIR.TAG
+Python example: lesson 1 test cache CACHEDIR.TAG
 
 ```python
 Signature: 8a477f597d28d172789f06886806bc55

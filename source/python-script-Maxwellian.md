@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python Maxwellian
 
-Python mysql example: Maxwellian
+Python example: Maxwellian
 
 ```python
 from scipy.stats import maxwell

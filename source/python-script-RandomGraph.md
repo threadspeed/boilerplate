@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python RandomGraph
 
-Python mysql example: RandomGraph
+Python example: RandomGraph
 
 ```python
 import random

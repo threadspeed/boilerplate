@@ -10,7 +10,7 @@ Functions in program:
 
 ## python practicepython ex12
 
-Python mysql example: practicepython ex12
+Python example: practicepython ex12
 
 ```python
 #!/usr/bin/python

@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python world
 
-Python mysql example: world
+Python example: world
 
 ```python
 import random

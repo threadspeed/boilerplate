@@ -23,7 +23,7 @@ Functions in program:
 
 ## python couler-argo-community-snippets
 
-Python mysql example: couler-argo-community-snippets
+Python example: couler-argo-community-snippets
 
 ```python
 # --------------------------------------------------------------------------------

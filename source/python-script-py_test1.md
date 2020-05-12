@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python py test1
 
-Python mysql example: py test1
+Python example: py test1
 
 ```python
 import random

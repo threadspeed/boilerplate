@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python flask large dict
 
-Python mysql example: flask large dict
+Python example: flask large dict
 
 ```python
 import random

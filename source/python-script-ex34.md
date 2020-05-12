@@ -8,7 +8,7 @@ Python script 'ex34'
 
 ## python ex34
 
-Python mysql example: ex34
+Python example: ex34
 
 ```python
 salario=float(input('Digite o valor do salario: '))

@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex009'
 
 ## python PythonExercicios ex009
 
-Python mysql example: PythonExercicios ex009
+Python example: PythonExercicios ex009
 
 ```python
 n1 = int(input('Digite um número para ver sua tabuada: '))

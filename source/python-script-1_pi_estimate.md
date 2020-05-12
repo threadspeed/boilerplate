@@ -10,7 +10,7 @@ Functions in program:
 
 ## python 1 pi estimate
 
-Python mysql example: 1 pi estimate
+Python example: 1 pi estimate
 
 ```python
 #!/usr/bin/python2.7

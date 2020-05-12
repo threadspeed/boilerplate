@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python final kk
 
-Python mysql example: final kk
+Python example: final kk
 
 ```python
 import termcolor

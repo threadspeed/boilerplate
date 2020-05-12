@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python random%2520walk2
 
-Python mysql example: random%2520walk2
+Python example: random%2520walk2
 
 ```python
 import numpy as np

@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex042'
 
 ## python PythonExercicios ex042
 
-Python mysql example: PythonExercicios ex042
+Python example: PythonExercicios ex042
 
 ```python
 print('-=-' * 20)

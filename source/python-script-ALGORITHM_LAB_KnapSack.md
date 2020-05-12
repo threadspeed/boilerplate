@@ -8,7 +8,7 @@ Python script 'ALGORITHM LAB KnapSack'
 
 ## python ALGORITHM LAB KnapSack
 
-Python mysql example: ALGORITHM LAB KnapSack
+Python example: ALGORITHM LAB KnapSack
 
 ```python
 # knapsack

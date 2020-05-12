@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python qr 34885- g
 
-Python mysql example: qr 34885- g
+Python example: qr 34885- g
 
 ```python
 import time

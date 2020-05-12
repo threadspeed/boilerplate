@@ -23,7 +23,7 @@ Modules used in program:
 
 ## python Ruido
 
-Python mysql example: Ruido
+Python example: Ruido
 
 ```python
 from sys import argv

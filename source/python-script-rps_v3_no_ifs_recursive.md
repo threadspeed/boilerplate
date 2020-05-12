@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python rps v3 no ifs recursive
 
-Python mysql example: rps v3 no ifs recursive
+Python example: rps v3 no ifs recursive
 
 ```python
 import random

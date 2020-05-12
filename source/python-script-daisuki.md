@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python daisuki
 
-Python mysql example: daisuki
+Python example: daisuki
 
 ```python
 import base64

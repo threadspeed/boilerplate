@@ -8,7 +8,7 @@ Python script 'ex36'
 
 ## python ex36
 
-Python mysql example: ex36
+Python example: ex36
 
 ```python
 valorCasa = float(input('Qual é o valor da casa? '))

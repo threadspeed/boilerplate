@@ -8,7 +8,7 @@ Python script 'chronic kidney disease8'
 
 ## python chronic kidney disease8
 
-Python mysql example: chronic kidney disease8
+Python example: chronic kidney disease8
 
 ```python
 kidney_disease['Pus_Cell'].replace(['abnormal','normal'],[1,0],inplace= True)

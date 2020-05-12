@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python 006 String Lists
 
-Python mysql example: 006 String Lists
+Python example: 006 String Lists
 
 ```python
 # Exercise

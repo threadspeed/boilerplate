@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Random%2520number OriginalUnitTesting
 
-Python mysql example: Random%2520number OriginalUnitTesting
+Python example: Random%2520number OriginalUnitTesting
 
 ```python
 #_*_Coding:utf-8_*_

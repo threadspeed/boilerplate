@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Count(quick sort)
 
-Python mysql example: Count(quick sort)
+Python example: Count(quick sort)
 
 ```python
 #Quick Sort

@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python tuple solution
 
-Python mysql example: tuple solution
+Python example: tuple solution
 
 ```python
 

@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python xgboost test
 
-Python mysql example: xgboost test
+Python example: xgboost test
 
 ```python
 # xgboost_test.py

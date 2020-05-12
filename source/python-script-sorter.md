@@ -11,7 +11,7 @@ Functions in program:
 
 ## python sorter
 
-Python mysql example: sorter
+Python example: sorter
 
 ```python
 #!/usr/bin/env python

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python ensemble models
 
-Python mysql example: ensemble models
+Python example: ensemble models
 
 ```python
 import pandas as pd

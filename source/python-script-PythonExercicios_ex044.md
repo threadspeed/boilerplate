@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex044'
 
 ## python PythonExercicios ex044
 
-Python mysql example: PythonExercicios ex044
+Python example: PythonExercicios ex044
 
 ```python
 print('{:=^40}'.format(' LOJAS HENRIQUE DEIVISSON '))

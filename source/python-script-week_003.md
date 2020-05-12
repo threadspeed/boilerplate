@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python week 003
 
-Python mysql example: week 003
+Python example: week 003
 
 ```python
 # 1

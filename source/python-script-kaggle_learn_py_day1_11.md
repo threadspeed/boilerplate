@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python kaggle learn py day1 11
 
-Python mysql example: kaggle learn py day1 11
+Python example: kaggle learn py day1 11
 
 ```python
 import random

@@ -10,7 +10,7 @@ Functions in program:
 
 ## python date
 
-Python mysql example: date
+Python example: date
 
 ```python
 from random import choice

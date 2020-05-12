@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python import
 
-Python mysql example: import
+Python example: import
 
 ```python
 import numpy as np

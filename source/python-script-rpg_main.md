@@ -10,7 +10,7 @@ Functions in program:
 
 ## python rpg main
 
-Python mysql example: rpg main
+Python example: rpg main
 
 ```python
 #!/usr/bin/env python3

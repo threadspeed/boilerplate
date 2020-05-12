@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex038'
 
 ## python PythonExercicios ex038
 
-Python mysql example: PythonExercicios ex038
+Python example: PythonExercicios ex038
 
 ```python
 n1 = int(input('Digite um número: '))

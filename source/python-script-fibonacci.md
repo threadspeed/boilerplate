@@ -8,7 +8,7 @@ Python script 'fibonacci'
 
 ## python fibonacci
 
-Python mysql example: fibonacci
+Python example: fibonacci
 
 ```python
 a, b = 0, 1

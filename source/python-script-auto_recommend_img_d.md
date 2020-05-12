@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python auto recommend img d
 
-Python mysql example: auto recommend img d
+Python example: auto recommend img d
 
 ```python
 # -*- coding: utf-8 -*-

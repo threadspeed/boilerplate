@@ -10,7 +10,7 @@ Functions in program:
 
 ## python CJa2-51
 
-Python mysql example: CJa2-51
+Python example: CJa2-51
 
 ```python
 def wagewars():

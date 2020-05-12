@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python nom 3
 
-Python mysql example: nom 3
+Python example: nom 3
 
 ```python
 # -*- coding: utf-8 -*-

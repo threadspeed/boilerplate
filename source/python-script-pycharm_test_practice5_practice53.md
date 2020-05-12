@@ -10,7 +10,7 @@ Functions in program:
 
 ## python pycharm test practice5 practice53
 
-Python mysql example: pycharm test practice5 practice53
+Python example: pycharm test practice5 practice53
 
 ```python
 def oushu():

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python multi queue
 
-Python mysql example: multi queue
+Python example: multi queue
 
 ```python
 from multiprocessing import Process, Queue

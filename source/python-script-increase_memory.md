@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python increase memory
 
-Python mysql example: increase memory
+Python example: increase memory
 
 ```python
 #!/usr/bin/env python3

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python logestic%2520map%25202
 
-Python mysql example: logestic%2520map%25202
+Python example: logestic%2520map%25202
 
 ```python
 import numpy as np

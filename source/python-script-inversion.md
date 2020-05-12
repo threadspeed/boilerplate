@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python inversion
 
-Python mysql example: inversion
+Python example: inversion
 
 ```python
 import random

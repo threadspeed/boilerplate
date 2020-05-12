@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python 2-nearest
 
-Python mysql example: 2-nearest
+Python example: 2-nearest
 
 ```python
 from math import sqrt

@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python file0
 
-Python mysql example: file0
+Python example: file0
 
 ```python
 # -*- coding: utf-8 -*-

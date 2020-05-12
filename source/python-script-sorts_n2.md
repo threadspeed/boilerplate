@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python sorts n2
 
-Python mysql example: sorts n2
+Python example: sorts n2
 
 ```python
 import random

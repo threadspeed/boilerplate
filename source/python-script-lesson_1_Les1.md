@@ -8,7 +8,7 @@ Python script 'lesson 1 Les1'
 
 ## python lesson 1 Les1
 
-Python mysql example: lesson 1 Les1
+Python example: lesson 1 Les1
 
 ```python
 #c = 100

@@ -23,7 +23,7 @@ Modules used in program:
 
 ## python CNNDB
 
-Python mysql example: CNNDB
+Python example: CNNDB
 
 ```python
 import scipy.io

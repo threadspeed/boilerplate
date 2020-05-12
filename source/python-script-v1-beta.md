@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python v1-beta
 
-Python mysql example: v1-beta
+Python example: v1-beta
 
 ```python
 #!/usr/bin/env python

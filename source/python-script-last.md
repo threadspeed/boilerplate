@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python last
 
-Python mysql example: last
+Python example: last
 
 ```python
 # -*- coding: utf-8 -*-

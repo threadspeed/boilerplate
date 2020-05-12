@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python decode
 
-Python mysql example: decode
+Python example: decode
 
 ```python
 #!/usr/bin/env python3

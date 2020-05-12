@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python rozdzial3 moneta
 
-Python mysql example: rozdzial3 moneta
+Python example: rozdzial3 moneta
 
 ```python
 import random

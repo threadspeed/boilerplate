@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python Graphs%25202016 12 16
 
-Python mysql example: Graphs%25202016 12 16
+Python example: Graphs%25202016 12 16
 
 ```python
 

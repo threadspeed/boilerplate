@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python sorry
 
-Python mysql example: sorry
+Python example: sorry
 
 ```python
 import sys

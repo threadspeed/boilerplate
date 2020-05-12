@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex011'
 
 ## python PythonExercicios ex011
 
-Python mysql example: PythonExercicios ex011
+Python example: PythonExercicios ex011
 
 ```python
 l = float(input('Qual a Largura da parede? '))

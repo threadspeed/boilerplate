@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Randomspiral
 
-Python mysql example: Randomspiral
+Python example: Randomspiral
 
 ```python
 import turtle

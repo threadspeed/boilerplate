@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python randomq
 
-Python mysql example: randomq
+Python example: randomq
 
 ```python
 import random

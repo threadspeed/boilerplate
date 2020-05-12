@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python guessing game advanced
 
-Python mysql example: guessing game advanced
+Python example: guessing game advanced
 
 ```python
 import random

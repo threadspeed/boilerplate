@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python mergesort
 
-Python mysql example: mergesort
+Python example: mergesort
 
 ```python
 import random

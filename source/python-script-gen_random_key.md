@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python gen random key
 
-Python mysql example: gen random key
+Python example: gen random key
 
 ```python
 import random

@@ -8,7 +8,7 @@ Python script 'exe9'
 
 ## python exe9
 
-Python mysql example: exe9
+Python example: exe9
 
 ```python
 a = []

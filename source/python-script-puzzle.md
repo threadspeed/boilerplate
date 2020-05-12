@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python puzzle
 
-Python mysql example: puzzle
+Python example: puzzle
 
 ```python
 import string

@@ -8,7 +8,7 @@ Python script 'rozdzial3 haslo'
 
 ## python rozdzial3 haslo
 
-Python mysql example: rozdzial3 haslo
+Python example: rozdzial3 haslo
 
 ```python
 print("Witaj w systemie firmy Bezpieczny Komputer SA")

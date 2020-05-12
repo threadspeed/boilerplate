@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python createfile
 
-Python mysql example: createfile
+Python example: createfile
 
 ```python
 #!/usr/bin/env python

@@ -8,7 +8,7 @@ Python script 'PythonCode PythonCoding LearningPython ageGrade'
 
 ## python PythonCode PythonCoding LearningPython ageGrade
 
-Python mysql example: PythonCode PythonCoding LearningPython ageGrade
+Python example: PythonCode PythonCoding LearningPython ageGrade
 
 ```python
 age = eval(input("What is your age? "))

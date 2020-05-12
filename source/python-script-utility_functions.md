@@ -22,7 +22,7 @@ Modules used in program:
 
 ## python utility functions
 
-Python mysql example: utility functions
+Python example: utility functions
 
 ```python
 import numpy as np

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python E30
 
-Python mysql example: E30
+Python example: E30
 
 ```python
 import random

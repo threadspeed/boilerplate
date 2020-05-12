@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python combat
 
-Python mysql example: combat
+Python example: combat
 
 ```python
 import random

@@ -8,7 +8,7 @@ Python script 'MathHomework'
 
 ## python MathHomework
 
-Python mysql example: MathHomework
+Python example: MathHomework
 
 ```python
 #MathHomework.py

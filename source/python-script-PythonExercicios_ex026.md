@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex026'
 
 ## python PythonExercicios ex026
 
-Python mysql example: PythonExercicios ex026
+Python example: PythonExercicios ex026
 
 ```python
 frase = str(input('Digite uma frase: ')).upper().strip()

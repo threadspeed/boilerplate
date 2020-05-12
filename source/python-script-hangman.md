@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python hangman
 
-Python mysql example: hangman
+Python example: hangman
 
 ```python
 import random

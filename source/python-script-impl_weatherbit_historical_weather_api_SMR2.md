@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python impl weatherbit historical weather api SMR2
 
-Python mysql example: impl weatherbit historical weather api SMR2
+Python example: impl weatherbit historical weather api SMR2
 
 ```python
 # SMR2: Study the affect of change of language: Change of language should change results too

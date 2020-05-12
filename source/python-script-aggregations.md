@@ -14,7 +14,7 @@ Functions in program:
 
 ## python aggregations
 
-Python mysql example: aggregations
+Python example: aggregations
 
 ```python
 # Snippets for grouped dataframes (by customer id)

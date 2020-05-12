@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python example with semaphore
 
-Python mysql example: example with semaphore
+Python example: example with semaphore
 
 ```python
 import asyncio

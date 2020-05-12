@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Game Stuff an example directory basic loop
 
-Python mysql example: Game Stuff an example directory basic loop
+Python example: Game Stuff an example directory basic loop
 
 ```python
 

@@ -8,7 +8,7 @@ Python script 'exercise 9'
 
 ## python exercise 9
 
-Python mysql example: exercise 9
+Python example: exercise 9
 
 ```python
 #Pratusevich, M. (n.d.). Practice Python. Retrieved from 

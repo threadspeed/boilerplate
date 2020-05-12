@@ -8,7 +8,7 @@ Python script 'Learn HyperText'
 
 ## python Learn HyperText
 
-Python mysql example: Learn HyperText
+Python example: Learn HyperText
 
 ```python
 n, m = input().strip().split(' ')

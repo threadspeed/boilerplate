@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Building
 
-Python mysql example: Building
+Python example: Building
 
 ```python
 import random

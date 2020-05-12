@@ -26,7 +26,7 @@ Modules used in program:
 
 ## python conditional-q
 
-Python mysql example: conditional-q
+Python example: conditional-q
 
 ```python
 #!/usr/bin/env python

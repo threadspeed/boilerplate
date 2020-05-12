@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python MULTIPROCESSING MONTE CARLO BIRTHDAY
 
-Python mysql example: MULTIPROCESSING MONTE CARLO BIRTHDAY
+Python example: MULTIPROCESSING MONTE CARLO BIRTHDAY
 
 ```python
 """A program to find out the probabilty of 2 people having same birthday.

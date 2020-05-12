@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex050'
 
 ## python PythonExercicios ex050
 
-Python mysql example: PythonExercicios ex050
+Python example: PythonExercicios ex050
 
 ```python
 s = 0

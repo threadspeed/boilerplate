@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python convex hull
 
-Python mysql example: convex hull
+Python example: convex hull
 
 ```python
 import random                                                                                                                                                                [43/364]

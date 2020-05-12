@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python numberGuess
 
-Python mysql example: numberGuess
+Python example: numberGuess
 
 ```python
 import random

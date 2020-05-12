@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python KMeans
 
-Python mysql example: KMeans
+Python example: KMeans
 
 ```python
 import numpy as np

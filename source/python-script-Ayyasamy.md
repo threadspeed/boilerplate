@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python Ayyasamy
 
-Python mysql example: Ayyasamy
+Python example: Ayyasamy
 
 ```python
 from faker import Factory

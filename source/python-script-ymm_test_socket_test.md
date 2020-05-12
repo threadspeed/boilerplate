@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python ymm test socket test
 
-Python mysql example: ymm test socket test
+Python example: ymm test socket test
 
 ```python
 #-*- coding:UTF-8 -*-

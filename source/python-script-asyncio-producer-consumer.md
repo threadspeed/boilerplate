@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python asyncio-producer-consumer
 
-Python mysql example: asyncio-producer-consumer
+Python example: asyncio-producer-consumer
 
 ```python
 # Original source from http://asyncio.readthedocs.io/en/latest/producer_consumer.html

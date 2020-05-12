@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python Homework 5-2 levels
 
-Python mysql example: Homework 5-2 levels
+Python example: Homework 5-2 levels
 
 ```python
 import random

@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python random string2
 
-Python mysql example: random string2
+Python example: random string2
 
 ```python
 import array

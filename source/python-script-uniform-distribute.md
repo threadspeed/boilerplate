@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python uniform-distribute
 
-Python mysql example: uniform-distribute
+Python example: uniform-distribute
 
 ```python
 from scipy import stats

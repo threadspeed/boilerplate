@@ -8,7 +8,7 @@ Python script 'gangsta-evolutionary-algos-1-out'
 
 ## python gangsta-evolutionary-algos-1-out
 
-Python mysql example: gangsta-evolutionary-algos-1-out
+Python example: gangsta-evolutionary-algos-1-out
 
 ```python
 [[0.016906308913803514, -4.6302446], [0.04639955722864553, -0.0787489]]

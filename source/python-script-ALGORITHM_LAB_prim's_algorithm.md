@@ -10,7 +10,7 @@ Functions in program:
 
 ## python ALGORITHM LAB prim's algorithm
 
-Python mysql example: ALGORITHM LAB prim's algorithm
+Python example: ALGORITHM LAB prim's algorithm
 
 ```python
 # Prim's Algorithm

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python flood
 
-Python mysql example: flood
+Python example: flood
 
 ```python
 import time

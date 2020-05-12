@@ -8,7 +8,7 @@ Python script 'sha 256'
 
 ## python sha 256
 
-Python mysql example: sha 256
+Python example: sha 256
 
 ```python
 from Crypto.Hash import SHA256

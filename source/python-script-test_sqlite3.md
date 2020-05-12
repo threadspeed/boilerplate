@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python test sqlite3
 
-Python mysql example: test sqlite3
+Python example: test sqlite3
 
 ```python
 import time

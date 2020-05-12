@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python edge voter sim
 
-Python mysql example: edge voter sim
+Python example: edge voter sim
 
 ```python
 import matplotlib

@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex034'
 
 ## python PythonExercicios ex034
 
-Python mysql example: PythonExercicios ex034
+Python example: PythonExercicios ex034
 
 ```python
 salario = float(input('Digite o seu salário: R$'))

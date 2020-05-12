@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python linear
 
-Python mysql example: linear
+Python example: linear
 
 ```python
 # -*- coding: utf -8 -*-

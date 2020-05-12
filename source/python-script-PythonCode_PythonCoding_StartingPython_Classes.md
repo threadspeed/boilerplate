@@ -11,7 +11,7 @@ Functions in program:
 
 ## python PythonCode PythonCoding StartingPython Classes
 
-Python mysql example: PythonCode PythonCoding StartingPython Classes
+Python example: PythonCode PythonCoding StartingPython Classes
 
 ```python
 

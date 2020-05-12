@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python multi sharedmemory
 
-Python mysql example: multi sharedmemory
+Python example: multi sharedmemory
 
 ```python
 from multiprocessing import Process, Value, Array

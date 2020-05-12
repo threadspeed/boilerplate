@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python dibujarGrafo
 
-Python mysql example: dibujarGrafo
+Python example: dibujarGrafo
 
 ```python
 #!/usr/bin/python3

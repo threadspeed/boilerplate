@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Perceptron%2520Model%2520%2520-%2520XOR%2520Gate%2520(Graphical)
 
-Python mysql example: Perceptron%2520Model%2520%2520-%2520XOR%2520Gate%2520(Graphical)
+Python example: Perceptron%2520Model%2520%2520-%2520XOR%2520Gate%2520(Graphical)
 
 ```python
 #! python3

@@ -22,7 +22,7 @@ Modules used in program:
 
 ## python render
 
-Python mysql example: render
+Python example: render
 
 ```python
 import pygame

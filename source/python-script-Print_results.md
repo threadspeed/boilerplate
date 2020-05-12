@@ -8,7 +8,7 @@ Python script 'Print results'
 
 ## python Print results
 
-Python mysql example: Print results
+Python example: Print results
 
 ```python
 L1 = [1,2,3,4,5,6,5,2]

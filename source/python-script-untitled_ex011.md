@@ -8,7 +8,7 @@ Python script 'untitled ex011'
 
 ## python untitled ex011
 
-Python mysql example: untitled ex011
+Python example: untitled ex011
 
 ```python
 city = input("Digite o nome da sua cidade: ").strip()

@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python dogs vs cats
 
-Python mysql example: dogs vs cats
+Python example: dogs vs cats
 
 ```python
 import argparse

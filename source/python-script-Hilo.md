@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Hilo
 
-Python mysql example: Hilo
+Python example: Hilo
 
 ```python
 #Hilo.py

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python ALGORITHM LAB Quick sort
 
-Python mysql example: ALGORITHM LAB Quick sort
+Python example: ALGORITHM LAB Quick sort
 
 ```python
 # Quick Sort 1

@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python Demo 8 Function
 
-Python mysql example: Demo 8 Function
+Python example: Demo 8 Function
 
 ```python
 import random

@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python dataset
 
-Python mysql example: dataset
+Python example: dataset
 
 ```python
 # -*- coding: utf-8 -*

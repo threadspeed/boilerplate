@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python igraph2NoroSonia
 
-Python mysql example: igraph2NoroSonia
+Python example: igraph2NoroSonia
 
 ```python
 #a simple network-based SIR model written in Python

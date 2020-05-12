@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python lesson 1 Moonweight
 
-Python mysql example: lesson 1 Moonweight
+Python example: lesson 1 Moonweight
 
 ```python
 import sys

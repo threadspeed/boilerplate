@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python evolutionary-algos-2
 
-Python mysql example: evolutionary-algos-2
+Python example: evolutionary-algos-2
 
 ```python
 import random

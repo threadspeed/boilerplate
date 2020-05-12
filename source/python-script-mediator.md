@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python mediator
 
-Python mysql example: mediator
+Python example: mediator
 
 ```python
 #!/usr/bin/env python

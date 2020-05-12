@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python Merge Sort
 
-Python mysql example: Merge Sort
+Python example: Merge Sort
 
 ```python
 # This is the implementation of merge sort algorithm as given in the "Introduction To Algorithms" Thomas H. Cormen,

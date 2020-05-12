@@ -12,7 +12,7 @@ Functions in program:
 
 ## python wombo-combo piskvorky 1d
 
-Python mysql example: wombo-combo piskvorky 1d
+Python example: wombo-combo piskvorky 1d
 
 ```python
 # retezec = "Caute, tady Zuza \n a zdravi vas!"

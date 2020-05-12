@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python simple cache
 
-Python mysql example: simple cache
+Python example: simple cache
 
 ```python
 import itertools

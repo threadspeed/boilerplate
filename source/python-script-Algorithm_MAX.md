@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python Algorithm MAX
 
-Python mysql example: Algorithm MAX
+Python example: Algorithm MAX
 
 ```python
 import cProfile

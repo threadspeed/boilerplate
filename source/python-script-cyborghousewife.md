@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python cyborghousewife
 
-Python mysql example: cyborghousewife
+Python example: cyborghousewife
 
 ```python
 import random	#import random library

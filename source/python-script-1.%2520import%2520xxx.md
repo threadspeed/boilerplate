@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python 1.%2520import%2520xxx
 
-Python mysql example: 1.%2520import%2520xxx
+Python example: 1.%2520import%2520xxx
 
 ```python
 # import random module

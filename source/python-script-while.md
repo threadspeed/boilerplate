@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python while
 
-Python mysql example: while
+Python example: while
 
 ```python
 # сколько разрядов в числе?

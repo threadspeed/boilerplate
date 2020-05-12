@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python persistent
 
-Python mysql example: persistent
+Python example: persistent
 
 ```python
 import json

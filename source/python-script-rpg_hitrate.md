@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python rpg hitrate
 
-Python mysql example: rpg hitrate
+Python example: rpg hitrate
 
 ```python
 #!/usr/bin/env python3

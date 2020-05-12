@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python SpatialModel model cells
 
-Python mysql example: SpatialModel model cells
+Python example: SpatialModel model cells
 
 ```python
 from mesa import Agent

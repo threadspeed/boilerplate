@@ -10,7 +10,7 @@ Functions in program:
 
 ## python ALGORITHM LAB Bellman%2520Ford
 
-Python mysql example: ALGORITHM LAB Bellman%2520Ford
+Python example: ALGORITHM LAB Bellman%2520Ford
 
 ```python
 # Bellman Ford

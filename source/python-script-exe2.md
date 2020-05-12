@@ -8,7 +8,7 @@ Python script 'exe2'
 
 ## python exe2
 
-Python mysql example: exe2
+Python example: exe2
 
 ```python
 vetor =[]

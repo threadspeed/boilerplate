@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python guess number
 
-Python mysql example: guess number
+Python example: guess number
 
 ```python
 # Mini Project 2 for An Introduction to Interactive Programming in Python

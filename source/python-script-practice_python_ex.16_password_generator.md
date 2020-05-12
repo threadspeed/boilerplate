@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python practice python ex.16 password generator
 
-Python mysql example: practice python ex.16 password generator
+Python example: practice python ex.16 password generator
 
 ```python
 #http://www.practicepython.org/exercise/2014/05/28/16-password-generator.html

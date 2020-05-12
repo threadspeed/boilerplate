@@ -8,7 +8,7 @@ Python script 'odd or even'
 
 ## python odd or even
 
-Python mysql example: odd or even
+Python example: odd or even
 
 ```python
 numeric = int(input("Enter a number:"))

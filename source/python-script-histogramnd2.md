@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python histogramnd2
 
-Python mysql example: histogramnd2
+Python example: histogramnd2
 
 ```python
 import numpy as np

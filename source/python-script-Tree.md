@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python Tree
 
-Python mysql example: Tree
+Python example: Tree
 
 ```python
 import numpy as np 

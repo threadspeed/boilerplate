@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Ben%2520Dent
 
-Python mysql example: Ben%2520Dent
+Python example: Ben%2520Dent
 
 ```python
 # Add your Python code here. E.g.

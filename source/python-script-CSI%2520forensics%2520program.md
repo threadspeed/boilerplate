@@ -8,7 +8,7 @@ Python script 'CSI%2520forensics%2520program'
 
 ## python CSI%2520forensics%2520program
 
-Python mysql example: CSI%2520forensics%2520program
+Python example: CSI%2520forensics%2520program
 
 ```python
 

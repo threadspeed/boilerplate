@@ -8,7 +8,7 @@ Python script 'bubble simulation'
 
 ## python bubble simulation
 
-Python mysql example: bubble simulation
+Python example: bubble simulation
 
 ```python
 from base_bubble_tools import bernoulli_sample

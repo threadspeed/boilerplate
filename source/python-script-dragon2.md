@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python dragon2
 
-Python mysql example: dragon2
+Python example: dragon2
 
 ```python
 #dragon2.py dragon.py modularised

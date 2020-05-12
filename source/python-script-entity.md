@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python entity
 
-Python mysql example: entity
+Python example: entity
 
 ```python
 import random

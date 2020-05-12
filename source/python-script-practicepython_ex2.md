@@ -8,7 +8,7 @@ Python script 'practicepython ex2'
 
 ## python practicepython ex2
 
-Python mysql example: practicepython ex2
+Python example: practicepython ex2
 
 ```python
 #!/usr/bin/python

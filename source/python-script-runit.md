@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python runit
 
-Python mysql example: runit
+Python example: runit
 
 ```python
 """

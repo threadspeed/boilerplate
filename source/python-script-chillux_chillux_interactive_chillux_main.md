@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python chillux chillux interactive chillux main
 
-Python mysql example: chillux chillux interactive chillux main
+Python example: chillux chillux interactive chillux main
 
 ```python
 import os

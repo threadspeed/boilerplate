@@ -8,7 +8,7 @@ Python script 'ymm test class test'
 
 ## python ymm test class test
 
-Python mysql example: ymm test class test
+Python example: ymm test class test
 
 ```python
 #-*- coding:UTF-8 -*-

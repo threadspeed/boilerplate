@@ -10,7 +10,7 @@ Functions in program:
 
 ## python m4 5
 
-Python mysql example: m4 5
+Python example: m4 5
 
 ```python
 # Задание 5

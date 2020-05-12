@@ -8,7 +8,7 @@ Python script 'rozdzial3 przegrana bitwa'
 
 ## python rozdzial3 przegrana bitwa
 
-Python mysql example: rozdzial3 przegrana bitwa
+Python example: rozdzial3 przegrana bitwa
 
 ```python
 print("Twój samotny bohater jest otoczony przez ogromną armię trolli.")

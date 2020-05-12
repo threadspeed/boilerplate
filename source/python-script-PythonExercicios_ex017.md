@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex017'
 
 ## python PythonExercicios ex017
 
-Python mysql example: PythonExercicios ex017
+Python example: PythonExercicios ex017
 
 ```python
 '''co = float(input('Comprimento do cateto oposto: '))

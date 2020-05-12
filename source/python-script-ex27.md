@@ -8,7 +8,7 @@ Python script 'ex27'
 
 ## python ex27
 
-Python mysql example: ex27
+Python example: ex27
 
 ```python
 nome = input('Digite seu nome:')

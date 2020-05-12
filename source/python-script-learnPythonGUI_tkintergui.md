@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python learnPythonGUI tkintergui
 
-Python mysql example: learnPythonGUI tkintergui
+Python example: learnPythonGUI tkintergui
 
 ```python
 import random

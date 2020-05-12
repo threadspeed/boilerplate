@@ -8,7 +8,7 @@ Python script '004 Divisors'
 
 ## python 004 Divisors
 
-Python mysql example: 004 Divisors
+Python example: 004 Divisors
 
 ```python
 # Exercise

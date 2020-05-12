@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python 12 set max connection limit via semaphore
 
-Python mysql example: 12 set max connection limit via semaphore
+Python example: 12 set max connection limit via semaphore
 
 ```python
 import logging

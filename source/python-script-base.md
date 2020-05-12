@@ -8,7 +8,7 @@ Python script 'base'
 
 ## python base
 
-Python mysql example: base
+Python example: base
 
 ```python
 # tpot/operators/base.py

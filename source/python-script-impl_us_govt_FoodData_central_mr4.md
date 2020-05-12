@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python impl us govt FoodData central mr4
 
-Python mysql example: impl us govt FoodData central mr4
+Python example: impl us govt FoodData central mr4
 
 ```python
 # FAILURE CAUSING

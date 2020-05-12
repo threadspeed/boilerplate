@@ -32,7 +32,7 @@ Modules used in program:
 
 ## python vk photos downloader
 
-Python mysql example: vk photos downloader
+Python example: vk photos downloader
 
 ```python
 #!/usr/bin/python

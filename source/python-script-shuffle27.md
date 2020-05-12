@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python shuffle27
 
-Python mysql example: shuffle27
+Python example: shuffle27
 
 ```python
 # coding: utf-8

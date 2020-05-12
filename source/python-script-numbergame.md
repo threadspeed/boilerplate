@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python numbergame
 
-Python mysql example: numbergame
+Python example: numbergame
 
 ```python
 import datetime

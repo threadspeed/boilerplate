@@ -16,7 +16,7 @@ Functions in program:
 
 ## python extra
 
-Python mysql example: extra
+Python example: extra
 
 ```python
 #########################

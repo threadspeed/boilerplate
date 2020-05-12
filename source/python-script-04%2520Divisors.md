@@ -8,7 +8,7 @@ Python script '04%2520Divisors'
 
 ## python 04%2520Divisors
 
-Python mysql example: 04%2520Divisors
+Python example: 04%2520Divisors
 
 ```python
 user_input = int(input("Give me a number: "))

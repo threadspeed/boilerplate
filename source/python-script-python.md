@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python python
 
-Python mysql example: python
+Python example: python
 
 ```python
 #!/usr/bin/env python 

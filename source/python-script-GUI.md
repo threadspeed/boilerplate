@@ -22,7 +22,7 @@ Functions in program:
 
 ## python GUI
 
-Python mysql example: GUI
+Python example: GUI
 
 ```python
 # -*- coding: utf-8 -*-

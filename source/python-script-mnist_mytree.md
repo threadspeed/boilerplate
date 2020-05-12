@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python mnist mytree
 
-Python mysql example: mnist mytree
+Python example: mnist mytree
 
 ```python
 # coding: utf-8

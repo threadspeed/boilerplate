@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Random%2520number Refactoring
 
-Python mysql example: Random%2520number Refactoring
+Python example: Random%2520number Refactoring
 
 ```python
 #_*_Coding:utf-8_*_

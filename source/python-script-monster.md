@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python monster
 
-Python mysql example: monster
+Python example: monster
 
 ```python
 import random

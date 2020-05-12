@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python fredrik
 
-Python mysql example: fredrik
+Python example: fredrik
 
 ```python
 def n(l,p=51):

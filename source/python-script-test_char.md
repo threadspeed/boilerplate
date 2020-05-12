@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python test char
 
-Python mysql example: test char
+Python example: test char
 
 ```python
 import random

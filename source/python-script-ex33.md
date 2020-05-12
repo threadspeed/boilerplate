@@ -8,7 +8,7 @@ Python script 'ex33'
 
 ## python ex33
 
-Python mysql example: ex33
+Python example: ex33
 
 ```python
 n1=float(input('Digite o primeiro numero: '))

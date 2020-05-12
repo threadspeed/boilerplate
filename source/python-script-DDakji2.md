@@ -12,7 +12,7 @@ Functions in program:
 
 ## python DDakji2
 
-Python mysql example: DDakji2
+Python example: DDakji2
 
 ```python
 class Ddakji:

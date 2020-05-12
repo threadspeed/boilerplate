@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python gui obj
 
-Python mysql example: gui obj
+Python example: gui obj
 
 ```python
 import Tkinter

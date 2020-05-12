@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python rock%2520paper%2520scissors
 
-Python mysql example: rock%2520paper%2520scissors
+Python example: rock%2520paper%2520scissors
 
 ```python
 # Created by: Heejo Suh

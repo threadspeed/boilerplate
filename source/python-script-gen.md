@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python gen
 
-Python mysql example: gen
+Python example: gen
 
 ```python
 # Repos: https://bitbucket.org/Sharkbyteprojects/passwordgenerator/

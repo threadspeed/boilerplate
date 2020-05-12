@@ -12,7 +12,7 @@ Functions in program:
 
 ## python gale%2520shapely
 
-Python mysql example: gale%2520shapely
+Python example: gale%2520shapely
 
 ```python
 def input_men_or_women(n,z):

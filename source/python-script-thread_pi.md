@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python thread pi
 
-Python mysql example: thread pi
+Python example: thread pi
 
 ```python
 import queue

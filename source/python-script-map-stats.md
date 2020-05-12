@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python map-stats
 
-Python mysql example: map-stats
+Python example: map-stats
 
 ```python
 from htrc_features import FeatureReader

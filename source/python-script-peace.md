@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python peace
 
-Python mysql example: peace
+Python example: peace
 
 ```python
 #!/usr/bin/env python

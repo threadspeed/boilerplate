@@ -8,7 +8,7 @@ Python script 'SpatialModel main'
 
 ## python SpatialModel main
 
-Python mysql example: SpatialModel main
+Python example: SpatialModel main
 
 ```python
 from model_process import ProcessModel

@@ -11,7 +11,7 @@ Functions in program:
 
 ## python gistfile2
 
-Python mysql example: gistfile2
+Python example: gistfile2
 
 ```python
 #!/usr/bin/python

@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python password generator
 
-Python mysql example: password generator
+Python example: password generator
 
 ```python
 import argparse

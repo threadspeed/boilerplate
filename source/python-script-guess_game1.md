@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python guess game1
 
-Python mysql example: guess game1
+Python example: guess game1
 
 ```python
 import random #Allows the computer to generate random numbers, vital for the program to function correctly

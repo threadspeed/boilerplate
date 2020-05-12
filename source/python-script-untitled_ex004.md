@@ -8,7 +8,7 @@ Python script 'untitled ex004'
 
 ## python untitled ex004
 
-Python mysql example: untitled ex004
+Python example: untitled ex004
 
 ```python
 l = float (input ("Digite a largura da parede "))

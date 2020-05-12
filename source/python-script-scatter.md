@@ -10,7 +10,7 @@ Functions in program:
 
 ## python scatter
 
-Python mysql example: scatter
+Python example: scatter
 
 ```python
 def scatterPlot(filename, sheet, X, Y, t, x_lb, y_lb):

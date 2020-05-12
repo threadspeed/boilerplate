@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python work on less sample num
 
-Python mysql example: work on less sample num
+Python example: work on less sample num
 
 ```python
 # -*- coding: utf-8 -*-

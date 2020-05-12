@@ -8,7 +8,7 @@ Python script 'deploy'
 
 ## python deploy
 
-Python mysql example: deploy
+Python example: deploy
 
 ```python
 {% set URL = 'https://drive.google.com/drive/u/0/notareallink' %}

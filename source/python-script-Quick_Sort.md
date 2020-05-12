@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python Quick Sort
 
-Python mysql example: Quick Sort
+Python example: Quick Sort
 
 ```python
 # This is the implementation of quick sort algorithm as given in the "Introduction To Algorithms" Thomas H. Cormen,

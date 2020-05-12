@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python dice rolling simulator
 
-Python mysql example: dice rolling simulator
+Python example: dice rolling simulator
 
 ```python
 import random

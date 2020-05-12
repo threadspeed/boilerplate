@@ -8,7 +8,7 @@ Python script 'random walk'
 
 ## python random walk
 
-Python mysql example: random walk
+Python example: random walk
 
 ```python
 from random import choice

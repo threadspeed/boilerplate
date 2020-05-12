@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Tiezzi 5992531 Es7 Graph
 
-Python mysql example: Tiezzi 5992531 Es7 Graph
+Python example: Tiezzi 5992531 Es7 Graph
 
 ```python
 from collections import defaultdict

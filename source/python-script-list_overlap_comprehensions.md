@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python list overlap comprehensions
 
-Python mysql example: list overlap comprehensions
+Python example: list overlap comprehensions
 
 ```python
 import random

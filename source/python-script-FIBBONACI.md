@@ -11,7 +11,7 @@ Functions in program:
 
 ## python FIBBONACI
 
-Python mysql example: FIBBONACI
+Python example: FIBBONACI
 
 ```python
 # TO PRINT THE FIBBONACI SERIES AS PER THE USER INPUT

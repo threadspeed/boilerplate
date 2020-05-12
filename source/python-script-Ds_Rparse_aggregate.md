@@ -11,7 +11,7 @@ Functions in program:
 
 ## python Ds Rparse aggregate
 
-Python mysql example: Ds Rparse aggregate
+Python example: Ds Rparse aggregate
 
 ```python
 def mean(list_):

@@ -35,7 +35,7 @@ Modules used in program:
 
 ## python auto recommend url helper
 
-Python mysql example: auto recommend url helper
+Python example: auto recommend url helper
 
 ```python
 #encoding=utf-8

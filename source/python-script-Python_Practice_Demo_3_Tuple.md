@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Python Practice Demo 3 Tuple
 
-Python mysql example: Python Practice Demo 3 Tuple
+Python example: Python Practice Demo 3 Tuple
 
 ```python
 import random

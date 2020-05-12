@@ -8,7 +8,7 @@ Python script 'untitled ex015'
 
 ## python untitled ex015
 
-Python mysql example: untitled ex015
+Python example: untitled ex015
 
 ```python
 n1= int(input("Digiite a primeira nota: "))

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Game update 2.0(Homework)
 
-Python mysql example: Game update 2.0(Homework)
+Python example: Game update 2.0(Homework)
 
 ```python
 import random

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python hgvs
 
-Python mysql example: hgvs
+Python example: hgvs
 
 ```python
 import urllib.request

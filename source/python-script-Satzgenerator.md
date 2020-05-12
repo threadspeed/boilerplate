@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python Satzgenerator
 
-Python mysql example: Satzgenerator
+Python example: Satzgenerator
 
 ```python
 #python 3

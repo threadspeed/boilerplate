@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python Titanic(02)
 
-Python mysql example: Titanic(02)
+Python example: Titanic(02)
 
 ```python
 import pandas as pd

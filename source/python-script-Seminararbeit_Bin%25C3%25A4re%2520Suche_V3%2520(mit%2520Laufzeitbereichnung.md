@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python Seminararbeit Bin%25C3%25A4re%2520Suche V3%2520(mit%2520Laufzeitbereichnung
 
-Python mysql example: Seminararbeit Bin%25C3%25A4re%2520Suche V3%2520(mit%2520Laufzeitbereichnung
+Python example: Seminararbeit Bin%25C3%25A4re%2520Suche V3%2520(mit%2520Laufzeitbereichnung
 
 ```python
 from random import *

@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex014'
 
 ## python PythonExercicios ex014
 
-Python mysql example: PythonExercicios ex014
+Python example: PythonExercicios ex014
 
 ```python
 c = float(input('Informe a temperatura em °C: '))

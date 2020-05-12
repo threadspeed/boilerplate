@@ -8,7 +8,7 @@ Python script 'file2'
 
 ## python file2
 
-Python mysql example: file2
+Python example: file2
 
 ```python
 # ファイル読込

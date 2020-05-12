@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python image folder
 
-Python mysql example: image folder
+Python example: image folder
 
 ```python
 import numpy as np

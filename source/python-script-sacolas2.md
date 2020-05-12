@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python sacolas2
 
-Python mysql example: sacolas2
+Python example: sacolas2
 
 ```python
 # !python3

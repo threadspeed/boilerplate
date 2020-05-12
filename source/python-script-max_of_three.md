@@ -8,7 +8,7 @@ Python script 'max of three'
 
 ## python max of three
 
-Python mysql example: max of three
+Python example: max of three
 
 ```python
 num1 = 5

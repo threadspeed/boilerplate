@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python prometheus simple scraper
 
-Python mysql example: prometheus simple scraper
+Python example: prometheus simple scraper
 
 ```python
 #!/usr/bin/env python

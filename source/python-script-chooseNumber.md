@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python chooseNumber
 
-Python mysql example: chooseNumber
+Python example: chooseNumber
 
 ```python
 import random

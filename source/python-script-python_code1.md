@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python python code1
 
-Python mysql example: python code1
+Python example: python code1
 
 ```python
 #Number Smart Game#

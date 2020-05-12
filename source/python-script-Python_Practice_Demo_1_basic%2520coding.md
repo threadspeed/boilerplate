@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Python Practice Demo 1 basic%2520coding
 
-Python mysql example: Python Practice Demo 1 basic%2520coding
+Python example: Python Practice Demo 1 basic%2520coding
 
 ```python
 import random

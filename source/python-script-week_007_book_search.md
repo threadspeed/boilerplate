@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python week 007 book search
 
-Python mysql example: week 007 book search
+Python example: week 007 book search
 
 ```python
 import random

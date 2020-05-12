@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python get random string
 
-Python mysql example: get random string
+Python example: get random string
 
 ```python
 import random

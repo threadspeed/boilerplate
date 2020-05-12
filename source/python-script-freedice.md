@@ -10,7 +10,7 @@ Functions in program:
 
 ## python freedice
 
-Python mysql example: freedice
+Python example: freedice
 
 ```python
 def free_dice():

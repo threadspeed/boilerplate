@@ -25,7 +25,7 @@ Modules used in program:
 
 ## python CS166 9-1 SIS infection
 
-Python mysql example: CS166 9-1 SIS infection
+Python example: CS166 9-1 SIS infection
 
 ```python
 import matplotlib

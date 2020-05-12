@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Sorted sort
 
-Python mysql example: Sorted sort
+Python example: Sorted sort
 
 ```python
 import time

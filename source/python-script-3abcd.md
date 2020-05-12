@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python 3abcd
 
-Python mysql example: 3abcd
+Python example: 3abcd
 
 ```python
 #!/usr/bin/env python3

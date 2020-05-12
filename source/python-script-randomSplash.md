@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python randomSplash
 
-Python mysql example: randomSplash
+Python example: randomSplash
 
 ```python
 import os

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python decode a web page
 
-Python mysql example: decode a web page
+Python example: decode a web page
 
 ```python
 import requests

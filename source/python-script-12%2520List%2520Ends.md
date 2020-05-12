@@ -10,7 +10,7 @@ Functions in program:
 
 ## python 12%2520List%2520Ends
 
-Python mysql example: 12%2520List%2520Ends
+Python example: 12%2520List%2520Ends
 
 ```python
 a = [5, 10, 15, 20, 25]

@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python large dict memory
 
-Python mysql example: large dict memory
+Python example: large dict memory
 
 ```python
 import random

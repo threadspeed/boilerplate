@@ -8,7 +8,7 @@ Python script '07 wizard Game okno'
 
 ## python 07 wizard Game okno
 
-Python mysql example: 07 wizard Game okno
+Python example: 07 wizard Game okno
 
 ```python
 from tkinter import *

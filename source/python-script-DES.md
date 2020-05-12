@@ -8,7 +8,7 @@ Python script 'DES'
 
 ## python DES
 
-Python mysql example: DES
+Python example: DES
 
 ```python
 from Crypto.Cipher import DES

@@ -8,7 +8,7 @@ Python script 'PythonTests Desafio010'
 
 ## python PythonTests Desafio010
 
-Python mysql example: PythonTests Desafio010
+Python example: PythonTests Desafio010
 
 ```python
 r=int(input('Quantos reais você possue em sua carteira? '))

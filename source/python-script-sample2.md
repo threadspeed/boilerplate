@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python sample2
 
-Python mysql example: sample2
+Python example: sample2
 
 ```python
 import asyncio

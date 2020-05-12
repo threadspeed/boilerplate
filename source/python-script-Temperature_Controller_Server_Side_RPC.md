@@ -22,7 +22,7 @@ Modules used in program:
 
 ## python Temperature Controller Server Side RPC
 
-Python mysql example: Temperature Controller Server Side RPC
+Python example: Temperature Controller Server Side RPC
 
 ```python
 # This Program illustrates the Server Side RPC on ThingsBoard IoT Platform

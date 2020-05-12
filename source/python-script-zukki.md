@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python zukki
 
-Python mysql example: zukki
+Python example: zukki
 
 ```python
 #coding: utf-8

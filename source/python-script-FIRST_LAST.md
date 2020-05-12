@@ -11,7 +11,7 @@ Functions in program:
 
 ## python FIRST LAST
 
-Python mysql example: FIRST LAST
+Python example: FIRST LAST
 
 ```python
 # Create a new list with first and last element of user input List

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python UtilsCifar10
 
-Python mysql example: UtilsCifar10
+Python example: UtilsCifar10
 
 ```python
 import random

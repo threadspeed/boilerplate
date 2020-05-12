@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python sys-path-example-1
 
-Python mysql example: sys-path-example-1
+Python example: sys-path-example-1
 
 ```python
 import sys

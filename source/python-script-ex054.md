@@ -8,7 +8,7 @@ Python script 'ex054'
 
 ## python ex054
 
-Python mysql example: ex054
+Python example: ex054
 
 ```python
 cont=0

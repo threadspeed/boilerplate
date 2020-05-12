@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python encrypt file
 
-Python mysql example: encrypt file
+Python example: encrypt file
 
 ```python
 import os

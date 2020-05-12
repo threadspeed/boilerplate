@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python constellation
 
-Python mysql example: constellation
+Python example: constellation
 
 ```python
 # -*- coding: utf-8 -*-

@@ -24,7 +24,7 @@ Modules used in program:
 
 ## python api client
 
-Python mysql example: api client
+Python example: api client
 
 ```python
 ##########################################################################################

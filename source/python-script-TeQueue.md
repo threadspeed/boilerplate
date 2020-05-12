@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python TeQueue
 
-Python mysql example: TeQueue
+Python example: TeQueue
 
 ```python
 import heapq

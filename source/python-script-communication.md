@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python communication
 
-Python mysql example: communication
+Python example: communication
 
 ```python
 import zmq

@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python train
 
-Python mysql example: train
+Python example: train
 
 ```python
 import gym

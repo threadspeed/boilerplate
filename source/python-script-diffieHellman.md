@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python diffieHellman
 
-Python mysql example: diffieHellman
+Python example: diffieHellman
 
 ```python
 import random

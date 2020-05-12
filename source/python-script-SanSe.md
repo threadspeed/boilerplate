@@ -8,7 +8,7 @@ Python script 'SanSe'
 
 ## python SanSe
 
-Python mysql example: SanSe
+Python example: SanSe
 
 ```python
 print("Lets make sure you are in legal age to drink at SanSe.")

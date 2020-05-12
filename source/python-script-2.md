@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python 2
 
-Python mysql example: 2
+Python example: 2
 
 ```python
 #import profile

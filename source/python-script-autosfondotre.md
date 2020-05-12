@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python autosfondotre
 
-Python mysql example: autosfondotre
+Python example: autosfondotre
 
 ```python
 from PIL import Image, ImageDraw

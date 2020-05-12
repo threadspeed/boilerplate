@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python classify rect
 
-Python mysql example: classify rect
+Python example: classify rect
 
 ```python
 # coding: utf-8

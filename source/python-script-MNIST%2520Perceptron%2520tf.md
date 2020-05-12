@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python MNIST%2520Perceptron%2520tf
 
-Python mysql example: MNIST%2520Perceptron%2520tf
+Python example: MNIST%2520Perceptron%2520tf
 
 ```python
 #! python3

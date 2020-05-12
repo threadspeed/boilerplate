@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python rsa
 
-Python mysql example: rsa
+Python example: rsa
 
 ```python
 from math import gcd as bltin_gcd

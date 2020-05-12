@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex001'
 
 ## python PythonExercicios ex001
 
-Python mysql example: PythonExercicios ex001
+Python example: PythonExercicios ex001
 
 ```python
 print('Olá, mundo!')

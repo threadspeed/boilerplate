@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex012'
 
 ## python PythonExercicios ex012
 
-Python mysql example: PythonExercicios ex012
+Python example: PythonExercicios ex012
 
 ```python
 p = float(input('Digite o preço: R$'))

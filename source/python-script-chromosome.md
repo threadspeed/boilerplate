@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python chromosome
 
-Python mysql example: chromosome
+Python example: chromosome
 
 ```python
 import random

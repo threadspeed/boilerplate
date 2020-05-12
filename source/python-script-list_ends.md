@@ -8,7 +8,7 @@ Python script 'list ends'
 
 ## python list ends
 
-Python mysql example: list ends
+Python example: list ends
 
 ```python
 x = []

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python godmode
 
-Python mysql example: godmode
+Python example: godmode
 
 ```python
 import sklearn

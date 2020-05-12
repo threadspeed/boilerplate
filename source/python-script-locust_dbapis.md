@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python locust dbapis
 
-Python mysql example: locust dbapis
+Python example: locust dbapis
 
 ```python
 from locust import HttpLocust, TaskSet, between, task

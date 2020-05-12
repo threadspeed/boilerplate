@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python animate-py2
 
-Python mysql example: animate-py2
+Python example: animate-py2
 
 ```python
 

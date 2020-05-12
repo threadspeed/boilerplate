@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python dummy qlearning
 
-Python mysql example: dummy qlearning
+Python example: dummy qlearning
 
 ```python
 import gym

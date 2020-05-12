@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python 07 wizard Game actors
 
-Python mysql example: 07 wizard Game actors
+Python example: 07 wizard Game actors
 
 ```python
 import random

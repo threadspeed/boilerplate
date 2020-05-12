@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python reader3
 
-Python mysql example: reader3
+Python example: reader3
 
 ```python
 # In memory seems to work

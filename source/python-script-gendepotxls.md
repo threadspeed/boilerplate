@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python gendepotxls
 
-Python mysql example: gendepotxls
+Python example: gendepotxls
 
 ```python
 #!/usr/bin/env python

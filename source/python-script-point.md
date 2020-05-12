@@ -22,7 +22,7 @@ Modules used in program:
 
 ## python point
 
-Python mysql example: point
+Python example: point
 
 ```python
 import analytics

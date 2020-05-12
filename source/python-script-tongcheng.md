@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python tongcheng
 
-Python mysql example: tongcheng
+Python example: tongcheng
 
 ```python
 import re

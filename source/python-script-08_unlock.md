@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python 08 unlock
 
-Python mysql example: 08 unlock
+Python example: 08 unlock
 
 ```python
 import logging

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Life
 
-Python mysql example: Life
+Python example: Life
 
 ```python
 # -*- coding: utf-8 -*-

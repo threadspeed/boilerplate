@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python random int
 
-Python mysql example: random int
+Python example: random int
 
 ```python
 # -*- coding:utf-8 -*-

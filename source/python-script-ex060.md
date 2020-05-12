@@ -8,7 +8,7 @@ Python script 'ex060'
 
 ## python ex060
 
-Python mysql example: ex060
+Python example: ex060
 
 ```python
 '''from math import factorial

@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python Client Side RPC
 
-Python mysql example: Client Side RPC
+Python example: Client Side RPC
 
 ```python
 # This Program illustrates the Client Side RPC on ThingsBoard IoT Platform

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python file1
 
-Python mysql example: file1
+Python example: file1
 
 ```python
 # -*- coding: utf-8 -*-

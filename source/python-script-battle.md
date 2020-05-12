@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python battle
 
-Python mysql example: battle
+Python example: battle
 
 ```python
 #Battle a random Enemy with Simple 

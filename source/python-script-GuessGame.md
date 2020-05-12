@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python GuessGame
 
-Python mysql example: GuessGame
+Python example: GuessGame
 
 ```python
 import random

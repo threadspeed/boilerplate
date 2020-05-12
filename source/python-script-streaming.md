@@ -22,7 +22,7 @@ Modules used in program:
 
 ## python streaming
 
-Python mysql example: streaming
+Python example: streaming
 
 ```python
 import os

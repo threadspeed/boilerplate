@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python fuzzer
 
-Python mysql example: fuzzer
+Python example: fuzzer
 
 ```python
 #!/usr/bin/env python2

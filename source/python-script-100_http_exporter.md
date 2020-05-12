@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python 100 http exporter
 
-Python mysql example: 100 http exporter
+Python example: 100 http exporter
 
 ```python
 #!/usr/bin/env python

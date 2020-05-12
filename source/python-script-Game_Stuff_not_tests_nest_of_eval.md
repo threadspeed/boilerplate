@@ -8,7 +8,7 @@ Python script 'Game Stuff not tests nest of eval'
 
 ## python Game Stuff not tests nest of eval
 
-Python mysql example: Game Stuff not tests nest of eval
+Python example: Game Stuff not tests nest of eval
 
 ```python
 __author__ = 'Gregorio Manabat III'

@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python SliderTest Slider%2520Test%2520Case
 
-Python mysql example: SliderTest Slider%2520Test%2520Case
+Python example: SliderTest Slider%2520Test%2520Case
 
 ```python
 import unittest

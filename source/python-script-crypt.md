@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python crypt
 
-Python mysql example: crypt
+Python example: crypt
 
 ```python
 # -*- coding: utf-8 -*-

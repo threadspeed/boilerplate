@@ -8,7 +8,7 @@ Python script 'PythonTests Desafio005'
 
 ## python PythonTests Desafio005
 
-Python mysql example: PythonTests Desafio005
+Python example: PythonTests Desafio005
 
 ```python
 n=int(input(' Digite um número: '))

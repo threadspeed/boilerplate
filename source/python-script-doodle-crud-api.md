@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python doodle-crud-api
 
-Python mysql example: doodle-crud-api
+Python example: doodle-crud-api
 
 ```python
 #! /usr/bin/env python3

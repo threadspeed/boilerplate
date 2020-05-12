@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python list%25C4%2587w
 
-Python mysql example: list%25C4%2587w
+Python example: list%25C4%2587w
 
 ```python
 # numbList = []

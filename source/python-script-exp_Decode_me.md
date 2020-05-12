@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python exp Decode me
 
-Python mysql example: exp Decode me
+Python example: exp Decode me
 
 ```python
 import base64

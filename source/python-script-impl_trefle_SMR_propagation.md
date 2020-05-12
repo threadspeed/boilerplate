@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python impl trefle SMR propagation
 
-Python mysql example: impl trefle SMR propagation
+Python example: impl trefle SMR propagation
 
 ```python
 import requests

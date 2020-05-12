@@ -8,7 +8,7 @@ Python script 'pycharm test practice5 loop3-for-multy'
 
 ## python pycharm test practice5 loop3-for-multy
 
-Python mysql example: pycharm test practice5 loop3-for-multy
+Python example: pycharm test practice5 loop3-for-multy
 
 ```python
 for i in range(1,10):

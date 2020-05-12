@@ -22,7 +22,7 @@ Modules used in program:
 
 ## python homework 3
 
-Python mysql example: homework 3
+Python example: homework 3
 
 ```python
 #1 Random errors

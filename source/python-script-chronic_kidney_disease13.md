@@ -8,7 +8,7 @@ Python script 'chronic kidney disease13'
 
 ## python chronic kidney disease13
 
-Python mysql example: chronic kidney disease13
+Python example: chronic kidney disease13
 
 ```python
 from sklearn.tree import DecisionTreeClassifier

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python dragon
 
-Python mysql example: dragon
+Python example: dragon
 
 ```python
 import random

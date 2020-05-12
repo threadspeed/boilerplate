@@ -8,7 +8,7 @@ Python script 'War'
 
 ## python War
 
-Python mysql example: War
+Python example: War
 
 ```python
 again=input("press enter to start or anything else to quit ")

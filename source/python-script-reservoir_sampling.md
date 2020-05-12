@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python reservoir sampling
 
-Python mysql example: reservoir sampling
+Python example: reservoir sampling
 
 ```python
 import random

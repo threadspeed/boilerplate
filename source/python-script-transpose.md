@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python transpose
 
-Python mysql example: transpose
+Python example: transpose
 
 ```python
 #!/usr/local/bin/python3.3 -tt

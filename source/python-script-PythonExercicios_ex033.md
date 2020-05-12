@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex033'
 
 ## python PythonExercicios ex033
 
-Python mysql example: PythonExercicios ex033
+Python example: PythonExercicios ex033
 
 ```python
 print('Qual é o maior e o menor número dentre os 3 digitados?')

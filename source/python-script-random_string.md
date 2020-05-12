@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python random string
 
-Python mysql example: random string
+Python example: random string
 
 ```python
 import random

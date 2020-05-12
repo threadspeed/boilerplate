@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python pygame snake
 
-Python mysql example: pygame snake
+Python example: pygame snake
 
 ```python
 import random

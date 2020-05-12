@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python game script
 
-Python mysql example: game script
+Python example: game script
 
 ```python
 import random

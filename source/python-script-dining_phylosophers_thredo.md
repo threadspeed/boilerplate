@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python dining phylosophers thredo
 
-Python mysql example: dining phylosophers thredo
+Python example: dining phylosophers thredo
 
 ```python
 import random

@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python randomWord
 
-Python mysql example: randomWord
+Python example: randomWord
 
 ```python
 with open("/usr/share/dict/words") as f:

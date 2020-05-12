@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python microbit
 
-Python mysql example: microbit
+Python example: microbit
 
 ```python
 # Add your Python code here. E.g.

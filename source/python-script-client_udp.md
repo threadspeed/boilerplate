@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python client udp
 
-Python mysql example: client udp
+Python example: client udp
 
 ```python
 import socket

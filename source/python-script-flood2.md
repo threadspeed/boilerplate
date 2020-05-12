@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python flood2
 
-Python mysql example: flood2
+Python example: flood2
 
 ```python
 from pprint(import pprint)

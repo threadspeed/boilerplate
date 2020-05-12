@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python isn%2520proget%25202
 
-Python mysql example: isn%2520proget%25202
+Python example: isn%2520proget%25202
 
 ```python
 import random   # permet d'utiliser la fonction hasard

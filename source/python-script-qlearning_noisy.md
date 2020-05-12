@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python qlearning noisy
 
-Python mysql example: qlearning noisy
+Python example: qlearning noisy
 
 ```python
 import gym

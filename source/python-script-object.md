@@ -8,7 +8,7 @@ Python script 'object'
 
 ## python object
 
-Python mysql example: object
+Python example: object
 
 ```python
 # -*- coding: utf-8 -*-

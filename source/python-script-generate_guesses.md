@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python generate guesses
 
-Python mysql example: generate guesses
+Python example: generate guesses
 
 ```python
 import filecmp

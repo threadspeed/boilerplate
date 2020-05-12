@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python 01 run with block
 
-Python mysql example: 01 run with block
+Python example: 01 run with block
 
 ```python
 import threading

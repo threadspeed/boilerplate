@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python sample seed
 
-Python mysql example: sample seed
+Python example: sample seed
 
 ```python
 import random

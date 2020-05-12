@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python organism
 
-Python mysql example: organism
+Python example: organism
 
 ```python
 import random

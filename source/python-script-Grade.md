@@ -8,7 +8,7 @@ Python script 'Grade'
 
 ## python Grade
 
-Python mysql example: Grade
+Python example: Grade
 
 ```python
 print("give me your grade percent and I will tell you your letter grade")

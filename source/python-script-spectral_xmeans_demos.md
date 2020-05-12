@@ -22,7 +22,7 @@ Modules used in program:
 
 ## python spectral xmeans demos
 
-Python mysql example: spectral xmeans demos
+Python example: spectral xmeans demos
 
 ```python
 #!/usr/bin/env python

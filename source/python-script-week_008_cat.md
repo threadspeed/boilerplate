@@ -15,7 +15,7 @@ Functions in program:
 
 ## python week 008 cat
 
-Python mysql example: week 008 cat
+Python example: week 008 cat
 
 ```python
 vowels = "ауеёоияэюы"

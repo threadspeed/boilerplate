@@ -15,7 +15,7 @@ Functions in program:
 
 ## python wombo-combo retezce
 
-Python mysql example: wombo-combo retezce
+Python example: wombo-combo retezce
 
 ```python
 # retezec="Caute, tady Vlada \n a zdravim vas!"

@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python auto recommend jieba test
 
-Python mysql example: auto recommend jieba test
+Python example: auto recommend jieba test
 
 ```python
 #encoding=utf-8

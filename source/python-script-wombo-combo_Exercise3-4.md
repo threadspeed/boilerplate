@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python wombo-combo Exercise3-4
 
-Python mysql example: wombo-combo Exercise3-4
+Python example: wombo-combo Exercise3-4
 
 ```python
 import turtle

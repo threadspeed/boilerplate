@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python histogram fluidpythran
 
-Python mysql example: histogram fluidpythran
+Python example: histogram fluidpythran
 
 ```python
 

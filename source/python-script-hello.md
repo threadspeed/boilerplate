@@ -8,7 +8,7 @@ Python script 'hello'
 
 ## python hello
 
-Python mysql example: hello
+Python example: hello
 
 ```python
 {% if message_number == 0 %}

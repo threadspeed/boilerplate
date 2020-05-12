@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python sample0
 
-Python mysql example: sample0
+Python example: sample0
 
 ```python
 import time

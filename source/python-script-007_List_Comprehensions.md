@@ -8,7 +8,7 @@ Python script '007 List Comprehensions'
 
 ## python 007 List Comprehensions
 
-Python mysql example: 007 List Comprehensions
+Python example: 007 List Comprehensions
 
 ```python
 # Exercise(s)

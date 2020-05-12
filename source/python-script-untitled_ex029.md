@@ -8,7 +8,7 @@ Python script 'untitled ex029'
 
 ## python untitled ex029
 
-Python mysql example: untitled ex029
+Python example: untitled ex029
 
 ```python
 n1 = float(input("Digite a primeira nota: "))

@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python game03
 
-Python mysql example: game03
+Python example: game03
 
 ```python
 import random

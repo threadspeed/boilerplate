@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python CT10 1
 
-Python mysql example: CT10 1
+Python example: CT10 1
 
 ```python
 import numpy as np

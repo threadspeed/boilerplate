@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python python-for-data-science
 
-Python mysql example: python-for-data-science
+Python example: python-for-data-science
 
 ```python
 # Import required libraries

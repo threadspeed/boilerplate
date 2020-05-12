@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python insertion
 
-Python mysql example: insertion
+Python example: insertion
 
 ```python
 import random

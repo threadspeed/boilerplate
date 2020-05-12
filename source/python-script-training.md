@@ -19,7 +19,7 @@ Functions in program:
 
 ## python training
 
-Python mysql example: training
+Python example: training
 
 ```python
 

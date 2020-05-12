@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python reader
 
-Python mysql example: reader
+Python example: reader
 
 ```python
 # This crashes

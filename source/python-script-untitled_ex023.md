@@ -8,7 +8,7 @@ Python script 'untitled ex023'
 
 ## python untitled ex023
 
-Python mysql example: untitled ex023
+Python example: untitled ex023
 
 ```python
 r1 = float(input("Digite o comprimento da primeira reta: "))

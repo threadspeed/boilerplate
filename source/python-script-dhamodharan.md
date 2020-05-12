@@ -23,7 +23,7 @@ Modules used in program:
 
 ## python dhamodharan
 
-Python mysql example: dhamodharan
+Python example: dhamodharan
 
 ```python
 import re

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python sort-heapq
 
-Python mysql example: sort-heapq
+Python example: sort-heapq
 
 ```python
 import resource

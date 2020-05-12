@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python test interior
 
-Python mysql example: test interior
+Python example: test interior
 
 ```python
 from __future__ import print_function, division

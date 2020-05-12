@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python musicbrainz
 
-Python mysql example: musicbrainz
+Python example: musicbrainz
 
 ```python
 import requests

@@ -8,7 +8,7 @@ Python script 'pycharm test practice5 loop-for1'
 
 ## python pycharm test practice5 loop-for1
 
-Python mysql example: pycharm test practice5 loop-for1
+Python example: pycharm test practice5 loop-for1
 
 ```python
 # for ivpy in 'I Love Python!':

@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python SliderTest Fontier%2520hover-over
 
-Python mysql example: SliderTest Fontier%2520hover-over
+Python example: SliderTest Fontier%2520hover-over
 
 ```python
 import unittest

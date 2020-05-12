@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python HumanStrategy
 
-Python mysql example: HumanStrategy
+Python example: HumanStrategy
 
 ```python
 import random

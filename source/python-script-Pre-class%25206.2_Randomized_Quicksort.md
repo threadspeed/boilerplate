@@ -25,7 +25,7 @@ Modules used in program:
 
 ## python Pre-class%25206.2 Randomized Quicksort
 
-Python mysql example: Pre-class%25206.2 Randomized Quicksort
+Python example: Pre-class%25206.2 Randomized Quicksort
 
 ```python
 #Without separating items that are equal to the parition

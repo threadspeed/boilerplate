@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Ritual
 
-Python mysql example: Ritual
+Python example: Ritual
 
 ```python
 import freedice

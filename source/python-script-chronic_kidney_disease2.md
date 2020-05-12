@@ -8,7 +8,7 @@ Python script 'chronic kidney disease2'
 
 ## python chronic kidney disease2
 
-Python mysql example: chronic kidney disease2
+Python example: chronic kidney disease2
 
 ```python
 kidney_disease = pd.read_csv("chronic_kidney_disease.csv",na_values=['?'])

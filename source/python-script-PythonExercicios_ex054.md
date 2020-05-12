@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python PythonExercicios ex054
 
-Python mysql example: PythonExercicios ex054
+Python example: PythonExercicios ex054
 
 ```python
 import datetime

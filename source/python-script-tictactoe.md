@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python tictactoe
 
-Python mysql example: tictactoe
+Python example: tictactoe
 
 ```python
 # Tic Tac Toe assignmen that my student Grace is working on.

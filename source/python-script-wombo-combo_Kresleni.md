@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python wombo-combo Kresleni
 
-Python mysql example: wombo-combo Kresleni
+Python example: wombo-combo Kresleni
 
 ```python
 import turtle as tl

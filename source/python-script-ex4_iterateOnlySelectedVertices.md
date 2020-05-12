@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python ex4 iterateOnlySelectedVertices
 
-Python mysql example: ex4 iterateOnlySelectedVertices
+Python example: ex4 iterateOnlySelectedVertices
 
 ```python
 # Example 4

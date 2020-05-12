@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python CowsAndBulls
 
-Python mysql example: CowsAndBulls
+Python example: CowsAndBulls
 
 ```python
 import random

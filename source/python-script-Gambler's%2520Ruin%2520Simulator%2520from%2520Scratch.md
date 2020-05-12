@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python Gambler's%2520Ruin%2520Simulator%2520from%2520Scratch
 
-Python mysql example: Gambler's%2520Ruin%2520Simulator%2520from%2520Scratch
+Python example: Gambler's%2520Ruin%2520Simulator%2520from%2520Scratch
 
 ```python
 import random

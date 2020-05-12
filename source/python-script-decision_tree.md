@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python decision tree
 
-Python mysql example: decision tree
+Python example: decision tree
 
 ```python
 # coding: utf-8

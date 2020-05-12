@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python population
 
-Python mysql example: population
+Python example: population
 
 ```python
 # -*- coding:Utf-8 -*-

@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python importing
 
-Python mysql example: importing
+Python example: importing
 
 ```python
 import geopandas

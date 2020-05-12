@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python 001 Character Input
 
-Python mysql example: 001 Character Input
+Python example: 001 Character Input
 
 ```python
 # Exercise (and Solution)

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python ShuffleQueue
 
-Python mysql example: ShuffleQueue
+Python example: ShuffleQueue
 
 ```python
 # repeat a list, randomly shuffling after each full pass

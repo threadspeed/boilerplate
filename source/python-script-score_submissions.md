@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python score submissions
 
-Python mysql example: score submissions
+Python example: score submissions
 
 ```python
 ##

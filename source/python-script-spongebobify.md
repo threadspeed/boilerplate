@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python spongebobify
 
-Python mysql example: spongebobify
+Python example: spongebobify
 
 ```python
 import random

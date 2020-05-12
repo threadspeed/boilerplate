@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python auto recommend test url
 
-Python mysql example: auto recommend test url
+Python example: auto recommend test url
 
 ```python
 #encoding=utf-8

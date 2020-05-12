@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Learn ClassTicTak
 
-Python mysql example: Learn ClassTicTak
+Python example: Learn ClassTicTak
 
 ```python
 import random

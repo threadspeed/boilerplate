@@ -10,7 +10,7 @@ Functions in program:
 
 ## python recruit rfregress
 
-Python mysql example: recruit rfregress
+Python example: recruit rfregress
 
 ```python
 from sklearn.feature_selection import RFE

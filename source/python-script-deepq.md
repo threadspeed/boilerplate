@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python deepq
 
-Python mysql example: deepq
+Python example: deepq
 
 ```python
 # import os

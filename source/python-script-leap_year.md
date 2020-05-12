@@ -10,7 +10,7 @@ Functions in program:
 
 ## python leap year
 
-Python mysql example: leap year
+Python example: leap year
 
 ```python
 # https://www.hackerrank.com/challenges/write-a-function/problem

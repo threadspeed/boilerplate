@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python tieten
 
-Python mysql example: tieten
+Python example: tieten
 
 ```python
 #dit programma bevat het spel galgje

@@ -8,7 +8,7 @@ Python script 'ex35'
 
 ## python ex35
 
-Python mysql example: ex35
+Python example: ex35
 
 ```python
 reta1= int(input('Digite o cumprimento da primeira linha: '))

@@ -8,7 +8,7 @@ Python script 'ex001'
 
 ## python ex001
 
-Python mysql example: ex001
+Python example: ex001
 
 ```python
 msg = 'Ola Mundo'

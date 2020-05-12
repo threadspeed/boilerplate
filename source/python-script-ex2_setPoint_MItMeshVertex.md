@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python ex2 setPoint MItMeshVertex
 
-Python mysql example: ex2 setPoint MItMeshVertex
+Python example: ex2 setPoint MItMeshVertex
 
 ```python
 # Exapmle2

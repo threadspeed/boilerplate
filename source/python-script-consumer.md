@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python consumer
 
-Python mysql example: consumer
+Python example: consumer
 
 ```python
 import threading, logging, time

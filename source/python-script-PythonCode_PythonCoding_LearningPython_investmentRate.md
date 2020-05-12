@@ -8,7 +8,7 @@ Python script 'PythonCode PythonCoding LearningPython investmentRate'
 
 ## python PythonCode PythonCoding LearningPython investmentRate
 
-Python mysql example: PythonCode PythonCoding LearningPython investmentRate
+Python example: PythonCode PythonCoding LearningPython investmentRate
 
 ```python
 money = input("How much are you investing? ")

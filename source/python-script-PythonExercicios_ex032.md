@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex032'
 
 ## python PythonExercicios ex032
 
-Python mysql example: PythonExercicios ex032
+Python example: PythonExercicios ex032
 
 ```python
 from datetime import date

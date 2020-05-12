@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python normal%2520rand
 
-Python mysql example: normal%2520rand
+Python example: normal%2520rand
 
 ```python
 import random

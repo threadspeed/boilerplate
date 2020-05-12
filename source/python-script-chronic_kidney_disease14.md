@@ -8,7 +8,7 @@ Python script 'chronic kidney disease14'
 
 ## python chronic kidney disease14
 
-Python mysql example: chronic kidney disease14
+Python example: chronic kidney disease14
 
 ```python
 from sklearn.ensemble import RandomForestClassifier

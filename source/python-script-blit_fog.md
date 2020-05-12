@@ -8,7 +8,7 @@ Python script 'blit fog'
 
 ## python blit fog
 
-Python mysql example: blit fog
+Python example: blit fog
 
 ```python
 from array import array

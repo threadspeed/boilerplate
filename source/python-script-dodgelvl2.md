@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python dodgelvl2
 
-Python mysql example: dodgelvl2
+Python example: dodgelvl2
 
 ```python
 import turtle

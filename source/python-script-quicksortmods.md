@@ -28,7 +28,7 @@ Modules used in program:
 
 ## python quicksortmods
 
-Python mysql example: quicksortmods
+Python example: quicksortmods
 
 ```python
 

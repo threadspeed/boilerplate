@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python 03-Appendix-B-insert data
 
-Python mysql example: 03-Appendix-B-insert data
+Python example: 03-Appendix-B-insert data
 
 ```python
 #! /usr/bin/env python

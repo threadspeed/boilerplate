@@ -8,7 +8,7 @@ Python script 'Programmierkurs %25C3%259Cbungen Programmierkurs u eingabe gehalt
 
 ## python Programmierkurs %25C3%259Cbungen Programmierkurs u eingabe gehalt
 
-Python mysql example: Programmierkurs %25C3%259Cbungen Programmierkurs u eingabe gehalt
+Python example: Programmierkurs %25C3%259Cbungen Programmierkurs u eingabe gehalt
 
 ```python
  # coding: latin-1

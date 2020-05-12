@@ -10,7 +10,7 @@ Functions in program:
 
 ## python radiosidewinder
 
-Python mysql example: radiosidewinder
+Python example: radiosidewinder
 
 ```python
 from willie import module

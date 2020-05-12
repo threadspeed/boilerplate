@@ -8,7 +8,7 @@ Python script 'exe8'
 
 ## python exe8
 
-Python mysql example: exe8
+Python example: exe8
 
 ```python
 nome = []

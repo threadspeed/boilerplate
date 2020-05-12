@@ -11,7 +11,7 @@ Functions in program:
 
 ## python windowing aggregations
 
-Python mysql example: windowing aggregations
+Python example: windowing aggregations
 
 ```python
 def windowing_aggreg(dg, agg_col, dt_col, window):

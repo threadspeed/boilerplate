@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python get ranking data
 
-Python mysql example: get ranking data
+Python example: get ranking data
 
 ```python
 import sqlite3

@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python simple udp dos 3
 
-Python mysql example: simple udp dos 3
+Python example: simple udp dos 3
 
 ```python
 import os

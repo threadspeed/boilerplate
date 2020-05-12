@@ -10,7 +10,7 @@ Functions in program:
 
 ## python prank
 
-Python mysql example: prank
+Python example: prank
 
 ```python
 print("snoop dog")

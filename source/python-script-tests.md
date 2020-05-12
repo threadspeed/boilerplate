@@ -8,7 +8,7 @@ Python script 'tests'
 
 ## python tests
 
-Python mysql example: tests
+Python example: tests
 
 ```python
 from unittest import TestCase

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python 02 run as daemon
 
-Python mysql example: 02 run as daemon
+Python example: 02 run as daemon
 
 ```python
 import threading

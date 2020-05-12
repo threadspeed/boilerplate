@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Final Game MQ V5
 
-Python mysql example: Final Game MQ V5
+Python example: Final Game MQ V5
 
 ```python
 # Full Game

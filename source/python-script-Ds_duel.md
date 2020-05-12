@@ -12,7 +12,7 @@ Functions in program:
 
 ## python Ds duel
 
-Python mysql example: Ds duel
+Python example: Ds duel
 
 ```python
 from qplayer import Player as Player1

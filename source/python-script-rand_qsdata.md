@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python rand qsdata
 
-Python mysql example: rand qsdata
+Python example: rand qsdata
 
 ```python
 import random 

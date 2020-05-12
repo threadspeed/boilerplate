@@ -8,7 +8,7 @@ Python script 'rock paper scissors'
 
 ## python rock paper scissors
 
-Python mysql example: rock paper scissors
+Python example: rock paper scissors
 
 ```python
 answer = "yes"

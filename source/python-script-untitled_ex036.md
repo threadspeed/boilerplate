@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python untitled ex036
 
-Python mysql example: untitled ex036
+Python example: untitled ex036
 
 ```python
 import time

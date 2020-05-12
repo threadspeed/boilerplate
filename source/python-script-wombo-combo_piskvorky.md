@@ -12,7 +12,7 @@ Functions in program:
 
 ## python wombo-combo piskvorky
 
-Python mysql example: wombo-combo piskvorky
+Python example: wombo-combo piskvorky
 
 ```python
 from GitHubProjects import ai

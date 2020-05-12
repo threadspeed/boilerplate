@@ -8,7 +8,7 @@ Python script 'chronic kidney disease15'
 
 ## python chronic kidney disease15
 
-Python mysql example: chronic kidney disease15
+Python example: chronic kidney disease15
 
 ```python
 importances = model_RF.feature_importances_

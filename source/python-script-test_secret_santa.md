@@ -10,7 +10,7 @@ Functions in program:
 
 ## python test secret santa
 
-Python mysql example: test secret santa
+Python example: test secret santa
 
 ```python
 # -*- coding: utf-8 -*-

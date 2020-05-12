@@ -12,7 +12,7 @@ Functions in program:
 
 ## python exercise8
 
-Python mysql example: exercise8
+Python example: exercise8
 
 ```python
 def player1_wins():

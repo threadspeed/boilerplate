@@ -8,7 +8,7 @@ Python script 'wombo-combo Assigments'
 
 ## python wombo-combo Assigments
 
-Python mysql example: wombo-combo Assigments
+Python example: wombo-combo Assigments
 
 ```python
 # Error testing

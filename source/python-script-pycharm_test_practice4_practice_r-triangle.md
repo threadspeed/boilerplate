@@ -11,7 +11,7 @@ Functions in program:
 
 ## python pycharm test practice4 practice r-triangle
 
-Python mysql example: pycharm test practice4 practice r-triangle
+Python example: pycharm test practice4 practice r-triangle
 
 ```python
 def thirdside(r1,r2):

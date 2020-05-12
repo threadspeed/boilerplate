@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python test01
 
-Python mysql example: test01
+Python example: test01
 
 ```python
 import console

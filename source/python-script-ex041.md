@@ -8,7 +8,7 @@ Python script 'ex041'
 
 ## python ex041
 
-Python mysql example: ex041
+Python example: ex041
 
 ```python
 from datetime import date

@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python dismissed
 
-Python mysql example: dismissed
+Python example: dismissed
 
 ```python
 import willie

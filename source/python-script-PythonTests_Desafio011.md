@@ -8,7 +8,7 @@ Python script 'PythonTests Desafio011'
 
 ## python PythonTests Desafio011
 
-Python mysql example: PythonTests Desafio011
+Python example: PythonTests Desafio011
 
 ```python
 l=int(input('Qual será a largura da parede? '))

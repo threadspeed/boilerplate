@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python query gen
 
-Python mysql example: query gen
+Python example: query gen
 
 ```python
 import itertools

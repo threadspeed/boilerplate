@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Demo 7 WhileLoop
 
-Python mysql example: Demo 7 WhileLoop
+Python example: Demo 7 WhileLoop
 
 ```python
 import random

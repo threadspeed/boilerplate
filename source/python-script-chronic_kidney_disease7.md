@@ -8,7 +8,7 @@ Python script 'chronic kidney disease7'
 
 ## python chronic kidney disease7
 
-Python mysql example: chronic kidney disease7
+Python example: chronic kidney disease7
 
 ```python
 kidney_disease =kidney_disease.replace(["\t?","\tno","\tyes",'ckd\t','\t43',],[np.nan,"no","yes",'ckd','43'])

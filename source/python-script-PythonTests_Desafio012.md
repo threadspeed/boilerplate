@@ -8,7 +8,7 @@ Python script 'PythonTests Desafio012'
 
 ## python PythonTests Desafio012
 
-Python mysql example: PythonTests Desafio012
+Python example: PythonTests Desafio012
 
 ```python
 p=int(input('Preço do produto (R$): '))

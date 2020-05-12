@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python mee9-lvlup randomphrase
 
-Python mysql example: mee9-lvlup randomphrase
+Python example: mee9-lvlup randomphrase
 
 ```python
 import random

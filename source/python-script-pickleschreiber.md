@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python pickleschreiber
 
-Python mysql example: pickleschreiber
+Python example: pickleschreiber
 
 ```python
 #python 3

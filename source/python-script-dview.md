@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python dview
 
-Python mysql example: dview
+Python example: dview
 
 ```python
 # launch an IPython cluster using cli or ipython notebook interface

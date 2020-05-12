@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Programmierkurs Spiel spiel zufallszahl
 
-Python mysql example: Programmierkurs Spiel spiel zufallszahl
+Python example: Programmierkurs Spiel spiel zufallszahl
 
 ```python
 #Modul random Importieren

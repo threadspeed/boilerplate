@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python Session4 2
 
-Python mysql example: Session4 2
+Python example: Session4 2
 
 ```python
 #Hiring problem: 

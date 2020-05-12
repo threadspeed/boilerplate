@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python initializeB
 
-Python mysql example: initializeB
+Python example: initializeB
 
 ```python
 # Nの乱数列を生成

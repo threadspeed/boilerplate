@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python bewertung tests
 
-Python mysql example: bewertung tests
+Python example: bewertung tests
 
 ```python
 # -*- coding: utf-8 -*-

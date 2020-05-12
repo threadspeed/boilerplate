@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python utils
 
-Python mysql example: utils
+Python example: utils
 
 ```python
 # -*- coding: utf-8 -*

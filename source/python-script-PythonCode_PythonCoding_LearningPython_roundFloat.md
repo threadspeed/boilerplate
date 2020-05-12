@@ -8,7 +8,7 @@ Python script 'PythonCode PythonCoding LearningPython roundFloat'
 
 ## python PythonCode PythonCoding LearningPython roundFloat
 
-Python mysql example: PythonCode PythonCoding LearningPython roundFloat
+Python example: PythonCode PythonCoding LearningPython roundFloat
 
 ```python
 your_float = input("Enter a float:")

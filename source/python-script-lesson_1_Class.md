@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python lesson 1 Class
 
-Python mysql example: lesson 1 Class
+Python example: lesson 1 Class
 
 ```python
 import turtle

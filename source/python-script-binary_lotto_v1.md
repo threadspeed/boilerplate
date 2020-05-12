@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python binary lotto v1
 
-Python mysql example: binary lotto v1
+Python example: binary lotto v1
 
 ```python
 # Ask the user to enter two numbers between 0 - 1, 

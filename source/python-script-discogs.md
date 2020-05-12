@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python discogs
 
-Python mysql example: discogs
+Python example: discogs
 
 ```python
 import requests

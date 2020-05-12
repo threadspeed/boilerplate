@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python Generator891 ABC
 
-Python mysql example: Generator891 ABC
+Python example: Generator891 ABC
 
 ```python
 import os

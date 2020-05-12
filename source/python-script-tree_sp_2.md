@@ -8,7 +8,7 @@ Python script 'tree sp 2'
 
 ## python tree sp 2
 
-Python mysql example: tree sp 2
+Python example: tree sp 2
 
 ```python
 # This version waits for the pi zero to boot

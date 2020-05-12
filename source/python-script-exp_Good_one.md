@@ -10,7 +10,7 @@ Functions in program:
 
 ## python exp Good one
 
-Python mysql example: exp Good one
+Python example: exp Good one
 
 ```python
 from Crypto.Util.number import *

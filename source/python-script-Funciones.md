@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Funciones
 
-Python mysql example: Funciones
+Python example: Funciones
 
 ```python
 import random

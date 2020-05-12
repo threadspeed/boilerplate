@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python create issues
 
-Python mysql example: create issues
+Python example: create issues
 
 ```python
 import random

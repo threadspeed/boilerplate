@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python crawler download worker
 
-Python mysql example: crawler download worker
+Python example: crawler download worker
 
 ```python
 #!/usr/bin/env python

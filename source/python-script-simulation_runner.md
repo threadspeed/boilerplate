@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python simulation runner
 
-Python mysql example: simulation runner
+Python example: simulation runner
 
 ```python
 from bubble_expand import Bubble

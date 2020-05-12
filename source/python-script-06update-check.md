@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python 06update-check
 
-Python mysql example: 06update-check
+Python example: 06update-check
 
 ```python
 import sys

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python step 2 nltk consume yhat
 
-Python mysql example: step 2 nltk consume yhat
+Python example: step 2 nltk consume yhat
 
 ```python
 from yhat import Yhat

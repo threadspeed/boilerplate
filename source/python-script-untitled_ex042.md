@@ -8,7 +8,7 @@ Python script 'untitled ex042'
 
 ## python untitled ex042
 
-Python mysql example: untitled ex042
+Python example: untitled ex042
 
 ```python
 n = int(input("Digite um número: "))

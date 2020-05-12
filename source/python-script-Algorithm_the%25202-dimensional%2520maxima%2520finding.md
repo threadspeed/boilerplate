@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python Algorithm the%25202-dimensional%2520maxima%2520finding
 
-Python mysql example: Algorithm the%25202-dimensional%2520maxima%2520finding
+Python example: Algorithm the%25202-dimensional%2520maxima%2520finding
 
 ```python
 import cProfile

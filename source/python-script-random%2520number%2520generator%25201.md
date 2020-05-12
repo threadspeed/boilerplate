@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python random%2520number%2520generator%25201
 
-Python mysql example: random%2520number%2520generator%25201
+Python example: random%2520number%2520generator%25201
 
 ```python
 import random

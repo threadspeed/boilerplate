@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python challenge Fast Speedy
 
-Python mysql example: challenge Fast Speedy
+Python example: challenge Fast Speedy
 
 ```python
 #!/usr/bin/env python

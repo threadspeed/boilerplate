@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python PythonExercicios ex043
 
-Python mysql example: PythonExercicios ex043
+Python example: PythonExercicios ex043
 
 ```python
 import time

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python randrange
 
-Python mysql example: randrange
+Python example: randrange
 
 ```python
 import random

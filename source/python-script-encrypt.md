@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python encrypt
 
-Python mysql example: encrypt
+Python example: encrypt
 
 ```python
 import argparse

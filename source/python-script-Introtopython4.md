@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Introtopython4
 
-Python mysql example: Introtopython4
+Python example: Introtopython4
 
 ```python
 # Print the summary statistics

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python paired data
 
-Python mysql example: paired data
+Python example: paired data
 
 ```python
 import numpy as np

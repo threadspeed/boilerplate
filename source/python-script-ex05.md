@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python ex05
 
-Python mysql example: ex05
+Python example: ex05
 
 ```python
 

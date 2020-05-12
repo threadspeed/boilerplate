@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python montecarlo
 
-Python mysql example: montecarlo
+Python example: montecarlo
 
 ```python
 import itertools

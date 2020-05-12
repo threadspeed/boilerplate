@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python nbodyphysics vec2
 
-Python mysql example: nbodyphysics vec2
+Python example: nbodyphysics vec2
 
 ```python
 #!/usr/bin/python

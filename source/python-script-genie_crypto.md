@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python genie crypto
 
-Python mysql example: genie crypto
+Python example: genie crypto
 
 ```python
 #!/usr/bin/env python

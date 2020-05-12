@@ -8,7 +8,7 @@ Python script 'MainGame'
 
 ## python MainGame
 
-Python mysql example: MainGame
+Python example: MainGame
 
 ```python
 from Live import load_game, welcome

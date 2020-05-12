@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python rand names
 
-Python mysql example: rand names
+Python example: rand names
 
 ```python
 import urllib.request

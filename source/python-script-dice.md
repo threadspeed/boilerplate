@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python dice
 
-Python mysql example: dice
+Python example: dice
 
 ```python
 #!/usr/bin/python3

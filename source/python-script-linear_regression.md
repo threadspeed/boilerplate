@@ -10,7 +10,7 @@ Functions in program:
 
 ## python linear regression
 
-Python mysql example: linear regression
+Python example: linear regression
 
 ```python
 # TODO: shuffle dataset before gradient descent?

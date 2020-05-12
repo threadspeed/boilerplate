@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Rochambeau version1
 
-Python mysql example: Rochambeau version1
+Python example: Rochambeau version1
 
 ```python
 #PRE-REQUISITES:

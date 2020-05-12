@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python donotuse
 
-Python mysql example: donotuse
+Python example: donotuse
 
 ```python
 ##########################################################

@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python gmm on numpy
 
-Python mysql example: gmm on numpy
+Python example: gmm on numpy
 
 ```python
 # -*- coding: utf-8 -*-

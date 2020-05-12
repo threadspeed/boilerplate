@@ -10,7 +10,7 @@ Functions in program:
 
 ## python pycharm test practice4 practice42
 
-Python mysql example: pycharm test practice4 practice42
+Python example: pycharm test practice4 practice42
 
 ```python
 #练习题1，重量转换器

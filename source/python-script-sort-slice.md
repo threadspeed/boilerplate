@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python sort-slice
 
-Python mysql example: sort-slice
+Python example: sort-slice
 
 ```python
 import resource

@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python Kth big
 
-Python mysql example: Kth big
+Python example: Kth big
 
 ```python
 # Udacity, CS215, Homework 4.2

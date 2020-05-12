@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python sklearn vs wiserf
 
-Python mysql example: sklearn vs wiserf
+Python example: sklearn vs wiserf
 
 ```python
 import numpy

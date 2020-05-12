@@ -8,7 +8,7 @@ Python script 'resampling'
 
 ## python resampling
 
-Python mysql example: resampling
+Python example: resampling
 
 ```python
 from sklearn.linear_model import LogisticRegression

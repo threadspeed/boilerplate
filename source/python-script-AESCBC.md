@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python AESCBC
 
-Python mysql example: AESCBC
+Python example: AESCBC
 
 ```python
 from Crypto.Cipher import AES

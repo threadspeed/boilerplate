@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python pi using monte carlo simulation
 
-Python mysql example: pi using monte carlo simulation
+Python example: pi using monte carlo simulation
 
 ```python
 import random

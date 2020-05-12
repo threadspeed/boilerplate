@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python get file checksum
 
-Python mysql example: get file checksum
+Python example: get file checksum
 
 ```python
 import os

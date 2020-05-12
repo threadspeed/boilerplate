@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python py-one-liners
 
-Python mysql example: py-one-liners
+Python example: py-one-liners
 
 ```python
 # Generate a 4 chars password

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python qr 34885LKn
 
-Python mysql example: qr 34885LKn
+Python example: qr 34885LKn
 
 ```python
 import time

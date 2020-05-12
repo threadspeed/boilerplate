@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python poll
 
-Python mysql example: poll
+Python example: poll
 
 ```python
 import requests

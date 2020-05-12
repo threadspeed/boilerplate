@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python animalcards
 
-Python mysql example: animalcards
+Python example: animalcards
 
 ```python
 import random

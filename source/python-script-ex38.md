@@ -8,7 +8,7 @@ Python script 'ex38'
 
 ## python ex38
 
-Python mysql example: ex38
+Python example: ex38
 
 ```python
 n1= int(input('Digite o primeiro numero: '))

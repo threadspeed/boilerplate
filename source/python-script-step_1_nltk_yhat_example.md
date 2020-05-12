@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python step 1 nltk yhat example
 
-Python mysql example: step 1 nltk yhat example
+Python example: step 1 nltk yhat example
 
 ```python
 import nltk

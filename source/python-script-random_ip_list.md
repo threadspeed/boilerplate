@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python random ip list
 
-Python mysql example: random ip list
+Python example: random ip list
 
 ```python
 import random

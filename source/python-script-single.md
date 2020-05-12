@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python single
 
-Python mysql example: single
+Python example: single
 
 ```python
 # coding: utf-8

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python User%2520Validation
 
-Python mysql example: User%2520Validation
+Python example: User%2520Validation
 
 ```python
 import random # import the random module to generate random passwordimport string # importing the string module to carry out some operation like slicing

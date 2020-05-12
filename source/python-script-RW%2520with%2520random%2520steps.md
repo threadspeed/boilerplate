@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python RW%2520with%2520random%2520steps
 
-Python mysql example: RW%2520with%2520random%2520steps
+Python example: RW%2520with%2520random%2520steps
 
 ```python
 import numpy as np

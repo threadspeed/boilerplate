@@ -23,7 +23,7 @@ Modules used in program:
 
 ## python 05-Appendix-C-use case 2
 
-Python mysql example: 05-Appendix-C-use case 2
+Python example: 05-Appendix-C-use case 2
 
 ```python
 #!/usr/bin/env python

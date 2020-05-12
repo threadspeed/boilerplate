@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python rockpaper
 
-Python mysql example: rockpaper
+Python example: rockpaper
 
 ```python
 import random

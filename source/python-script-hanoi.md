@@ -22,7 +22,7 @@ Modules used in program:
 
 ## python hanoi
 
-Python mysql example: hanoi
+Python example: hanoi
 
 ```python
 import time

@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python test make trie root and nodes
 
-Python mysql example: test make trie root and nodes
+Python example: test make trie root and nodes
 
 ```python
 import cProfile

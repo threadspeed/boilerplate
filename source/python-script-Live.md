@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python Live
 
-Python mysql example: Live
+Python example: Live
 
 ```python
 import MemoryGame

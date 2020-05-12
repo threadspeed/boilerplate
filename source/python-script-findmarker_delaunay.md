@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python findmarker delaunay
 
-Python mysql example: findmarker delaunay
+Python example: findmarker delaunay
 
 ```python
 import numpy as np

@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python 3-avg
 
-Python mysql example: 3-avg
+Python example: 3-avg
 
 ```python
 from math import sqrt

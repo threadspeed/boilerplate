@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python serve
 
-Python mysql example: serve
+Python example: serve
 
 ```python
 from flask import Flask, send_from_directory, request, redirect, Response

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python build password
 
-Python mysql example: build password
+Python example: build password
 
 ```python
 import sensitive

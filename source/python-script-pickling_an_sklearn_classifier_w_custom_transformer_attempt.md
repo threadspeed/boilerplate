@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python pickling an sklearn classifier w custom transformer attempt
 
-Python mysql example: pickling an sklearn classifier w custom transformer attempt
+Python example: pickling an sklearn classifier w custom transformer attempt
 
 ```python
 import boto

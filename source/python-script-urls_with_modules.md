@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python urls with modules
 
-Python mysql example: urls with modules
+Python example: urls with modules
 
 ```python
 import os

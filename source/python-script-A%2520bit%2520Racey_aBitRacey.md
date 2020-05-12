@@ -22,7 +22,7 @@ Modules used in program:
 
 ## python A%2520bit%2520Racey aBitRacey
 
-Python mysql example: A%2520bit%2520Racey aBitRacey
+Python example: A%2520bit%2520Racey aBitRacey
 
 ```python
 import random

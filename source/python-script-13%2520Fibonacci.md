@@ -10,7 +10,7 @@ Functions in program:
 
 ## python 13%2520Fibonacci
 
-Python mysql example: 13%2520Fibonacci
+Python example: 13%2520Fibonacci
 
 ```python
 def digit_amt(qty):

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python K-means%2520Console Kmeans
 
-Python mysql example: K-means%2520Console Kmeans
+Python example: K-means%2520Console Kmeans
 
 ```python
 import time

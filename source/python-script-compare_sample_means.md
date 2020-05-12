@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python compare sample means
 
-Python mysql example: compare sample means
+Python example: compare sample means
 
 ```python
 #!/usr/bin/env python

@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python ClusterPlotter
 
-Python mysql example: ClusterPlotter
+Python example: ClusterPlotter
 
 ```python
 import matplotlib.pyplot as plt

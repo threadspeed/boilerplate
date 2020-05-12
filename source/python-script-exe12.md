@@ -8,7 +8,7 @@ Python script 'exe12'
 
 ## python exe12
 
-Python mysql example: exe12
+Python example: exe12
 
 ```python
 alturas = []

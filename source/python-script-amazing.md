@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python amazing
 
-Python mysql example: amazing
+Python example: amazing
 
 ```python
 # coding: utf-8 

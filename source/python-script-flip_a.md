@@ -10,7 +10,7 @@ Functions in program:
 
 ## python flip a
 
-Python mysql example: flip a
+Python example: flip a
 
 ```python
 from random import random

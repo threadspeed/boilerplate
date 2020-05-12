@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python 03 run as daemon wait
 
-Python mysql example: 03 run as daemon wait
+Python example: 03 run as daemon wait
 
 ```python
 import threading

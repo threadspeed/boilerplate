@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python medium1
 
-Python mysql example: medium1
+Python example: medium1
 
 ```python
 from tkinter import *

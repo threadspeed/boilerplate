@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python Count(merge sort)
 
-Python mysql example: Count(merge sort)
+Python example: Count(merge sort)
 
 ```python
 #Mainidea : divide과정에서는 대소비교없이 반으로 쪼개는 과정이기때문에 comparison operation이 없다고 생각됨

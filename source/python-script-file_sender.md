@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python file sender
 
-Python mysql example: file sender
+Python example: file sender
 
 ```python
 import socket

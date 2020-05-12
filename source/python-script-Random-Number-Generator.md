@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Random-Number-Generator
 
-Python mysql example: Random-Number-Generator
+Python example: Random-Number-Generator
 
 ```python
 

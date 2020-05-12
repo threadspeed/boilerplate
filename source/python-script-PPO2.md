@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python PPO2
 
-Python mysql example: PPO2
+Python example: PPO2
 
 ```python
 import gym

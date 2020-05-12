@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python draw
 
-Python mysql example: draw
+Python example: draw
 
 ```python
 #! /usr/bin/env python

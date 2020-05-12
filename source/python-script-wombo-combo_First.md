@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python wombo-combo First
 
-Python mysql example: wombo-combo First
+Python example: wombo-combo First
 
 ```python
 import random

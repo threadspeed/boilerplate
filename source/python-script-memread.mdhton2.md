@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python memreadhton2
 
-Python mysql example: memreadhton2
+Python example: memreadhton2
 
 ```python
 import random

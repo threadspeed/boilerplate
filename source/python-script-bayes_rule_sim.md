@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python bayes rule sim
 
-Python mysql example: bayes rule sim
+Python example: bayes rule sim
 
 ```python
 # Scenario 1: Assume equal probability of picking bowl X or Y

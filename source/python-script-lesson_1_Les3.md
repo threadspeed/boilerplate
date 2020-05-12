@@ -8,7 +8,7 @@ Python script 'lesson 1 Les3'
 
 ## python lesson 1 Les3
 
-Python mysql example: lesson 1 Les3
+Python example: lesson 1 Les3
 
 ```python
 #weight = 75

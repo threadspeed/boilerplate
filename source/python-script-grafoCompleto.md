@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python grafoCompleto
 
-Python mysql example: grafoCompleto
+Python example: grafoCompleto
 
 ```python
 #!/usr/bin/python3

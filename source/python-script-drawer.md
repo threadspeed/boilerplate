@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python drawer
 
-Python mysql example: drawer
+Python example: drawer
 
 ```python
 #!/usr/bin/env python

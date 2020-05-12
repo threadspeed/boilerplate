@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python Camel%2520Game
 
-Python mysql example: Camel%2520Game
+Python example: Camel%2520Game
 
 ```python
 #Camel Game

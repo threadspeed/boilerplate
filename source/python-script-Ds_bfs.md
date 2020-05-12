@@ -10,7 +10,7 @@ Functions in program:
 
 ## python Ds bfs
 
-Python mysql example: Ds bfs
+Python example: Ds bfs
 
 ```python
 from assignment1 import *

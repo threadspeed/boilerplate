@@ -8,7 +8,7 @@ Python script 'untitled ex032'
 
 ## python untitled ex032
 
-Python mysql example: untitled ex032
+Python example: untitled ex032
 
 ```python
 peso = float(input("Digite seu peso (KG): "))

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python fill
 
-Python mysql example: fill
+Python example: fill
 
 ```python
 #!/usr/local/bin/python3.3 -tt

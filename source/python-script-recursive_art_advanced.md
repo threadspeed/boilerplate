@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python recursive art advanced
 
-Python mysql example: recursive art advanced
+Python example: recursive art advanced
 
 ```python
 import sys

@@ -8,7 +8,7 @@ Python script 'exp Clever Girl'
 
 ## python exp Clever Girl
 
-Python mysql example: exp Clever Girl
+Python example: exp Clever Girl
 
 ```python
 from Crypto.Util.number import *

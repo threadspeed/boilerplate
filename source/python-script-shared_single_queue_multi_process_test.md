@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python shared single queue multi process test
 
-Python mysql example: shared single queue multi process test
+Python example: shared single queue multi process test
 
 ```python
 import multiprocessing

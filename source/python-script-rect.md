@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python rect
 
-Python mysql example: rect
+Python example: rect
 
 ```python
 import random

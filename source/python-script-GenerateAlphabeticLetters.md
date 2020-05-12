@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python GenerateAlphabeticLetters
 
-Python mysql example: GenerateAlphabeticLetters
+Python example: GenerateAlphabeticLetters
 
 ```python
 '''

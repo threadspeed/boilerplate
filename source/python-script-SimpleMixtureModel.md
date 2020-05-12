@@ -11,7 +11,7 @@ Functions in program:
 
 ## python SimpleMixtureModel
 
-Python mysql example: SimpleMixtureModel
+Python example: SimpleMixtureModel
 
 ```python
 # -*- coding: utf-8 -*-

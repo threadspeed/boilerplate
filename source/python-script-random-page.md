@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python random-page
 
-Python mysql example: random-page
+Python example: random-page
 
 ```python
 #!/usr/bin/env python

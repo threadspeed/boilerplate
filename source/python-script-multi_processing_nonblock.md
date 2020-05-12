@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python multi processing nonblock
 
-Python mysql example: multi processing nonblock
+Python example: multi processing nonblock
 
 ```python
 from multiprocessing import Process, Queue

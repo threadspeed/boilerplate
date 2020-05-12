@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python game-of-life-first-pass
 
-Python mysql example: game-of-life-first-pass
+Python example: game-of-life-first-pass
 
 ```python
 # Conway's Game of Life

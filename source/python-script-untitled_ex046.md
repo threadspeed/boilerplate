@@ -8,7 +8,7 @@ Python script 'untitled ex046'
 
 ## python untitled ex046
 
-Python mysql example: untitled ex046
+Python example: untitled ex046
 
 ```python
 j = 0

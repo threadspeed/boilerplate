@@ -25,7 +25,7 @@ Functions in program:
 
 ## python utilities
 
-Python mysql example: utilities
+Python example: utilities
 
 ```python
 #########################

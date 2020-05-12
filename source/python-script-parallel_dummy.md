@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python parallel dummy
 
-Python mysql example: parallel dummy
+Python example: parallel dummy
 
 ```python
 from IPython.parallel import Client

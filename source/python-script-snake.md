@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python snake
 
-Python mysql example: snake
+Python example: snake
 
 ```python
 import time

@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python newfinal
 
-Python mysql example: newfinal
+Python example: newfinal
 
 ```python
 #!/usr/bin/env python

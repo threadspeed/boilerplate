@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python pwgen
 
-Python mysql example: pwgen
+Python example: pwgen
 
 ```python
 import string

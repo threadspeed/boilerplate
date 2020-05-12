@@ -8,7 +8,7 @@ Python script 'ex053'
 
 ## python ex053
 
-Python mysql example: ex053
+Python example: ex053
 
 ```python
 frase= str(input('Digite uma frase: ')).strip().upper()

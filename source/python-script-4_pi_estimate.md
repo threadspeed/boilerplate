@@ -8,7 +8,7 @@ Python script '4 pi estimate'
 
 ## python 4 pi estimate
 
-Python mysql example: 4 pi estimate
+Python example: 4 pi estimate
 
 ```python
 #!/usr/bin/python3

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python guessing game one
 
-Python mysql example: guessing game one
+Python example: guessing game one
 
 ```python
 import random

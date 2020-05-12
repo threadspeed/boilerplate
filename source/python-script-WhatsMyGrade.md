@@ -8,7 +8,7 @@ Python script 'WhatsMyGrade'
 
 ## python WhatsMyGrade
 
-Python mysql example: WhatsMyGrade
+Python example: WhatsMyGrade
 
 ```python
 #WhatsMtGrade.py

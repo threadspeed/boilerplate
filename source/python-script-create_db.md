@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python create db
 
-Python mysql example: create db
+Python example: create db
 
 ```python
 #!/usr/bin/python

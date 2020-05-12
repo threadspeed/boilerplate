@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python memcached perf
 
-Python mysql example: memcached perf
+Python example: memcached perf
 
 ```python
 ## memcached, Couchbaseで使用

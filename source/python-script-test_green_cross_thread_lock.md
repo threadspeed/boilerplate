@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python test green cross thread lock
 
-Python mysql example: test green cross thread lock
+Python example: test green cross thread lock
 
 ```python
 import threading

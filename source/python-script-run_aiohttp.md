@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python run aiohttp
 
-Python mysql example: run aiohttp
+Python example: run aiohttp
 
 ```python
 import asyncio

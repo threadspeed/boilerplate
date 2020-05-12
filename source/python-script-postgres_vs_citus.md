@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python postgres vs citus
 
-Python mysql example: postgres vs citus
+Python example: postgres vs citus
 
 ```python
 import sys

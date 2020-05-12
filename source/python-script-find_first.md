@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python find first
 
-Python mysql example: find first
+Python example: find first
 
 ```python
 import string

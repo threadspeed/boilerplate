@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python wombo-combo ai
 
-Python mysql example: wombo-combo ai
+Python example: wombo-combo ai
 
 ```python
 import random as rnd

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python untriv sort
 
-Python mysql example: untriv sort
+Python example: untriv sort
 
 ```python
 import random

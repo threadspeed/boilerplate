@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python isleAdventure island adventsplit 2
 
-Python mysql example: isleAdventure island adventsplit 2
+Python example: isleAdventure island adventsplit 2
 
 ```python
 import random

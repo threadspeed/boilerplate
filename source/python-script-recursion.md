@@ -12,7 +12,7 @@ Functions in program:
 
 ## python recursion
 
-Python mysql example: recursion
+Python example: recursion
 
 ```python
 ### Рекурсия

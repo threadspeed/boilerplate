@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Number Basic
 
-Python mysql example: Number Basic
+Python example: Number Basic
 
 ```python
 ##########

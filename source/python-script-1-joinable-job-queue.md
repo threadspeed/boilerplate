@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python 1-joinable-job-queue
 
-Python mysql example: 1-joinable-job-queue
+Python example: 1-joinable-job-queue
 
 ```python
 #import Queue

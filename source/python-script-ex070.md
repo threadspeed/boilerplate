@@ -8,7 +8,7 @@ Python script 'ex070'
 
 ## python ex070
 
-Python mysql example: ex070
+Python example: ex070
 
 ```python
 listaNomes=[]

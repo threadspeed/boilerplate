@@ -8,7 +8,7 @@ Python script 'list remove duplicates'
 
 ## python list remove duplicates
 
-Python mysql example: list remove duplicates
+Python example: list remove duplicates
 
 ```python
 a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]

@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex047'
 
 ## python PythonExercicios ex047
 
-Python mysql example: PythonExercicios ex047
+Python example: PythonExercicios ex047
 
 ```python
 print('Os número pares entre 1 e 50 são:')

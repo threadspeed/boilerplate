@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python rf bias
 
-Python mysql example: rf bias
+Python example: rf bias
 
 ```python
 import random

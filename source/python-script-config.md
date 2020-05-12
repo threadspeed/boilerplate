@@ -8,7 +8,7 @@ Python script 'config'
 
 ## python config
 
-Python mysql example: config
+Python example: config
 
 ```python
 consumer_key = 'XXXX'

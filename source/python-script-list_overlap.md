@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python list overlap
 
-Python mysql example: list overlap
+Python example: list overlap
 
 ```python
 import random

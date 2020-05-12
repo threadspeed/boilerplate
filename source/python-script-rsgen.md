@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python rsgen
 
-Python mysql example: rsgen
+Python example: rsgen
 
 ```python
 #!/usr/bin/env python3.2

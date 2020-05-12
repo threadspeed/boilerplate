@@ -8,7 +8,7 @@ Python script 'ex057'
 
 ## python ex057
 
-Python mysql example: ex057
+Python example: ex057
 
 ```python
 sexo=str(input('Digite seu sexo: ')).strip().upper()[0]

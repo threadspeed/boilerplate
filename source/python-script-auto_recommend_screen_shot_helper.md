@@ -36,7 +36,7 @@ Modules used in program:
 
 ## python auto recommend screen shot helper
 
-Python mysql example: auto recommend screen shot helper
+Python example: auto recommend screen shot helper
 
 ```python
 #encoding=utf-8

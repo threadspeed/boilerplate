@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python winnersOverTime
 
-Python mysql example: winnersOverTime
+Python example: winnersOverTime
 
 ```python
 import random

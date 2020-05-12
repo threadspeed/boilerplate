@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python bewertung  builtin   init  
 
-Python mysql example: bewertung  builtin   init  
+Python example: bewertung  builtin   init  
 
 ```python
 # This file is auto-generated. Don't change anything in this file.

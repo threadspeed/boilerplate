@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python Tiezzi 5992531 Es7 test
 
-Python mysql example: Tiezzi 5992531 Es7 test
+Python example: Tiezzi 5992531 Es7 test
 
 ```python
 from Graph import Graph

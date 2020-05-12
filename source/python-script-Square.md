@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Square
 
-Python mysql example: Square
+Python example: Square
 
 ```python
 import turtle

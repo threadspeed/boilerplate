@@ -10,7 +10,7 @@ Functions in program:
 
 ## python reverse word order
 
-Python mysql example: reverse word order
+Python example: reverse word order
 
 ```python
 text = str(raw_input("Enter a sentence: "))

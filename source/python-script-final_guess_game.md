@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python final guess game
 
-Python mysql example: final guess game
+Python example: final guess game
 
 ```python
 import random

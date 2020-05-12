@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python random%2520with%2520logestic%2520map
 
-Python mysql example: random%2520with%2520logestic%2520map
+Python example: random%2520with%2520logestic%2520map
 
 ```python
 import numpy as np

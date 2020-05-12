@@ -22,7 +22,7 @@ Modules used in program:
 
 ## python curses screens
 
-Python mysql example: curses screens
+Python example: curses screens
 
 ```python
 import sys,os

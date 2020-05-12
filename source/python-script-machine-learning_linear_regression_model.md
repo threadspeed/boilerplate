@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python machine-learning linear regression model
 
-Python mysql example: machine-learning linear regression model
+Python example: machine-learning linear regression model
 
 ```python
 from numpy import random as nrandom, zeros

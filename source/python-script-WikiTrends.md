@@ -22,7 +22,7 @@ Modules used in program:
 
 ## python WikiTrends
 
-Python mysql example: WikiTrends
+Python example: WikiTrends
 
 ```python
 

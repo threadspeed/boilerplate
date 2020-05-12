@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python week 005 01 tournament
 
-Python mysql example: week 005 01 tournament
+Python example: week 005 01 tournament
 
 ```python
 import random

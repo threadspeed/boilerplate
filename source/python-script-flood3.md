@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python flood3
 
-Python mysql example: flood3
+Python example: flood3
 
 ```python
 import psutil

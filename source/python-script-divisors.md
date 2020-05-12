@@ -8,7 +8,7 @@ Python script 'divisors'
 
 ## python divisors
 
-Python mysql example: divisors
+Python example: divisors
 
 ```python
 numeric = int(input("Enter a number:"))

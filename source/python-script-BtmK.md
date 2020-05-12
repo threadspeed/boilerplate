@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python BtmK
 
-Python mysql example: BtmK
+Python example: BtmK
 
 ```python
 import heapq

@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python ondemand scheduler
 
-Python mysql example: ondemand scheduler
+Python example: ondemand scheduler
 
 ```python
 from IPython.parallel import Client

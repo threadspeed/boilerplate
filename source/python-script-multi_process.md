@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python multi process
 
-Python mysql example: multi process
+Python example: multi process
 
 ```python
 import random

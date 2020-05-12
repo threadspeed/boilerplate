@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python 07 lock
 
-Python mysql example: 07 lock
+Python example: 07 lock
 
 ```python
 import logging

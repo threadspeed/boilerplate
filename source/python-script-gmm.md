@@ -14,7 +14,7 @@ Functions in program:
 
 ## python gmm
 
-Python mysql example: gmm
+Python example: gmm
 
 ```python
 # -*- coding: utf-8 -*-

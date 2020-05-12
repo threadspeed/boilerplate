@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python Learn TicTackToe
 
-Python mysql example: Learn TicTackToe
+Python example: Learn TicTackToe
 
 ```python
 import random

@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python HNGTech%2520Staff%2520Employee%2520Details
 
-Python mysql example: HNGTech%2520Staff%2520Employee%2520Details
+Python example: HNGTech%2520Staff%2520Employee%2520Details
 
 ```python
 #Python User Data Validation Task

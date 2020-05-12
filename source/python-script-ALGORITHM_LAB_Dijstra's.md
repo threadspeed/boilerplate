@@ -10,7 +10,7 @@ Functions in program:
 
 ## python ALGORITHM LAB Dijstra's
 
-Python mysql example: ALGORITHM LAB Dijstra's
+Python example: ALGORITHM LAB Dijstra's
 
 ```python
 # Dijstra's Algorithm

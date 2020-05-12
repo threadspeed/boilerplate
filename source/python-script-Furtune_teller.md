@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Furtune teller
 
-Python mysql example: Furtune teller
+Python example: Furtune teller
 
 ```python
 # import random from library

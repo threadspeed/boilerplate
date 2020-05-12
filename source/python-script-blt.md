@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python blt
 
-Python mysql example: blt
+Python example: blt
 
 ```python
 """A replacement for plt.show() that watermarks all your plots with QR codes

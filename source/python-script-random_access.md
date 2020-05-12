@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python random access
 
-Python mysql example: random access
+Python example: random access
 
 ```python
 import mmap

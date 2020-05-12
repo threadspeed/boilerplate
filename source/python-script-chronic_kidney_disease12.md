@@ -8,7 +8,7 @@ Python script 'chronic kidney disease12'
 
 ## python chronic kidney disease12
 
-Python mysql example: chronic kidney disease12
+Python example: chronic kidney disease12
 
 ```python
 from sklearn.naive_bayes import GaussianNB

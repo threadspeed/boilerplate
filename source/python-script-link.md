@@ -8,7 +8,7 @@ Python script 'link'
 
 ## python link
 
-Python mysql example: link
+Python example: link
 
 ```python
 {% set URL = 'https://drive.google.com/drive/u/0/notareallink' %}

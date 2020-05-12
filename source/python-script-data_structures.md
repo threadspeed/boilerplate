@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python data structures
 
-Python mysql example: data structures
+Python example: data structures
 
 ```python
 import random

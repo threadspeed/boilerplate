@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python reader2
 
-Python mysql example: reader2
+Python example: reader2
 
 ```python
 # Try re-opening on each thread

@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python stocks
 
-Python mysql example: stocks
+Python example: stocks
 
 ```python
 #Stock prices

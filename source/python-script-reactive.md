@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python reactive
 
-Python mysql example: reactive
+Python example: reactive
 
 ```python
 import colorsys

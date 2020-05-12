@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python random%2520walk1
 
-Python mysql example: random%2520walk1
+Python example: random%2520walk1
 
 ```python
 import numpy as np

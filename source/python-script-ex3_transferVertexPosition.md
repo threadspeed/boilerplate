@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python ex3 transferVertexPosition
 
-Python mysql example: ex3 transferVertexPosition
+Python example: ex3 transferVertexPosition
 
 ```python
 # Exapmpe3

@@ -10,7 +10,7 @@ Functions in program:
 
 ## python pycharm test practice5 if-login-1
 
-Python mysql example: pycharm test practice5 if-login-1
+Python example: pycharm test practice5 if-login-1
 
 ```python
 # def account_login():

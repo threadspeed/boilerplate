@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python hello drumsynth 3
 
-Python mysql example: hello drumsynth 3
+Python example: hello drumsynth 3
 
 ```python
 from rv.api import Project

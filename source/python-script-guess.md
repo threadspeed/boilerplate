@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python guess
 
-Python mysql example: guess
+Python example: guess
 
 ```python
 import random

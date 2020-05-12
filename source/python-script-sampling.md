@@ -8,7 +8,7 @@ Python script 'sampling'
 
 ## python sampling
 
-Python mysql example: sampling
+Python example: sampling
 
 ```python
 ### 采样少数类 ###

@@ -8,7 +8,7 @@ Python script 'PythonTests Desafio004'
 
 ## python PythonTests Desafio004
 
-Python mysql example: PythonTests Desafio004
+Python example: PythonTests Desafio004
 
 ```python
 x=input('Digite algo: ')

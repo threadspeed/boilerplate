@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python football manager player
 
-Python mysql example: football manager player
+Python example: football manager player
 
 ```python
 import random

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python auto recommend img compress helper
 
-Python mysql example: auto recommend img compress helper
+Python example: auto recommend img compress helper
 
 ```python
 #encoding=utf-8

@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python schema3
 
-Python mysql example: schema3
+Python example: schema3
 
 ```python
 import random

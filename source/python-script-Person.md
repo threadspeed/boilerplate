@@ -8,7 +8,7 @@ Python script 'Person'
 
 ## python Person
 
-Python mysql example: Person
+Python example: Person
 
 ```python
 class Person(object):

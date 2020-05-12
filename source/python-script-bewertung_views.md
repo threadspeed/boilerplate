@@ -8,7 +8,7 @@ Python script 'bewertung views'
 
 ## python bewertung views
 
-Python mysql example: bewertung views
+Python example: bewertung views
 
 ```python
 # -*- coding: utf-8 -*-

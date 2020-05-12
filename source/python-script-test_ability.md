@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python test ability
 
-Python mysql example: test ability
+Python example: test ability
 
 ```python
 import build_password

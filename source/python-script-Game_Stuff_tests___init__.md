@@ -8,7 +8,7 @@ Python script 'Game Stuff tests   init  '
 
 ## python Game Stuff tests   init  
 
-Python mysql example: Game Stuff tests   init  
+Python example: Game Stuff tests   init  
 
 ```python
 __author__ = 'Greg'

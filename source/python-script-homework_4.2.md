@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python homework 4.2
 
-Python mysql example: homework 4.2
+Python example: homework 4.2
 
 ```python
 # Homework 4.2: Add unsuccessful guesses into the dictionary

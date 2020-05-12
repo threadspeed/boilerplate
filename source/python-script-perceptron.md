@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python perceptron
 
-Python mysql example: perceptron
+Python example: perceptron
 
 ```python
 import numpy as np

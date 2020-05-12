@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python locust incredible
 
-Python mysql example: locust incredible
+Python example: locust incredible
 
 ```python
 from locust import HttpLocust, TaskSet, between, task

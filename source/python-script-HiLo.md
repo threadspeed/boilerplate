@@ -8,7 +8,7 @@ Python script 'HiLo'
 
 ## python HiLo
 
-Python mysql example: HiLo
+Python example: HiLo
 
 ```python
 again=input("press enter to start or press q to quit ")

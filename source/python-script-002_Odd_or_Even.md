@@ -8,7 +8,7 @@ Python script '002 Odd or Even'
 
 ## python 002 Odd or Even
 
-Python mysql example: 002 Odd or Even
+Python example: 002 Odd or Even
 
 ```python
 # Exercise

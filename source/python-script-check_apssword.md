@@ -10,7 +10,7 @@ Functions in program:
 
 ## python check apssword
 
-Python mysql example: check apssword
+Python example: check apssword
 
 ```python
 from Crypto.Hash import SHA256

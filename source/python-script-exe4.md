@@ -8,7 +8,7 @@ Python script 'exe4'
 
 ## python exe4
 
-Python mysql example: exe4
+Python example: exe4
 
 ```python
 vogais = ['a','e','i','o','u']

@@ -22,7 +22,7 @@ Modules used in program:
 
 ## python dealer-to-router2
 
-Python mysql example: dealer-to-router2
+Python example: dealer-to-router2
 
 ```python
 #!/usr/bin/env python

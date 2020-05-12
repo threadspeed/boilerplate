@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python application
 
-Python mysql example: application
+Python example: application
 
 ```python
 import os

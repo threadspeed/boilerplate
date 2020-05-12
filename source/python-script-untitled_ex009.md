@@ -8,7 +8,7 @@ Python script 'untitled ex009'
 
 ## python untitled ex009
 
-Python mysql example: untitled ex009
+Python example: untitled ex009
 
 ```python
 nome = str (input ("Digite seu nome completo: ")).strip()

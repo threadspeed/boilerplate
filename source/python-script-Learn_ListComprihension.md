@@ -8,7 +8,7 @@ Python script 'Learn ListComprihension'
 
 ## python Learn ListComprihension
 
-Python mysql example: Learn ListComprihension
+Python example: Learn ListComprihension
 
 ```python
 a = ['10', '20', 30]

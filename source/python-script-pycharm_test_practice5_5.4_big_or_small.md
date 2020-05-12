@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python pycharm test practice5 5.4 big or small
 
-Python mysql example: pycharm test practice5 5.4 big or small
+Python example: pycharm test practice5 5.4 big or small
 
 ```python
 #coding=utf-8

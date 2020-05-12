@@ -8,7 +8,7 @@ Python script 'inventory'
 
 ## python inventory
 
-Python mysql example: inventory
+Python example: inventory
 
 ```python
 class Item:

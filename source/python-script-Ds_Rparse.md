@@ -8,7 +8,7 @@ Python script 'Ds Rparse'
 
 ## python Ds Rparse
 
-Python mysql example: Ds Rparse
+Python example: Ds Rparse
 
 ```python
 firstline = True

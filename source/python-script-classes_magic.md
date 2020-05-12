@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python classes magic
 
-Python mysql example: classes magic
+Python example: classes magic
 
 ```python
 import random

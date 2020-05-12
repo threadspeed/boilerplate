@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex024'
 
 ## python PythonExercicios ex024
 
-Python mysql example: PythonExercicios ex024
+Python example: PythonExercicios ex024
 
 ```python
 ''' Forma que eu fiz...

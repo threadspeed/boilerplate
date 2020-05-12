@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python snake game
 
-Python mysql example: snake game
+Python example: snake game
 
 ```python
 

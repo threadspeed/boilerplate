@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python Server Side RPC
 
-Python mysql example: Server Side RPC
+Python example: Server Side RPC
 
 ```python
 # This Program illustrates the Simple Server Side RPC on ThingsBoard IoT Platform

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python merge stats pickles
 
-Python mysql example: merge stats pickles
+Python example: merge stats pickles
 
 ```python
 import pandas as pd

@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python encode
 
-Python mysql example: encode
+Python example: encode
 
 ```python
 # pyCrypto.AES file encoding example based on 

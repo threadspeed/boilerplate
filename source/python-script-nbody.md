@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python nbody
 
-Python mysql example: nbody
+Python example: nbody
 
 ```python
 #!/usr/bin/python

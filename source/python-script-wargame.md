@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python wargame
 
-Python mysql example: wargame
+Python example: wargame
 
 ```python
 #Start of the game 

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python merge
 
-Python mysql example: merge
+Python example: merge
 
 ```python
 import random

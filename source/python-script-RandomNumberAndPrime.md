@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python RandomNumberAndPrime
 
-Python mysql example: RandomNumberAndPrime
+Python example: RandomNumberAndPrime
 
 ```python
 import numpy as np 

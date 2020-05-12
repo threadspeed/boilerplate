@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Demo 6 Loop
 
-Python mysql example: Demo 6 Loop
+Python example: Demo 6 Loop
 
 ```python
 import random

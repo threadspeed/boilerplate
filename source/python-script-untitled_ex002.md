@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python untitled ex002
 
-Python mysql example: untitled ex002
+Python example: untitled ex002
 
 ```python
 import math

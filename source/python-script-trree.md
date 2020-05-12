@@ -23,7 +23,7 @@ Modules used in program:
 
 ## python trree
 
-Python mysql example: trree
+Python example: trree
 
 ```python
 import random

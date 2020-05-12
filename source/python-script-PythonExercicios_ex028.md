@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python PythonExercicios ex028
 
-Python mysql example: PythonExercicios ex028
+Python example: PythonExercicios ex028
 
 ```python
 import random

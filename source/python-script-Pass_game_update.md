@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python Pass game update
 
-Python mysql example: Pass game update
+Python example: Pass game update
 
 ```python
 def change(calculator,magic_number):            

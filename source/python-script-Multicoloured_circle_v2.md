@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python Multicoloured circle v2
 
-Python mysql example: Multicoloured circle v2
+Python example: Multicoloured circle v2
 
 ```python
 from graphics import *

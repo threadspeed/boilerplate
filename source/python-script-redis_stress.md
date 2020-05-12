@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python redis stress
 
-Python mysql example: redis stress
+Python example: redis stress
 
 ```python
 import redis

@@ -8,7 +8,7 @@ Python script 'samllworldgraph'
 
 ## python samllworldgraph
 
-Python mysql example: samllworldgraph
+Python example: samllworldgraph
 
 ```python
 from RandomGraph import RandomGraph,show_graph

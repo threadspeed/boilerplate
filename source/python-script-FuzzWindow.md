@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python FuzzWindow
 
-Python mysql example: FuzzWindow
+Python example: FuzzWindow
 
 ```python
 from PyQt5.QtWidgets import QDialog, QPushButton, QVBoxLayout

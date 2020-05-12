@@ -45,7 +45,7 @@ Modules used in program:
 
 ## python auto recommend recommend helper
 
-Python mysql example: auto recommend recommend helper
+Python example: auto recommend recommend helper
 
 ```python
 #encoding=utf-8

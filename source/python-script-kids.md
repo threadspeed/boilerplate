@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python kids
 
-Python mysql example: kids
+Python example: kids
 
 ```python
 import random

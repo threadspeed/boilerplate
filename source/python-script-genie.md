@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python genie
 
-Python mysql example: genie
+Python example: genie
 
 ```python
 #!/usr/bin/env python

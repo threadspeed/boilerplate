@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python Namespiral
 
-Python mysql example: Namespiral
+Python example: Namespiral
 
 ```python
 import turtle

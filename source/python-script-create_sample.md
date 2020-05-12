@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python create sample
 
-Python mysql example: create sample
+Python example: create sample
 
 ```python
 #!/usr/bin/env python

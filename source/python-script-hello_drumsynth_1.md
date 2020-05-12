@@ -8,7 +8,7 @@ Python script 'hello drumsynth 1'
 
 ## python hello drumsynth 1
 
-Python mysql example: hello drumsynth 1
+Python example: hello drumsynth 1
 
 ```python
 from rv.api import Project

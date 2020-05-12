@@ -10,7 +10,7 @@ Functions in program:
 
 ## python pycharm test practice5 practice54 practice542
 
-Python mysql example: pycharm test practice5 practice54 practice542
+Python example: pycharm test practice5 practice54 practice542
 
 ```python
 #coding = utf-8

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python findmarker
 
-Python mysql example: findmarker
+Python example: findmarker
 
 ```python
 import numpy as np

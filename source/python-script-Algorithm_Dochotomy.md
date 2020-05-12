@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python Algorithm Dochotomy
 
-Python mysql example: Algorithm Dochotomy
+Python example: Algorithm Dochotomy
 
 ```python
 import time, random

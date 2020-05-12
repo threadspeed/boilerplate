@@ -8,7 +8,7 @@ Python script '01%2520Character%2520Input'
 
 ## python 01%2520Character%2520Input
 
-Python mysql example: 01%2520Character%2520Input
+Python example: 01%2520Character%2520Input
 
 ```python
 name = input("Give me your name: ")

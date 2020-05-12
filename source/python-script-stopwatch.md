@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python stopwatch
 
-Python mysql example: stopwatch
+Python example: stopwatch
 
 ```python
 # Mini Project 3 for An Introduction to Interactive Programming in Python

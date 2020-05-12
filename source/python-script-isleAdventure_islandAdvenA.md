@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python isleAdventure islandAdvenA
 
-Python mysql example: isleAdventure islandAdvenA
+Python example: isleAdventure islandAdvenA
 
 ```python
 import time

@@ -21,7 +21,7 @@ Functions in program:
 
 ## python week 007
 
-Python mysql example: week 007
+Python example: week 007
 
 ```python
 # 0

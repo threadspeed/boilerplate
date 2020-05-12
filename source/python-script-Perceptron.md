@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Perceptron
 
-Python mysql example: Perceptron
+Python example: Perceptron
 
 ```python
 #! python3

@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python chronic kidney disease1
 
-Python mysql example: chronic kidney disease1
+Python example: chronic kidney disease1
 
 ```python
 import numpy as np 

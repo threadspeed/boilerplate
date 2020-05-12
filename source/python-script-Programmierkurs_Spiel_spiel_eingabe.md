@@ -8,7 +8,7 @@ Python script 'Programmierkurs Spiel spiel eingabe'
 
 ## python Programmierkurs Spiel spiel eingabe
 
-Python mysql example: Programmierkurs Spiel spiel eingabe
+Python example: Programmierkurs Spiel spiel eingabe
 
 ```python
 # Werte

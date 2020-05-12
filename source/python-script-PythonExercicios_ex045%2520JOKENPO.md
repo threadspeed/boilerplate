@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python PythonExercicios ex045%2520JOKENPO
 
-Python mysql example: PythonExercicios ex045%2520JOKENPO
+Python example: PythonExercicios ex045%2520JOKENPO
 
 ```python
 from time import sleep

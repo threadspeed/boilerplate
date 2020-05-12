@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python Game Stuff utilities voronoi
 
-Python mysql example: Game Stuff utilities voronoi
+Python example: Game Stuff utilities voronoi
 
 ```python
 __author__ = 'Gregorio Manabat III'

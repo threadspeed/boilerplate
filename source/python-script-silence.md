@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python silence
 
-Python mysql example: silence
+Python example: silence
 
 ```python
 import willie

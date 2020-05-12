@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python serve tf
 
-Python mysql example: serve tf
+Python example: serve tf
 
 ```python
 import logging

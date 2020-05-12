@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python seedfunction
 
-Python mysql example: seedfunction
+Python example: seedfunction
 
 ```python
 import random

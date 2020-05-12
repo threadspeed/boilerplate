@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python game04
 
-Python mysql example: game04
+Python example: game04
 
 ```python
 import random

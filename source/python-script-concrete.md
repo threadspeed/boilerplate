@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python concrete
 
-Python mysql example: concrete
+Python example: concrete
 
 ```python
 # coding: utf-8

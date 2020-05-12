@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python quicksort2
 
-Python mysql example: quicksort2
+Python example: quicksort2
 
 ```python
 '''Quicksort. The implementation of the partition function is different than CLRS'''

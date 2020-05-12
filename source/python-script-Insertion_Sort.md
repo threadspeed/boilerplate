@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Insertion Sort
 
-Python mysql example: Insertion Sort
+Python example: Insertion Sort
 
 ```python
 # This is the implementation of insertion sort algorithm as given in the "Introduction To Algorithms" Thomas H. Cormen,

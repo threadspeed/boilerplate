@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Algorithm quick sort
 
-Python mysql example: Algorithm quick sort
+Python example: Algorithm quick sort
 
 ```python
 import random

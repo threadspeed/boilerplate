@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python rs-baseline source utils sampler
 
-Python mysql example: rs-baseline source utils sampler
+Python example: rs-baseline source utils sampler
 
 ```python
 import numpy as np

@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python PythonCode PythonCoding LearningPython myGame
 
-Python mysql example: PythonCode PythonCoding LearningPython myGame
+Python example: PythonCode PythonCoding LearningPython myGame
 
 ```python
 import random

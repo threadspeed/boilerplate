@@ -8,7 +8,7 @@ Python script 'cr8'
 
 ## python cr8
 
-Python mysql example: cr8
+Python example: cr8
 
 ```python
 class Set():

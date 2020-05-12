@@ -8,7 +8,7 @@ Python script 'ex056'
 
 ## python ex056
 
-Python mysql example: ex056
+Python example: ex056
 
 ```python
 nomes = [] # Armazena os nomes das pessoas

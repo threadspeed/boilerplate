@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python fun
 
-Python mysql example: fun
+Python example: fun
 
 ```python
 import random

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Demo 10 FileIO
 
-Python mysql example: Demo 10 FileIO
+Python example: Demo 10 FileIO
 
 ```python
 import random

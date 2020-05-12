@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python coin flipping endswith
 
-Python mysql example: coin flipping endswith
+Python example: coin flipping endswith
 
 ```python
 import random

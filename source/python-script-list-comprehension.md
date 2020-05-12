@@ -8,7 +8,7 @@ Python script 'list-comprehension'
 
 ## python list-comprehension
 
-Python mysql example: list-comprehension
+Python example: list-comprehension
 
 ```python
 # Create a list of list for the cells (LONG WAY):

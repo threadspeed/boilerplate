@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python facebook-dedup
 
-Python mysql example: facebook-dedup
+Python example: facebook-dedup
 
 ```python
 import pandas as pd

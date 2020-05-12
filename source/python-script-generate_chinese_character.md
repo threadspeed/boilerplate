@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python generate chinese character
 
-Python mysql example: generate chinese character
+Python example: generate chinese character
 
 ```python
 import random, string

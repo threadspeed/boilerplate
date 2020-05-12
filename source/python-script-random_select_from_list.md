@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python random select from list
 
-Python mysql example: random select from list
+Python example: random select from list
 
 ```python
 import random

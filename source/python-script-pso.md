@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python pso
 
-Python mysql example: pso
+Python example: pso
 
 ```python
 import random

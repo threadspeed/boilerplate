@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python redis-hash-ring-worker
 
-Python mysql example: redis-hash-ring-worker
+Python example: redis-hash-ring-worker
 
 ```python
 from redis import Redis

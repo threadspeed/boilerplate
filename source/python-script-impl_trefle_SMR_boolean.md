@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python impl trefle SMR boolean
 
-Python mysql example: impl trefle SMR boolean
+Python example: impl trefle SMR boolean
 
 ```python
 import requests

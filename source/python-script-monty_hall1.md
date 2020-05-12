@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python monty hall1
 
-Python mysql example: monty hall1
+Python example: monty hall1
 
 ```python
 import random

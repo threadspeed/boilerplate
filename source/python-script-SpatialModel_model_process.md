@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python SpatialModel model process
 
-Python mysql example: SpatialModel model process
+Python example: SpatialModel model process
 
 ```python
 from mesa import Model

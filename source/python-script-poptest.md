@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python poptest
 
-Python mysql example: poptest
+Python example: poptest
 
 ```python
 import Queue

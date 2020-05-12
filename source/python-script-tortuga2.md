@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python tortuga2
 
-Python mysql example: tortuga2
+Python example: tortuga2
 
 ```python
 # -*- coding: utf-8 -*-

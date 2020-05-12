@@ -8,7 +8,7 @@ Python script 'untitled1 2'
 
 ## python untitled1 2
 
-Python mysql example: untitled1 2
+Python example: untitled1 2
 
 ```python
 word = "Milliways"

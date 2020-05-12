@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python 2 stat
 
-Python mysql example: 2 stat
+Python example: 2 stat
 
 ```python
 #-*- coding:utf-8 -*-

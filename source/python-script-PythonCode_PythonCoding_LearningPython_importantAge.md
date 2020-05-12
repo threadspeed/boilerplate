@@ -8,7 +8,7 @@ Python script 'PythonCode PythonCoding LearningPython importantAge'
 
 ## python PythonCode PythonCoding LearningPython importantAge
 
-Python mysql example: PythonCode PythonCoding LearningPython importantAge
+Python example: PythonCode PythonCoding LearningPython importantAge
 
 ```python
 age = eval(input("What is your age? "))

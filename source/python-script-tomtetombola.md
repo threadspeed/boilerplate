@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python tomtetombola
 
-Python mysql example: tomtetombola
+Python example: tomtetombola
 
 ```python
 import random

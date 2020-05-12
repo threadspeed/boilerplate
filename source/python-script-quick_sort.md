@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python quick sort
 
-Python mysql example: quick sort
+Python example: quick sort
 
 ```python
 import time

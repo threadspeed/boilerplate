@@ -32,7 +32,7 @@ Modules used in program:
 
 ## python auto recommend test
 
-Python mysql example: auto recommend test
+Python example: auto recommend test
 
 ```python
 #encoding=utf-8

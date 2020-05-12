@@ -10,7 +10,7 @@ Functions in program:
 
 ## python pycharm test practice5 practice51
 
-Python mysql example: pycharm test practice5 practice51
+Python example: pycharm test practice5 practice51
 
 ```python
 # i = 0

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python query
 
-Python mysql example: query
+Python example: query
 
 ```python
 #!/usr/bin/env python

@@ -8,7 +8,7 @@ Python script 'RandomForest'
 
 ## python RandomForest
 
-Python mysql example: RandomForest
+Python example: RandomForest
 
 ```python
 # tpot/operators/RandomForest.py

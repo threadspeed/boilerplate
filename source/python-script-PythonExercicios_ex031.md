@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex031'
 
 ## python PythonExercicios ex031
 
-Python mysql example: PythonExercicios ex031
+Python example: PythonExercicios ex031
 
 ```python
 d = float(input('Qual será a distância da sua viagem? '))

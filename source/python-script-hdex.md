@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python hdex
 
-Python mysql example: hdex
+Python example: hdex
 
 ```python
 #hyperdex

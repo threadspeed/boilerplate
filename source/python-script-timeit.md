@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python timeit
 
-Python mysql example: timeit
+Python example: timeit
 
 ```python
 import random

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python threadingList
 
-Python mysql example: threadingList
+Python example: threadingList
 
 ```python
 from threading import Thread

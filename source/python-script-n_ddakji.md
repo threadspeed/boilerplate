@@ -17,7 +17,7 @@ Functions in program:
 
 ## python n ddakji
 
-Python mysql example: n ddakji
+Python example: n ddakji
 
 ```python
 class Ddakji:

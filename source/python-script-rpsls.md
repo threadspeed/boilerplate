@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python rpsls
 
-Python mysql example: rpsls
+Python example: rpsls
 
 ```python
 # Mini Project 1 for An Introduction to Interactive Programming in Python

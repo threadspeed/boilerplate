@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python TSP
 
-Python mysql example: TSP
+Python example: TSP
 
 ```python
 # -*- coding: utf-8 -*-

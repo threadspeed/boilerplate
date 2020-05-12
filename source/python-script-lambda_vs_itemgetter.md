@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python lambda vs itemgetter
 
-Python mysql example: lambda vs itemgetter
+Python example: lambda vs itemgetter
 
 ```python
 import random

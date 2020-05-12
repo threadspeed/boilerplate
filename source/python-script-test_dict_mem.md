@@ -32,7 +32,7 @@ Modules used in program:
 
 ## python test dict mem
 
-Python mysql example: test dict mem
+Python example: test dict mem
 
 ```python
 import sys

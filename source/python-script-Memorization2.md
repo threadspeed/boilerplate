@@ -11,7 +11,7 @@ Functions in program:
 
 ## python Memorization2
 
-Python mysql example: Memorization2
+Python example: Memorization2
 
 ```python
 MEMO = {}

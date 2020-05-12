@@ -38,7 +38,7 @@ Modules used in program:
 
 ## python auto recommend ocr helper
 
-Python mysql example: auto recommend ocr helper
+Python example: auto recommend ocr helper
 
 ```python
 #encoding=utf-8

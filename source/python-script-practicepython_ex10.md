@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python practicepython ex10
 
-Python mysql example: practicepython ex10
+Python example: practicepython ex10
 
 ```python
 #!/usr/bin/python

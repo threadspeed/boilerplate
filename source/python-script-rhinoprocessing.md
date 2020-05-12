@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python rhinoprocessing
 
-Python mysql example: rhinoprocessing
+Python example: rhinoprocessing
 
 ```python
 import scriptcontext

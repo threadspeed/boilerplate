@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python asyncio-producer-consumer-task done
 
-Python mysql example: asyncio-producer-consumer-task done
+Python example: asyncio-producer-consumer-task done
 
 ```python
 # Original source from http://asyncio.readthedocs.io/en/latest/producer_consumer.html

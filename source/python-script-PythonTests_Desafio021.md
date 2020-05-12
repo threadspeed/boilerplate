@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python PythonTests Desafio021
 
-Python mysql example: PythonTests Desafio021
+Python example: PythonTests Desafio021
 
 ```python
 import pygame

@@ -8,7 +8,7 @@ Python script 'constants'
 
 ## python constants
 
-Python mysql example: constants
+Python example: constants
 
 ```python
 STARTING_MONEY = 100

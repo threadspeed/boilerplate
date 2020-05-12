@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python pairserver
 
-Python mysql example: pairserver
+Python example: pairserver
 
 ```python
 import os

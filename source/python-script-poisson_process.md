@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python poisson process
 
-Python mysql example: poisson process
+Python example: poisson process
 
 ```python
 import math as m

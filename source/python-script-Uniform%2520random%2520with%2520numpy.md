@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Uniform%2520random%2520with%2520numpy
 
-Python mysql example: Uniform%2520random%2520with%2520numpy
+Python example: Uniform%2520random%2520with%2520numpy
 
 ```python
 #   Amirkabir Univesity of Technology

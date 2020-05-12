@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python ZombieMarch v2
 
-Python mysql example: ZombieMarch v2
+Python example: ZombieMarch v2
 
 ```python
 #!/usr/bin/python

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Warships
 
-Python mysql example: Warships
+Python example: Warships
 
 ```python
 import random

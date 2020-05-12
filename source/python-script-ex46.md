@@ -8,7 +8,7 @@ Python script 'ex46'
 
 ## python ex46
 
-Python mysql example: ex46
+Python example: ex46
 
 ```python
 from time import sleep

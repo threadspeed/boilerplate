@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python stratify
 
-Python mysql example: stratify
+Python example: stratify
 
 ```python
 #!/usr/local/bin/python3.3 -tt

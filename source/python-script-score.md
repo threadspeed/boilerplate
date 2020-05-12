@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python score
 
-Python mysql example: score
+Python example: score
 
 ```python
 #!/usr/local/bin/python3.3 -tt

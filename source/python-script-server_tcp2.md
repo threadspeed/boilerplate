@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python server tcp2
 
-Python mysql example: server tcp2
+Python example: server tcp2
 
 ```python
 import socketserver

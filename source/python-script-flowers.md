@@ -24,7 +24,7 @@ Modules used in program:
 
 ## python flowers
 
-Python mysql example: flowers
+Python example: flowers
 
 ```python
 import turtle

@@ -17,7 +17,7 @@ Functions in program:
 
 ## python secret no
 
-Python mysql example: secret no
+Python example: secret no
 
 ```python
 from random import random

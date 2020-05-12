@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python hbase schema
 
-Python mysql example: hbase schema
+Python example: hbase schema
 
 ```python
 # Bonus: my very poor hbase test

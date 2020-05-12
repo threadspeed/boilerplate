@@ -10,7 +10,7 @@ Functions in program:
 
 ## python week 005 02 prognoz
 
-Python mysql example: week 005 02 prognoz
+Python example: week 005 02 prognoz
 
 ```python
 def prognoz():

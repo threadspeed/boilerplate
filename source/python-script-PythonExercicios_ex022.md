@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex022'
 
 ## python PythonExercicios ex022
 
-Python mysql example: PythonExercicios ex022
+Python example: PythonExercicios ex022
 
 ```python
 nome = str(input('Digite seu nome completo: ')).strip()

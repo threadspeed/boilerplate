@@ -8,7 +8,7 @@ Python script 'see save'
 
 ## python see save
 
-Python mysql example: see save
+Python example: see save
 
 ```python
 {% set URL = 'https://drive.google.com/drive/u/0/notareallink' %}

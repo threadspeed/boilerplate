@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python shop-batch
 
-Python mysql example: shop-batch
+Python example: shop-batch
 
 ```python
 import requests

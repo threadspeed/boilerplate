@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python Generate-Text
 
-Python mysql example: Generate-Text
+Python example: Generate-Text
 
 ```python
 import re

@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python mysmote
 
-Python mysql example: mysmote
+Python example: mysmote
 
 ```python
 """

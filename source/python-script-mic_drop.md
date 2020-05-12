@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python mic drop
 
-Python mysql example: mic drop
+Python example: mic drop
 
 ```python
 import willie

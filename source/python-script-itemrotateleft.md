@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python itemrotateleft
 
-Python mysql example: itemrotateleft
+Python example: itemrotateleft
 
 ```python
 # All command scripts have a context that contains a reference to

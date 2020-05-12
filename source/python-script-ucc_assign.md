@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python ucc assign
 
-Python mysql example: ucc assign
+Python example: ucc assign
 
 ```python
 import random

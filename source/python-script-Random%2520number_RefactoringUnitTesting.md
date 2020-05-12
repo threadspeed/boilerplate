@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python Random%2520number RefactoringUnitTesting
 
-Python mysql example: Random%2520number RefactoringUnitTesting
+Python example: Random%2520number RefactoringUnitTesting
 
 ```python
 #_*_Coding:utf-8_*_

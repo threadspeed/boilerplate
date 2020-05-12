@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python dragonMod
 
-Python mysql example: dragonMod
+Python example: dragonMod
 
 ```python
 #dragonMod.py - test dragon module

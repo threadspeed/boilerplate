@@ -10,7 +10,7 @@ Functions in program:
 
 ## python bfs
 
-Python mysql example: bfs
+Python example: bfs
 
 ```python
 a=int(input('Enter the nodes'))

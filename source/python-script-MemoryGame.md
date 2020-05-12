@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python MemoryGame
 
-Python mysql example: MemoryGame
+Python example: MemoryGame
 
 ```python
 import random

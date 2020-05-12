@@ -8,7 +8,7 @@ Python script 'untitled ex041'
 
 ## python untitled ex041
 
-Python mysql example: untitled ex041
+Python example: untitled ex041
 
 ```python
 print("10 TERMOS DE UMA P.A")

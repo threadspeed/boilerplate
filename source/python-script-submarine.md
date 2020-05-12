@@ -13,7 +13,7 @@ Functions in program:
 
 ## python submarine
 
-Python mysql example: submarine
+Python example: submarine
 
 ```python
 #!/usr/bin/python

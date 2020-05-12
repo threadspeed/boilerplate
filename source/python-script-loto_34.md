@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python loto 34
 
-Python mysql example: loto 34
+Python example: loto 34
 
 ```python
 #version pour python <= 3.4

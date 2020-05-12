@@ -11,7 +11,7 @@ Functions in program:
 
 ## python guessing game epic
 
-Python mysql example: guessing game epic
+Python example: guessing game epic
 
 ```python
 def get_valid_number():

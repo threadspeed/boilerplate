@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python insertionsort
 
-Python mysql example: insertionsort
+Python example: insertionsort
 
 ```python
 """

@@ -8,7 +8,7 @@ Python script 'Hometask4 4'
 
 ## python Hometask4 4
 
-Python mysql example: Hometask4 4
+Python example: Hometask4 4
 
 ```python
 '''

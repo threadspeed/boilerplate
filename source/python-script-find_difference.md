@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python find difference
 
-Python mysql example: find difference
+Python example: find difference
 
 ```python
 import random

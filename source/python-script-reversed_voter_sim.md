@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python reversed voter sim
 
-Python mysql example: reversed voter sim
+Python example: reversed voter sim
 
 ```python
 import matplotlib

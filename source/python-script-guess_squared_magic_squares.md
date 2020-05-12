@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python guess squared magic squares
 
-Python mysql example: guess squared magic squares
+Python example: guess squared magic squares
 
 ```python
 import random

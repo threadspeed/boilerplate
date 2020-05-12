@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python 9 guessing game one
 
-Python mysql example: 9 guessing game one
+Python example: 9 guessing game one
 
 ```python
 # Generate a random number between 1 and 9 (including 1 and 9). Ask the user to guess the number, then tell them whether they guessed too low, too high, or exactly right.

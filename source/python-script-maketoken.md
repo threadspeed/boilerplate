@@ -12,7 +12,7 @@ Functions in program:
 
 ## python maketoken
 
-Python mysql example: maketoken
+Python example: maketoken
 
 ```python
 #!/usr/bin/env python

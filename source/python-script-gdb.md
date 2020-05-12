@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python gdb
 
-Python mysql example: gdb
+Python example: gdb
 
 ```python
 import socket,select

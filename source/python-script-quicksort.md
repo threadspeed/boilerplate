@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python quicksort
 
-Python mysql example: quicksort
+Python example: quicksort
 
 ```python
 '''Quicksort implementation according to CLRS'''

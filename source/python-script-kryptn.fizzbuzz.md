@@ -10,7 +10,7 @@ Functions in program:
 
 ## python kryptn.fizzbuzz
 
-Python mysql example: kryptn.fizzbuzz
+Python example: kryptn.fizzbuzz
 
 ```python
 def fizzbuzz():

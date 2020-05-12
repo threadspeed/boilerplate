@@ -8,7 +8,7 @@ Python script 'c135'
 
 ## python c135
 
-Python mysql example: c135
+Python example: c135
 
 ```python
 '''a, b = map(int, input().split()); p = __builtins__.print

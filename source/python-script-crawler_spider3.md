@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python crawler spider3
 
-Python mysql example: crawler spider3
+Python example: crawler spider3
 
 ```python
 #!/usr/bin/env python

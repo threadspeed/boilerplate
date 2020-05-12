@@ -8,7 +8,7 @@ Python script 'rpg enemies'
 
 ## python rpg enemies
 
-Python mysql example: rpg enemies
+Python example: rpg enemies
 
 ```python
 #!/usr/bin/env python3

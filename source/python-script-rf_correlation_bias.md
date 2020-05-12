@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python rf correlation bias
 
-Python mysql example: rf correlation bias
+Python example: rf correlation bias
 
 ```python
 import random

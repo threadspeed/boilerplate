@@ -10,7 +10,7 @@ Functions in program:
 
 ## python ex003
 
-Python mysql example: ex003
+Python example: ex003
 
 ```python
 n1 = int(input('Digite um numero : '))

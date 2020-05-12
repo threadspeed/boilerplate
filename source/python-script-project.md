@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python project
 
-Python mysql example: project
+Python example: project
 
 ```python
 # shift-f10 to run tests

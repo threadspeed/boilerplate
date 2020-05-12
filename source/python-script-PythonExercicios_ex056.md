@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex056'
 
 ## python PythonExercicios ex056
 
-Python mysql example: PythonExercicios ex056
+Python example: PythonExercicios ex056
 
 ```python
 somaIdade = 0

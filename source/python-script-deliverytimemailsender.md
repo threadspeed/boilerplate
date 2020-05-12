@@ -22,7 +22,7 @@ Modules used in program:
 
 ## python deliverytimemailsender
 
-Python mysql example: deliverytimemailsender
+Python example: deliverytimemailsender
 
 ```python
 import optparse

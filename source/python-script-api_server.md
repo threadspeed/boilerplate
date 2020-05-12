@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python api server
 
-Python mysql example: api server
+Python example: api server
 
 ```python
 ##########################################################################################

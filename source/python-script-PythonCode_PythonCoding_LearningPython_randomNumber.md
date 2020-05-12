@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python PythonCode PythonCoding LearningPython randomNumber
 
-Python mysql example: PythonCode PythonCoding LearningPython randomNumber
+Python example: PythonCode PythonCoding LearningPython randomNumber
 
 ```python
 import random

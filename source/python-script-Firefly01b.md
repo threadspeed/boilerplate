@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python Firefly01b
 
-Python mysql example: Firefly01b
+Python example: Firefly01b
 
 ```python
 ####### PROJECT : FIREFLIES SYNCHRONIZATION 

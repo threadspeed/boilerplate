@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python clnt
 
-Python mysql example: clnt
+Python example: clnt
 
 ```python
 #!/usr/bin/python

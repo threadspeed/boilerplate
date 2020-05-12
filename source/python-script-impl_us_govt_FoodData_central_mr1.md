@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python impl us govt FoodData central mr1
 
-Python mysql example: impl us govt FoodData central mr1
+Python example: impl us govt FoodData central mr1
 
 ```python
 # MR1: equality relations based on sortField, sortDirection

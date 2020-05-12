@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python randomfunc2
 
-Python mysql example: randomfunc2
+Python example: randomfunc2
 
 ```python
 import random

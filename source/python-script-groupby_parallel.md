@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python groupby parallel
 
-Python mysql example: groupby parallel
+Python example: groupby parallel
 
 ```python
 #Simple example with joblib

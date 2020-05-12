@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python PythonTests Desafio019
 
-Python mysql example: PythonTests Desafio019
+Python example: PythonTests Desafio019
 
 ```python
 import random

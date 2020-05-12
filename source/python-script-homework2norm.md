@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python homework2norm
 
-Python mysql example: homework2norm
+Python example: homework2norm
 
 ```python
 import random

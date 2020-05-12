@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python gui
 
-Python mysql example: gui
+Python example: gui
 
 ```python
 #!/usr/bin/python

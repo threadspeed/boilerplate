@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python runner
 
-Python mysql example: runner
+Python example: runner
 
 ```python
 # coding: utf-8

@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python animation
 
-Python mysql example: animation
+Python example: animation
 
 ```python
 # coding:utf-8

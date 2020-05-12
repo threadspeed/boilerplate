@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python prng example
 
-Python mysql example: prng example
+Python example: prng example
 
 ```python
 #!pip install Pycryptodome

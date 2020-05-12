@@ -8,7 +8,7 @@ Python script 'ex26'
 
 ## python ex26
 
-Python mysql example: ex26
+Python example: ex26
 
 ```python
 frase = str(input('Digite uma Frase:').strip())

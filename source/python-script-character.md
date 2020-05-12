@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python character
 
-Python mysql example: character
+Python example: character
 
 ```python
 import random

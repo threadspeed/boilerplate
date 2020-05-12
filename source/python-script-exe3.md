@@ -8,7 +8,7 @@ Python script 'exe3'
 
 ## python exe3
 
-Python mysql example: exe3
+Python example: exe3
 
 ```python
 notas = []

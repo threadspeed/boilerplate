@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python character input
 
-Python mysql example: character input
+Python example: character input
 
 ```python
 import datetime as dt

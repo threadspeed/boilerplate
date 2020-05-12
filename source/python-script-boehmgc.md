@@ -21,7 +21,7 @@ Functions in program:
 
 ## python boehmgc
 
-Python mysql example: boehmgc
+Python example: boehmgc
 
 ```python
 from ctypes import c_size_t, c_void_p, c_int, CDLL, byref

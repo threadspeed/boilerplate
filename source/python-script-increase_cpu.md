@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python increase cpu
 
-Python mysql example: increase cpu
+Python example: increase cpu
 
 ```python
 #!/usr/bin/env python3

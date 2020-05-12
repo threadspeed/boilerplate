@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python TrainTestDataGenForPRNG Factoring9-8
 
-Python mysql example: TrainTestDataGenForPRNG Factoring9-8
+Python example: TrainTestDataGenForPRNG Factoring9-8
 
 ```python
 #!pip install Pycryptodome

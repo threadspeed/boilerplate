@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python redis-publisher
 
-Python mysql example: redis-publisher
+Python example: redis-publisher
 
 ```python
 from redis import Redis

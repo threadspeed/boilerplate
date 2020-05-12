@@ -8,7 +8,7 @@ Python script 'PythonTests Desafio008'
 
 ## python PythonTests Desafio008
 
-Python mysql example: PythonTests Desafio008
+Python example: PythonTests Desafio008
 
 ```python
 m=int(input('Digite a quantidade em metros: '))

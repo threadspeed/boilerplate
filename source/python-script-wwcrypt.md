@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python wwcrypt
 
-Python mysql example: wwcrypt
+Python example: wwcrypt
 
 ```python
 #!/usr/bin/env python

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python ugani glavno mesto zanka
 
-Python mysql example: ugani glavno mesto zanka
+Python example: ugani glavno mesto zanka
 
 ```python
 # -*- coding: utf-8 -*-

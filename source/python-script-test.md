@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python test
 
-Python mysql example: test
+Python example: test
 
 ```python
 import gym

@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python bk tree
 
-Python mysql example: bk tree
+Python example: bk tree
 
 ```python
 #!/usr/bin/env python

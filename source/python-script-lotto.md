@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python lotto
 
-Python mysql example: lotto
+Python example: lotto
 
 ```python
 import random

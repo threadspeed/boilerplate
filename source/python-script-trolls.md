@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python trolls
 
-Python mysql example: trolls
+Python example: trolls
 
 ```python
 import os

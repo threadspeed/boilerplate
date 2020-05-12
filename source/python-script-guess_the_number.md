@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python guess the number
 
-Python mysql example: guess the number
+Python example: guess the number
 
 ```python
 import random

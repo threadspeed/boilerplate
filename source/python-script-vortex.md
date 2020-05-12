@@ -10,7 +10,7 @@ Functions in program:
 
 ## python vortex
 
-Python mysql example: vortex
+Python example: vortex
 
 ```python
 def vortex_sort(arr):

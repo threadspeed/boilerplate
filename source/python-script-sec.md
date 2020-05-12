@@ -10,7 +10,7 @@ Functions in program:
 
 ## python sec
 
-Python mysql example: sec
+Python example: sec
 
 ```python
 def median(thelist):

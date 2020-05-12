@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python more
 
-Python mysql example: more
+Python example: more
 
 ```python
 import random

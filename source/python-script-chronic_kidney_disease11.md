@@ -8,7 +8,7 @@ Python script 'chronic kidney disease11'
 
 ## python chronic kidney disease11
 
-Python mysql example: chronic kidney disease11
+Python example: chronic kidney disease11
 
 ```python
 X_train, X_test, y_train, y_test = train_test_split(features, 

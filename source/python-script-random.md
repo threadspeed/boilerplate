@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python random
 
-Python mysql example: random
+Python example: random
 
 ```python
 import random

@@ -28,7 +28,7 @@ Modules used in program:
 
 ## python GPR
 
-Python mysql example: GPR
+Python example: GPR
 
 ```python
 import random

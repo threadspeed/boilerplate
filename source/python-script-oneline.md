@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python oneline
 
-Python mysql example: oneline
+Python example: oneline
 
 ```python
 import random

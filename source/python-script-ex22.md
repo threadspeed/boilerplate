@@ -8,7 +8,7 @@ Python script 'ex22'
 
 ## python ex22
 
-Python mysql example: ex22
+Python example: ex22
 
 ```python
 nome = """<p>&nbsp;</p>

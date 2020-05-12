@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python imbalancedrandomforests
 
-Python mysql example: imbalancedrandomforests
+Python example: imbalancedrandomforests
 
 ```python
 from collections import Counter

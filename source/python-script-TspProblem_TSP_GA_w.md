@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python TspProblem TSP GA w
 
-Python mysql example: TspProblem TSP GA w
+Python example: TspProblem TSP GA w
 
 ```python
 # -*- encoding: utf-8 -*-

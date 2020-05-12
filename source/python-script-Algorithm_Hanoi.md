@@ -10,7 +10,7 @@ Functions in program:
 
 ## python Algorithm Hanoi
 
-Python mysql example: Algorithm Hanoi
+Python example: Algorithm Hanoi
 
 ```python
 def Hanoi_Recursion(n,A,B,C):

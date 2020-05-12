@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python fuzzer2
 
-Python mysql example: fuzzer2
+Python example: fuzzer2
 
 ```python
 import random,gdb

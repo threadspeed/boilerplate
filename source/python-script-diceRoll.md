@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python diceRoll
 
-Python mysql example: diceRoll
+Python example: diceRoll
 
 ```python
 import random

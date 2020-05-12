@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python misc chat
 
-Python mysql example: misc chat
+Python example: misc chat
 
 ```python
 bot_template = "BOT : {0}"

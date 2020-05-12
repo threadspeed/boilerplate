@@ -12,7 +12,7 @@ Functions in program:
 
 ## python pycharm test practice4 practice 4.4 filter
 
-Python mysql example: pycharm test practice4 practice 4.4 filter
+Python example: pycharm test practice4 practice 4.4 filter
 
 ```python
 # file = open('E:/MyCodes/python/tmp/test0526.txt','w')

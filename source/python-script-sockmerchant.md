@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python sockmerchant
 
-Python mysql example: sockmerchant
+Python example: sockmerchant
 
 ```python
 #!/bin/python3

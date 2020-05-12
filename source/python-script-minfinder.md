@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python minfinder
 
-Python mysql example: minfinder
+Python example: minfinder
 
 ```python
 #minfinder

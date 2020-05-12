@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python maze
 
-Python mysql example: maze
+Python example: maze
 
 ```python
 """maze.py

@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python MCMC2 Faculty
 
-Python mysql example: MCMC2 Faculty
+Python example: MCMC2 Faculty
 
 ```python
 import numpy as np

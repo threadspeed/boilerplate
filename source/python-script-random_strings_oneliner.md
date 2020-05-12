@@ -8,7 +8,7 @@ Python script 'random strings oneliner'
 
 ## python random strings oneliner
 
-Python mysql example: random strings oneliner
+Python example: random strings oneliner
 
 ```python
 s='Supercalifragilisticexpialidocious';[print(''.join(__import__('random').sample(s,len(s)))) for _ in s]

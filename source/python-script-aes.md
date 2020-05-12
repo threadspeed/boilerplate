@@ -23,7 +23,7 @@ Modules used in program:
 
 ## python aes
 
-Python mysql example: aes
+Python example: aes
 
 ```python
 #!/usr/bin/env python

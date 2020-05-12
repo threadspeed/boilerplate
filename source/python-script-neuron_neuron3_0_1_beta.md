@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python neuron neuron3 0 1 beta
 
-Python mysql example: neuron neuron3 0 1 beta
+Python example: neuron neuron3 0 1 beta
 
 ```python
 import random

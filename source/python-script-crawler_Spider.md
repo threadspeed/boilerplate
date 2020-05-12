@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python crawler Spider
 
-Python mysql example: crawler Spider
+Python example: crawler Spider
 
 ```python
 

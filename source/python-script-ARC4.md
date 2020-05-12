@@ -8,7 +8,7 @@ Python script 'ARC4'
 
 ## python ARC4
 
-Python mysql example: ARC4
+Python example: ARC4
 
 ```python
 from Crypto.Cipher import ARC4

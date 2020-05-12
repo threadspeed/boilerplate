@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python imports
 
-Python mysql example: imports
+Python example: imports
 
 ```python
 from numpy import exp, array, dot

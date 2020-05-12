@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python GiftExchangePairGenerator
 
-Python mysql example: GiftExchangePairGenerator
+Python example: GiftExchangePairGenerator
 
 ```python
 # -*- coding: utf-8 -*-

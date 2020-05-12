@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python redis choc supply
 
-Python mysql example: redis choc supply
+Python example: redis choc supply
 
 ```python
 import redis

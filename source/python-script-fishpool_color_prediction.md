@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python fishpool color prediction
 
-Python mysql example: fishpool color prediction
+Python example: fishpool color prediction
 
 ```python
 from sklearn.ensemble import RandomForestClassifier

@@ -8,7 +8,7 @@ Python script 'YourName'
 
 ## python YourName
 
-Python mysql example: YourName
+Python example: YourName
 
 ```python
 #YourName.py

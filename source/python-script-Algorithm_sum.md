@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python Algorithm sum
 
-Python mysql example: Algorithm sum
+Python example: Algorithm sum
 
 ```python
 import time

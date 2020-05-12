@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex051'
 
 ## python PythonExercicios ex051
 
-Python mysql example: PythonExercicios ex051
+Python example: PythonExercicios ex051
 
 ```python
 primeiro = int(input('Primeiro termo: '))

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python ragu
 
-Python mysql example: ragu
+Python example: ragu
 
 ```python
 from faker import Faker

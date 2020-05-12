@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python guessing game
 
-Python mysql example: guessing game
+Python example: guessing game
 
 ```python
 #pick a random number between 1 and 100 and repeatedly ask you for guesses.

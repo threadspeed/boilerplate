@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python EnkelList
 
-Python mysql example: EnkelList
+Python example: EnkelList
 
 ```python
 import random

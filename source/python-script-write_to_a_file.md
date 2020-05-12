@@ -8,7 +8,7 @@ Python script 'write to a file'
 
 ## python write to a file
 
-Python mysql example: write to a file
+Python example: write to a file
 
 ```python
 from sys import argv

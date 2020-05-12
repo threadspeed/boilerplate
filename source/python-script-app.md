@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python app
 
-Python mysql example: app
+Python example: app
 
 ```python
 #without JS

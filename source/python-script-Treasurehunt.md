@@ -13,7 +13,7 @@ Functions in program:
 
 ## python Treasurehunt
 
-Python mysql example: Treasurehunt
+Python example: Treasurehunt
 
 ```python
 #Dylan Waters

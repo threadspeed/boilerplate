@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python ALGORITHM LAB merge sort
 
-Python mysql example: ALGORITHM LAB merge sort
+Python example: ALGORITHM LAB merge sort
 
 ```python
 # Merger Sort

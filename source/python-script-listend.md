@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python listend
 
-Python mysql example: listend
+Python example: listend
 
 ```python
 import random

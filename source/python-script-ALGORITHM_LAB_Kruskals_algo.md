@@ -10,7 +10,7 @@ Functions in program:
 
 ## python ALGORITHM LAB Kruskals algo
 
-Python mysql example: ALGORITHM LAB Kruskals algo
+Python example: ALGORITHM LAB Kruskals algo
 
 ```python
 # Kruskals Algorithm

@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python qlearning egreedy
 
-Python mysql example: qlearning egreedy
+Python example: qlearning egreedy
 
 ```python
 import gym

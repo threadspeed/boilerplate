@@ -23,7 +23,7 @@ Modules used in program:
 
 ## python ichingtest
 
-Python mysql example: ichingtest
+Python example: ichingtest
 
 ```python
 from Crypto.Hash import SHA256

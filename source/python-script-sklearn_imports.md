@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python sklearn imports
 
-Python mysql example: sklearn imports
+Python example: sklearn imports
 
 ```python
 """

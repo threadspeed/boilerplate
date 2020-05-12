@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python sherlock and anagrams
 
-Python mysql example: sherlock and anagrams
+Python example: sherlock and anagrams
 
 ```python
 #

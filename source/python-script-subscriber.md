@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python subscriber
 
-Python mysql example: subscriber
+Python example: subscriber
 
 ```python
 import requests

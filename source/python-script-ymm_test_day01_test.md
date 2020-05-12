@@ -8,7 +8,7 @@ Python script 'ymm test day01 test'
 
 ## python ymm test day01 test
 
-Python mysql example: ymm test day01 test
+Python example: ymm test day01 test
 
 ```python
 # -*- coding:UTF-8 -*-

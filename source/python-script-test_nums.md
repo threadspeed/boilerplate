@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python test nums
 
-Python mysql example: test nums
+Python example: test nums
 
 ```python
 # code to test my number mapping

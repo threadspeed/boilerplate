@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex060'
 
 ## python PythonExercicios ex060
 
-Python mysql example: PythonExercicios ex060
+Python example: PythonExercicios ex060
 
 ```python
 n = int(input('Digite um número para calcular o seu fatorial: '))

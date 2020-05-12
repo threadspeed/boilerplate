@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python PythonExercicios ex058
 
-Python mysql example: PythonExercicios ex058
+Python example: PythonExercicios ex058
 
 ```python
 import random

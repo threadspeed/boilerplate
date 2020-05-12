@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python puzzlegen2
 
-Python mysql example: puzzlegen2
+Python example: puzzlegen2
 
 ```python
 #!/usr/bin/env python

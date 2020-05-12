@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python simon
 
-Python mysql example: simon
+Python example: simon
 
 ```python
 import RPi.GPIO as GPIO # importeer de GPIO bibliotheek.

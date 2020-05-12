@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python 247combo
 
-Python mysql example: 247combo
+Python example: 247combo
 
 ```python
 import random

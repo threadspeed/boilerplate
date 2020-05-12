@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python happiness
 
-Python mysql example: happiness
+Python example: happiness
 
 ```python
 #!/usr/bin/env python

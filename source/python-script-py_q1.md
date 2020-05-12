@@ -21,7 +21,7 @@ Modules used in program:
 
 ## python py q1
 
-Python mysql example: py q1
+Python example: py q1
 
 ```python
 # Balaji Venkataraman's collections (xbalaji@gmail.com)

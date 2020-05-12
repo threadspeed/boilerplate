@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python 13 use queue
 
-Python mysql example: 13 use queue
+Python example: 13 use queue
 
 ```python
 # -*- coding:utf-8 -*-

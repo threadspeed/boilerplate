@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python work on not parallel
 
-Python mysql example: work on not parallel
+Python example: work on not parallel
 
 ```python
 # -*- coding: utf-8 -*-

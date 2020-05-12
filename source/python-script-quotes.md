@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python quotes
 
-Python mysql example: quotes
+Python example: quotes
 
 ```python
 import json

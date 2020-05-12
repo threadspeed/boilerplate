@@ -20,7 +20,7 @@ Modules used in program:
 
 ## python Game Stuff tests wrapping test
 
-Python mysql example: Game Stuff tests wrapping test
+Python example: Game Stuff tests wrapping test
 
 ```python
 __author__ = 'Greg'

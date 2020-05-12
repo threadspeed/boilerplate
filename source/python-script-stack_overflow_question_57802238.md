@@ -17,7 +17,7 @@ Modules used in program:
 
 ## python stack overflow question 57802238
 
-Python mysql example: stack overflow question 57802238
+Python example: stack overflow question 57802238
 
 ```python
 import pandas as pd

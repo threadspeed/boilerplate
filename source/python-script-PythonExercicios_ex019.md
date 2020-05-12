@@ -8,7 +8,7 @@ Python script 'PythonExercicios ex019'
 
 ## python PythonExercicios ex019
 
-Python mysql example: PythonExercicios ex019
+Python example: PythonExercicios ex019
 
 ```python
 '''import random

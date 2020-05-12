@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python sample import
 
-Python mysql example: sample import
+Python example: sample import
 
 ```python
 # -*- coding: utf-8 -*-

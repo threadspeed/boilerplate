@@ -8,7 +8,7 @@ Python script 'lesson 1 test cache README'
 
 ## python lesson 1 test cache README
 
-Python mysql example: lesson 1 test cache README
+Python example: lesson 1 test cache README
 
 ```python
 # pytest cache directory #

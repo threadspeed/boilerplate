@@ -19,7 +19,7 @@ Modules used in program:
 
 ## python tic tac toe
 
-Python mysql example: tic tac toe
+Python example: tic tac toe
 
 ```python
 import numpy as np

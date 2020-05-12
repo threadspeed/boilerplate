@@ -14,7 +14,7 @@ Modules used in program:
 
 ## python executor test 2
 
-Python mysql example: executor test 2
+Python example: executor test 2
 
 ```python
 """

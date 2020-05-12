@@ -12,7 +12,7 @@ Modules used in program:
 
 ## python ymm test os test
 
-Python mysql example: ymm test os test
+Python example: ymm test os test
 
 ```python
 #-*- coding:UTF-8 -*-

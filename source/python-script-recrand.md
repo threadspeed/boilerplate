@@ -13,7 +13,7 @@ Modules used in program:
 
 ## python recrand
 
-Python mysql example: recrand
+Python example: recrand
 
 ```python
 import random

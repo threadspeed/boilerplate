@@ -28,7 +28,7 @@ Modules used in program:
 
 ## python corpusupdater
 
-Python mysql example: corpusupdater
+Python example: corpusupdater
 
 ```python
 # -*- coding: utf-8 -*-

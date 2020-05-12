@@ -8,7 +8,7 @@ Python script 'bubble expand'
 
 ## python bubble expand
 
-Python mysql example: bubble expand
+Python example: bubble expand
 
 ```python
 from base_bubble_tools import Node

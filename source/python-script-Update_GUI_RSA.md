@@ -25,7 +25,7 @@ Modules used in program:
 
 ## python Update GUI RSA
 
-Python mysql example: Update GUI RSA
+Python example: Update GUI RSA
 
 ```python
 # -*- coding: utf-8 -*-

@@ -8,7 +8,7 @@ Python script 'PythonCode PythonCoding LearningPython betterCalculator'
 
 ## python PythonCode PythonCoding LearningPython betterCalculator
 
-Python mysql example: PythonCode PythonCoding LearningPython betterCalculator
+Python example: PythonCode PythonCoding LearningPython betterCalculator
 
 ```python
 num1, operator, num2 = input("Enter calculation: ").split()

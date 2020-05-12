@@ -13,7 +13,7 @@ Functions in program:
 
 ## python linear time sort
 
-Python mysql example: linear time sort
+Python example: linear time sort
 
 ```python
 def radix_sort(arr):

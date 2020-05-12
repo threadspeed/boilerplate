@@ -8,7 +8,7 @@ Python script 'machine-learning   main  '
 
 ## python machine-learning   main  
 
-Python mysql example: machine-learning   main  
+Python example: machine-learning   main  
 
 ```python
 from optparse import OptionParser

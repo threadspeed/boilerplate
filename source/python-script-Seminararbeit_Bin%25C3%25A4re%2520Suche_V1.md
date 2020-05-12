@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python Seminararbeit Bin%25C3%25A4re%2520Suche V1
 
-Python mysql example: Seminararbeit Bin%25C3%25A4re%2520Suche V1
+Python example: Seminararbeit Bin%25C3%25A4re%2520Suche V1
 
 ```python
 from random import *

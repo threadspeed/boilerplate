@@ -11,7 +11,7 @@ Modules used in program:
 
 ## python TaskM
 
-Python mysql example: TaskM
+Python example: TaskM
 
 ```python
 import random

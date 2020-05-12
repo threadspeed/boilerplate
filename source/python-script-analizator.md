@@ -18,7 +18,7 @@ Modules used in program:
 
 ## python analizator
 
-Python mysql example: analizator
+Python example: analizator
 
 ```python
 # Лабораторна робота №1

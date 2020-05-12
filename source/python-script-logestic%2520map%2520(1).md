@@ -15,7 +15,7 @@ Modules used in program:
 
 ## python logestic%2520map%2520(1)
 
-Python mysql example: logestic%2520map%2520(1)
+Python example: logestic%2520map%2520(1)
 
 ```python
 #   Amirkabir Univesity of Technology

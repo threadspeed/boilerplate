@@ -8,7 +8,7 @@ Python script 'ex23'
 
 ## python ex23
 
-Python mysql example: ex23
+Python example: ex23
 
 ```python
 num: int= int(input('Digite um  numero entre 0 e 9999: '))

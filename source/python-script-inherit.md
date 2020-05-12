@@ -8,7 +8,7 @@ Python script 'inherit'
 
 ## python inherit
 
-Python mysql example: inherit
+Python example: inherit
 
 ```python
 # -*- coding: utf-8 -*-

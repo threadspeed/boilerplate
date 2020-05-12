@@ -16,7 +16,7 @@ Modules used in program:
 
 ## python 05 aggregate with threading
 
-Python mysql example: 05 aggregate with threading
+Python example: 05 aggregate with threading
 
 ```python
 import threading
